@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
 # jekyll
-gem "jekyll"
-gem "webrick", "~> 1.7"
+gem "jekyll", "4.3.2"
+gem "webrick", "1.8.1"
 
 # plugins
 group :jekyll_plugins do

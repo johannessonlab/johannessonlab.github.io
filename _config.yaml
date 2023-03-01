@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Johannesson lab
+description: The lab group of professor Hanna Johannesson at Stockholm University
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -10,10 +10,10 @@ baseurl: /lab-website-template
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
+  email: hanna.johannesson@su.se
+  google-scholar: __qwxZoAAAAJ
+  github: johannessonlab
+  twitter: JohannessonLab
   instagram: YourLabHandle
   youtube: YourLabChannel
 

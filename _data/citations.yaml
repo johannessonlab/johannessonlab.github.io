@@ -1,67 +1,1175 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1111/evo.14630
+  title: "Meiotic drive is associated with sexual incompatibility in\n           \
+    \ <i>Neurospora</i>"
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Aaron A. Vogan
+  - Jesper Svedberg
+  - "Magdalena Grudzinska\u2010Sterno"
+  - Hanna Johannesson
+  publisher: Evolution
+  date: '2022-10-03'
+  link: https://doi.org/grgzb3
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/76/11/10.1111_evo.14630/2/evo14630-fig-0003-m.jpeg?Expires=1680619092&Signature=yjVTE9iLvHVhmiqY7Sdm9hs2lDtE9upsw8-PdjwAPu-Xuml8hOcuT5YG0wy4h-2TNLChVUdwmaf8U1zxxtKgNa3Otu6wf6pydBlLYckIiYH96kxsnq6RtQhPYcycFGnbQhCOJwhq8awokXuiOdCxSqIqnQ0Rwphs5XzVOJXmCIxAnUjLt6fdmAr0qUehzVKciVgO1EN4Tjqmtba1~y6K8eoZdA-OKMf6FWgHtQm-CuO9dGRVoBR~EF8SNDix6fO6HMSmIblaE00etwmpMaZGHgm1fsfsGSBhXVNcZhkUB09wQ7gBHFoFSV~YYT0ieBhGwkVd0CRwrGSWCRa~dFvCyA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: 371951e0d83528c47866d160d7706da63f63df7ef79f8fed92122dad1091b579
+- id: doi:10.1073/pnas.2208575119
+  title: "Stage-specific transposon activity in the life cycle of the fairy-ring mushroom\n\
+    \            <i>Marasmius oreades</i>"
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Markus Hiltunen
+  - "Sandra Lorena Ament-Vel\xE1squez"
+  - Martin Ryberg
+  - Hanna Johannesson
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2022-11-07'
+  link: https://doi.org/grvc5v
+  image: https://www.pnas.org/cms/10.1073/pnas.2208575119/asset/3213f8bc-f3ac-45de-a8f2-d79d9e2a94a9/assets/images/large/pnas.2208575119fig01.jpg
+  _cache: 0aca8dcbab6dbe02c46101719208799af48374a371289bd4f783c96065c4bf34
+- id: doi:10.1016/j.cub.2019.07.025
+  title: Maintenance of High Genome Integrity over Vegetative Growth in the Fairy-Ring
+    Mushroom Marasmius oreades
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
+  - Markus Hiltunen
+  - Magdalena Grudzinska-Sterno
+  - Ola Wallerman
+  - Martin Ryberg
+  - Hanna Johannesson
+  publisher: Current Biology
+  date: '2019-08-01'
+  link: https://doi.org/gjfd2n
+  _cache: c3402a982c9bae098f2163c069c13d7a5fc3377034417d0b47f2a89d703dc1c0
+- id: doi:10.1093/bioinformatics/btaa975
+  title: 'ARBitR: an overlap-aware genome assembly scaffolder for linked reads'
+  authors:
+  - Markus Hiltunen
+  - Martin Ryberg
+  - Hanna Johannesson
+  publisher: Bioinformatics
+  date: '2020-11-20'
+  link: https://doi.org/gjqhp4
+  _cache: df48e33353bf950d887571954a98793a7db716f000a241e6cfc930b864cb1640
+- id: doi:10.1146/annurev-micro-041320-113730
+  title: On the Mechanistic Basis of Killer Meiotic Drive in Fungi
+  authors:
+  - Sven J. Saupe
+  - Hanna Johannesson
+  publisher: Annual Review of Microbiology
+  date: '2022-09-08'
+  link: https://doi.org/gqxgmw
+  image: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/micro/2022/micro.2022.76.issue-1/annurev-micro-041320-113730/20220828/images/medium/mi760305.f3.gif
+  _cache: 951035ab3108b5db9c77f0cfae8d744434e48b5d1c88a574c459841a809ee5e2
+- id: doi:10.1098/rspb.2022.0971
+  title: "Nuclear-specific gene expression in heterokaryons of the filamentous ascomycete\n\
+    \            <i>Neurospora tetrasperma</i>"
+  authors:
+  - "C\xE9cile Meunier"
+  - Iulia Darolti
+  - "Johan Reimeg\xE5rd"
+  - Judith E. Mank
+  - Hanna Johannesson
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2022-08-10'
+  link: https://doi.org/gqp6rm
+  image: https://royalsocietypublishing.org/cms/asset/e3580fae-7af3-4171-b054-fb0a435842eb/rspb20220971f01.gif
+  _cache: 263938389c2486ff41139559281282dbdc3db56a488beabec434ad8aec7983ad
+- id: doi:10.1038/s41559-022-01734-x
+  title: Allorecognition genes drive reproductive isolation in Podospora anserina
+  authors:
+  - "S. Lorena Ament-Vel\xE1squez"
+  - Aaron A. Vogan
+  - Alexandra Granger-Farbos
+  - Eric Bastiaans
+  - Ivain Martinossi-Allibert
+  - Sven J. Saupe
+  - Suzette de Groot
+  - Martin Lascoux
+  - Alfons J. M. Debets
+  - "Corinne Clav\xE9"
+  - Hanna Johannesson
+  publisher: Nature Ecology &amp; Evolution
+  date: '2022-05-12'
+  link: https://doi.org/gp8pc5
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41559-022-01734-x/MediaObjects/41559_2022_1734_Fig4_HTML.png?as=webp
+  _cache: 29bfb9efb409b087ac548b32ef973c70763d55e804ec95ecef535352b0449f87
+- id: doi:10.4148/1941-4765.2177
+  title: 'Transposon- and Genome Dynamics in the Fungal Genus Neurospora: Insights
+    from Nearly Gapless Genome Assemblies'
+  authors:
+  - Diem Nguyen
+  - Valentina Peona
+  - Per Unneberg
+  - Alexander Suh
+  - Patric Jern
+  - Hanna Johannesson
+  publisher: Fungal Genetics Reports
+  date: '2022-02-18'
+  link: https://doi.org/gph6g7
+  _cache: 014f5b2a7b177281009759a5622f8602c2d35570ebeecf96e50aaeb746b31d65
+- id: doi:10.1080/00275514.2021.1994815
+  title: The spore killers, fungal meiotic driver elements
+  authors:
+  - Aaron A. Vogan
+  - Ivain Martinossi-Allibert
+  - "S. Lorena Ament-Vel\xE1squez"
+  - Jesper Svedberg
+  - Hanna Johannesson
+  publisher: Mycologia
+  date: '2022-01-02'
+  link: https://doi.org/gphz9x
+  image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/umyc20/2022/umyc20.v114.i01/00275514.2021.1994815/20220314/images/medium/umyc_a_1994815_f0001_c.jpg
+  _cache: 691de979215bdbffe8520e65e8d676afc61228890813b6ff21889d53130a1013
+- id: doi:10.1128/MMBR.00016-21
+  title: Molecular Mechanisms and Evolutionary Consequences of Spore Killers in Ascomycetes
+  authors:
+  - Sarah Zanders
+  - Hanna Johannesson
+  publisher: Microbiology and Molecular Biology Reviews
+  date: '2021-12-15'
+  link: https://doi.org/gn3d75
+  image: https://journals.asm.org/cms/10.1128/MMBR.00016-21/asset/694d2a0e-72cd-44c5-8bef-5b2da12f4e39/assets/images/large/mmbr.00016-21-f003.jpg
+  _cache: 841488ef461427fea568e16234730dad00becf681f0d69d662dca899bb313868
+- id: doi:10.3389/ffunb.2021.716385
+  title: In-depth Phylogenomic Analysis of Arbuscular Mycorrhizal Fungi Based on a
+    Comprehensive Set of de novo Genome Assemblies
+  authors:
+  - Merce Montoliu-Nerin
+  - "Marisol S\xE1nchez-Garc\xEDa"
+  - Claudia Bergin
+  - Verena Esther Kutschera
+  - Hanna Johannesson
+  - James D. Bever
+  - Anna Rosling
+  publisher: Frontiers in Fungal Biology
+  date: '2021-09-29'
+  link: https://doi.org/gqcnws
+  image: https://www.frontiersin.org/files/Articles/716385/ffunb-02-716385-HTML/image_m/ffunb-02-716385-g001.jpg
+  _cache: d42ef568130ae38c433c1acb0abd4b92c2a4c0f406cb30b30d758778f3df46f7
+- id: doi:10.1093/gbe/evab126
+  title: The Assembled and Annotated Genome of the Fairy-Ring Fungus <i>Marasmius
+    oreades</i>
+  authors:
+  - Markus Hiltunen
+  - "Sandra Lorena Ament-Vel\xE1squez"
+  - Hanna Johannesson
+  publisher: Genome Biology and Evolution
+  date: '2021-05-29'
+  link: https://doi.org/gm5sc3
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/13/7/10.1093_gbe_evab126/4/m_evab126f1.jpeg?Expires=1680127443&Signature=426pho1Fg~NYlPs3q3pfYYSuj1d8SCAAnq30qkUg8YOsofcSs9yjk8YhTGWt7hlHmRcpf9FvGv~XlriEjlD9sI~ifpIJpeumx7rQI307SK8~3L5dhupKRD4POpmsNF1xpq1NmxTNYR4zraDJ8yTp5BfPIxT9Vz46qfFP63bRpnJBUJ0IkrBLDp2itFx5kmcZUF-iJ8T2xHDhi6ImMpoHa7~ay5WOqxlcCbRvbrUtJra~-pSLdNKn9BIRVqkK~f0OCAZ-YeTe5HIBZ66IwTV0wwSzrD-kvwBO4BQymGJT-DajnAHU2kK1EA9BUed-T7HVdeMnya4IeDG4KnnPBth49g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: c0dcda1ca0d18aece73845b5f50461e73e03c4673068ff8ca5526d45adf8c977
+- id: doi:10.3389/ffunb.2021.656386
+  title: 'The Plot Thickens: Haploid and Triploid-Like Thalli, Hybridization, and
+    Biased Mating Type Ratios in Letharia'
+  authors:
+  - "Sandra Lorena Ament-Vel\xE1squez"
+  - Veera Tuovinen
+  - "Linnea Bergstr\xF6m"
+  - Toby Spribille
+  - Dan Vanderpool
+  - Juri Nascimbene
+  - Yoshikazu Yamamoto
+  - "G\xF6ran Thor"
+  - Hanna Johannesson
+  publisher: Frontiers in Fungal Biology
+  date: '2021-05-26'
+  link: https://doi.org/gkp243
+  image: https://www.frontiersin.org/files/Articles/656386/ffunb-02-656386-HTML/image_m/ffunb-02-656386-g001.jpg
+  _cache: 7384b5d490ab7c219a7a64cda6549b5ef2a7097a0d4509caae4cb79e04140349
+- id: doi:10.1073/pnas.2026605118
+  title: An introgressed gene causes meiotic drive in<i>Neurospora sitophila</i>
+  authors:
+  - Jesper Svedberg
+  - Aaron A. Vogan
+  - Nicholas A. Rhoades
+  - Dilini Sarmarajeewa
+  - David J. Jacobson
+  - Martin Lascoux
+  - Thomas M. Hammond
+  - Hanna Johannesson
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2021-04-19'
+  link: https://doi.org/gkbpsx
+  image: https://www.pnas.org/cms/10.1073/pnas.2026605118/asset/19d431f7-f213-4c86-8817-d4e857a24c54/assets/images/large/pnas.2026605118fig01.jpg
+  _cache: 3e23b63fa07ca951d543ece2e7b74cc2bbe855fb097c85baff80421e87407ce9
+- id: doi:10.1101/gr.267609.120
+  title: The <i>Enterprise</i>, a massive transposon carrying <i>Spok</i> meiotic
+    drive genes
+  authors:
+  - Aaron A. Vogan
+  - "S. Lorena Ament-Vel\xE1squez"
+  - Eric Bastiaans
+  - Ola Wallerman
+  - Sven J. Saupe
+  - Alexander Suh
+  - Hanna Johannesson
+  publisher: Genome Research
+  date: '2021-04-19'
+  link: https://doi.org/gkmxd6
+  image: https://genome.cshlp.org/content/31/5/789/F2.small.gif
+  _cache: 6fb7284126bb8cc846fddc3db26c01a97c8b8a166288f2fa313ace59f7d058d8
+- id: doi:10.1111/evo.14214
+  title: Invasion and maintenance of meiotic drivers in populations of ascomycete
+    fungi
+  authors:
+  - "Ivain Martinossi\u2010Allibert"
+  - Carl Veller
+  - "S. Lorena Ament\u2010Vel\xE1squez"
+  - Aaron A. Vogan
+  - Claus Rueffler
+  - Hanna Johannesson
+  publisher: Evolution
+  date: '2021-05-01'
+  link: https://doi.org/gjjzjn
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/75/5/10.1111_evo.14214/2/m_evo14214-fig-0002.jpeg?Expires=1680682386&Signature=wvQa9KbMYBbWMe8shFyHSatZ7m8sIF9DS~EhqhebQYEzST6o-gplz18qj7NPytbsIBGiUWlWqe1ONPhJeyMlo5eSuYu6s1tBf5ZvGra9nGkstsxTtM-Vrj3LrBA0sE~OCWHpl--L4l7GzFVYC3kqFeSHnVjWq1~Ls9Ech7od1~KfNBGYWdGWlLC6mfCiiQpdOoy9dGyGFhkALK7MHFFWnEzDROMXpu-pjY3w~53KdA0Bvw7jsVbMLwPKx5vG8mZM0zQSyB5ICONRrxLUcJUS7cTtIJJSVxKTTGMV5Hntq6R4jc5p2rC6472BdHjsNQlwaFeo9nGGq5~1S8MIiwmwsQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: edc8e9e065b12ba030851c9d0e2e90daaa822e0fc41f683fa11965590b4750b6
+- id: doi:10.1093/molbev/msab040
+  title: Size Variation of the Nonrecombining Region on the Mating-Type Chromosomes
+    in the Fungal <i>Podospora anserina</i> Species Complex
+  authors:
+  - Fanny E Hartmann
+  - "Sandra Lorena Ament-Vel\xE1squez"
+  - Aaron A Vogan
+  - "Val\xE9rie Gautier"
+  - Stephanie Le Prieur
+  - Myriam Berramdane
+  - Alodie Snirc
+  - Hanna Johannesson
+  - Pierre Grognet
+  - Fabienne Malagnac
+  - Philippe Silar
+  - Tatiana Giraud
+  publisher: Molecular Biology and Evolution
+  date: '2021-02-08'
+  link: https://doi.org/gk8hkd
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/38/6/10.1093_molbev_msab040/1/m_msab040f1.jpeg?Expires=1680682499&Signature=nfGVAttR6ga4NbyR11oj-wXEMOCHwJQBpFNOD4HXA4EN4l6fcg0s5YxYdbaaCwaVeXO3rqx81BJIdEIrk8KOhkSykyppC2j2VHT5hdjUm4e8exM3tCjGg3DFzktrS0XDdFoF4BTC9LS4YgTtU4YeHKY9C2n9KfPfF4LkhIXebpC5d5zSFAJl2gGZouQCOq6m9blXWgfaAKuu6PQmBsFdm-OyA1ZqMEeQoOde4VuV8JbWKPPs0k9bZobgRhPTZji1~pxtbGOm3TIhRKnJ7FgaKEEFYMu-~fkn3dNyzL5E61ISi5dSS0H6L~BRK21qTSdyrYyvkymXP9ojOPqNXutfoA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: 0ea365ef88c5398b3f1e855f8db55802eadd418972507368729ff088387515c5
+- id: doi:10.3897/mycokeys.75.55968
+  title: The taxonomy of the model filamentous fungus Podospora anserina
+  authors:
+  - "S. Lorena Ament-Vel\xE1squez"
+  - Hanna Johannesson
+  - Tatiana Giraud
+  - Robert Debuchy
+  - Sven J. Saupe
+  - Alfons J. M. Debets
+  - Eric Bastiaans
+  - Fabienne Malagnac
+  - Pierre Grognet
+  - Leonardo Peraza-Reyes
+  - Pierre Gladieux
+  - "\xC5sa Kruys"
+  - Philippe Silar
+  - Sabine M. Huhndorf
+  - Andrew N. Miller
+  - Aaron A. Vogan
+  publisher: MycoKeys
+  date: '2020-11-25'
+  link: https://doi.org/gjfnn6
+  _cache: 75dd8280e60bc462c79869d01609717fe5f4c3265ac90cacf0396541dbf6014c
+- id: doi:10.1038/s41467-017-01317-6
+  title: Large-scale suppression of recombination predates genomic rearrangements
+    in Neurospora tetrasperma
+  authors:
+  - Yu Sun
+  - Jesper Svedberg
+  - Markus Hiltunen
+  - "P\xE1draic Corcoran"
+  - Hanna Johannesson
+  publisher: Nature Communications
+  date: '2017-10-26'
+  link: https://doi.org/gckbrn
+  _cache: be3559f999f79df090fb423d1636ff7b487d771b68c100833a33f4aa70430205
+- id: doi:10.1080/15592294.2020.1741758
+  title: Comparative analysis of genome-wide DNA methylation in <i>Neurospora</i>
+  authors:
+  - Sara Hosseini
+  - "C\xE9cile Meunier"
+  - Diem Nguyen
+  - "Johan Reimeg\xE5rd"
+  - Hanna Johannesson
+  publisher: Epigenetics
+  date: '2020-03-31'
+  link: https://doi.org/gjfjbv
+  _cache: b76305d653ec8a0d38a3a55f96b5d55014c9db4ed5dd7fe9cd6138703b6ea8b3
+- id: doi:10.1007/978-1-0716-0199-0_13
+  title: 'Neurospora from Natural Populations: Population Genomics Insights into the
+    Life History of a Model Microbial Eukaryote'
+  authors:
+  - Pierre Gladieux
+  - Fabien De Bellis
+  - Christopher Hann-Soden
+  - Jesper Svedberg
+  - Hanna Johannesson
+  - John W. Taylor
+  publisher: Methods in Molecular Biology
+  date: '2020-01-01'
+  link: https://doi.org/grvc87
+  _cache: 9a8fa0e47f7f0d9f5afd14c7eb4bd4c819b6b03e6936feeb82345e9712b120ee
+- id: doi:10.1038/s41598-020-58025-3
+  title: Building de novo reference genome assemblies of complex eukaryotic microorganisms
+    from single nuclei
+  authors:
+  - Merce Montoliu-Nerin
+  - "Marisol S\xE1nchez-Garc\xEDa"
+  - Claudia Bergin
+  - Manfred Grabherr
+  - Barbara Ellis
+  - Verena Esther Kutschera
+  - Marcin Kierczak
+  - Hanna Johannesson
+  - Anna Rosling
+  publisher: Scientific Reports
+  date: '2020-01-28'
+  link: https://doi.org/ggx5b6
+  _cache: 46aed785e1cc7ea19ab7af420ff24074767f13d4487463bd1d4e9ae47e8accec
+- id: doi:10.7554/eLife.46454
+  title: Combinations of Spok genes create multiple meiotic drivers in Podospora
+  authors:
+  - Aaron A Vogan
+  - "S Lorena Ament-Vel\xE1squez"
+  - Alexandra Granger-Farbos
+  - Jesper Svedberg
+  - Eric Bastiaans
+  - Alfons JM Debets
+  - Virginie Coustou
+  - "H\xE9l\xE8ne Yvanne"
+  - "Corinne Clav\xE9"
+  - Sven J Saupe
+  - Hanna Johannesson
   publisher: eLife
+  date: '2019-07-26'
+  link: https://doi.org/gjfgx7
+  _cache: 0d41ba9b91e1b6f68a46f09f558b395d2d5c9d00ba53fb08a148904c6979b7a6
+- id: doi:10.1534/genetics.119.302122
+  title: Identification of <i>rfk-1</i>, a Meiotic Driver Undergoing RNA Editing in
+    <i>Neurospora</i>
+  authors:
+  - Nicholas A Rhoades
+  - Austin M Harvey
+  - Dilini A Samarajeewa
+  - Jesper Svedberg
+  - Aykhan Yusifov
+  - Anna Abusharekh
+  - Pennapa Manitchotpisit
+  - Daren W Brown
+  - Kevin J Sharp
+  - David G Rehard
+  - Joshua Peters
+  - Xavier Ostolaza-Maldonado
+  - Jackson Stephenson
+  - Patrick K T Shiu
+  - Hanna Johannesson
+  - Thomas M Hammond
+  publisher: Genetics
+  date: '2019-03-27'
+  link: https://doi.org/gjfcmv
+  _cache: 9e5417b02a1890f7af9e568d255e20dc5f02f206f829a546a3517e4401ad2172
+- id: doi:10.1016/j.cub.2018.12.022
+  title: Two Basidiomycete Fungi in the Cortex of Wolf Lichens
+  authors:
+  - Veera Tuovinen
+  - Stefan Ekman
+  - "G\xF6ran Thor"
+  - Dan Vanderpool
+  - Toby Spribille
+  - Hanna Johannesson
+  publisher: Current Biology
+  date: '2019-02-01'
+  link: https://doi.org/gftht5
+  _cache: edd434784286ff41c2b34aa5a4783f594b54e7f21c5bb0c203461a5aa27428f0
+- id: doi:10.1038/s41396-018-0294-7
+  title: 'Asexual reproduction and growth rate: independent and plastic life history
+    traits in Neurospora crassa'
+  authors:
+  - Jennifer L. Anderson
+  - Bart P. S. Nieuwenhuis
+  - Hanna Johannesson
+  publisher: The ISME Journal
+  date: '2018-11-09'
+  link: https://doi.org/gjfc4z
+  _cache: 8e762f14ceb6bdc97e20b79f658b6d8fa7abe4eb8d3729add52dbe76af1147e3
+- id: doi:10.1038/s41467-018-06562-x
+  title: Convergent evolution of complex genomic rearrangements in two fungal meiotic
+    drive elements
+  authors:
+  - Jesper Svedberg
+  - Sara Hosseini
+  - Jun Chen
+  - Aaron A. Vogan
+  - Iva Mozgova
+  - Lars Hennig
+  - Pennapa Manitchotpisit
+  - Anna Abusharekh
+  - Thomas M. Hammond
+  - Martin Lascoux
+  - Hanna Johannesson
+  publisher: Nature Communications
+  date: '2018-10-12'
+  link: https://doi.org/gfc385
+  _cache: 7ae04be43b5f944a8ca0a055444d01c64e104204f999c08748412af7bce40c67
+- id: doi:10.1111/1462-2920.14069
+  title: Host genetic variation strongly influences the microbiome structure and function
+    in fungal fruiting-bodies
+  authors:
+  - Mari Pent
+  - Markus Hiltunen
+  - "Kadri P\xF5ldmaa"
+  - Brendan Furneaux
+  - Falk Hildebrand
+  - Hanna Johannesson
+  - Martin Ryberg
+  - Mohammad Bahram
+  publisher: Environmental Microbiology
+  date: '2018-03-25'
+  link: https://doi.org/gjd9v3
+  _cache: a847a51bd771c4507cdffa4d941f58b2da7ad9a90a3a009713af58a9c3f35afe
+- id: doi:10.1038/s41598-018-22470-y
+  title: 'Sharing of photobionts in sympatric populations of Thamnolia and Cetraria
+    lichens: evidence from high-throughput sequencing'
+  authors:
+  - "Ioana Onu\u021B-Br\xE4nnstr\xF6m"
+  - Mitchell Benjamin
+  - Douglas G. Scofield
+  - "Starri Hei\xF0marsson"
+  - Martin G. I. Andersson
+  - "Eva S. Lindstr\xF6m"
+  - Hanna Johannesson
+  publisher: Scientific Reports
+  date: '2018-03-13'
+  link: https://doi.org/gc8k6v
+  _cache: 6228dbd55e8ed75746c6e7925945a2cce574786ef519933cd8dda149e34b711d
+- id: doi:10.1086/695803
+  title: Multilevel Selection in the Filamentous Ascomycete<i>Neurospora tetrasperma</i>
+  authors:
+  - "C\xE9cile Meunier"
+  - Sara Hosseini
+  - Nahid Heidari
+  - Zaywa Maryush
+  - Hanna Johannesson
+  publisher: The American Naturalist
   date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+  link: https://doi.org/gc9wgh
+  _cache: 29d7dd1655f54b381f413a596909a37a22f0257cf3dc51c0d14d6dcdf6d315d3
+- id: doi:10.1017/S0024282917000615
+  title: <i>Thamnolia tundrae</i> sp. nov., a cryptic species and putative glacial
+    relict
+  authors:
+  - "Ioana ONUT-BR\xC4NNSTR\xD6M"
+  - Hanna JOHANNESSON
+  - Leif TIBELL
+  publisher: The Lichenologist
+  date: '2018-01-01'
+  link: https://doi.org/gc85n8
+  _cache: 52d45596df1c8f390f5cb58861e553e829f585dc77a54836591a9ee23854c242
+- id: doi:10.1002/ece3.2917
+  title: A worldwide phylogeography of the whiteworm lichens<i>Thamnolia</i>reveals
+    three lineages with distinct habitats and evolutionary histories
+  authors:
+  - "Ioana Onu\u0163-Br\xE4nnstr\xF6m"
+  - Leif Tibell
+  - Hanna Johannesson
+  publisher: Ecology and Evolution
+  date: '2017-04-13'
+  link: https://doi.org/f97r43
+  _cache: f99242a152d5ac986ac235debadeca2912bd7c3175924543269206c43dd6e320
+- id: doi:10.1534/g3.116.033860
+  title: Epigenetic Control of Phenotypic Plasticity in the Filamentous Fungus <i>Neurospora
+    crassa</i>
+  authors:
+  - Ilkka Kronholm
+  - Hanna Johannesson
+  - Tarmo Ketola
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2016-12-01'
+  link: https://doi.org/f3t7qm
+  _cache: 45d2ecaa870defe543fe35e86594b1b20aaf00aabceeddffc6c0059b2a733380
+- id: doi:10.1126/science.aaf8287
+  title: Basidiomycete yeasts in the cortex of ascomycete macrolichens
+  authors:
+  - Toby Spribille
+  - Veera Tuovinen
+  - Philipp Resl
+  - Dan Vanderpool
+  - Heimo Wolinski
+  - M. Catherine Aime
+  - Kevin Schneider
+  - Edith Stabentheiner
+  - Merje Toome-Heller
+  - "G\xF6ran Thor"
+  - Helmut Mayrhofer
+  - Hanna Johannesson
+  - John P. McCutcheon
+  publisher: Science
+  date: '2016-07-29'
+  link: https://doi.org/f3rvgt
+  _cache: 8a50535820a909617995cb3e0f385b098506023aa4351c1651bdba758c05e954
+- id: doi:10.1016/j.tree.2016.02.001
+  title: The Ecology and Evolutionary Dynamics of Meiotic Drive
+  authors:
+  - Anna K. Lindholm
+  - Kelly A. Dyer
+  - "Ren\xE9e C. Firman"
+  - Lila Fishman
+  - Wolfgang Forstmeier
+  - Luke Holman
+  - Hanna Johannesson
+  - Ulrich Knief
+  - Hanna Kokko
+  - Amanda M. Larracuente
+  - Andri Manser
+  - Catherine Montchamp-Moreau
+  - Varos G. Petrosyan
+  - Andrew Pomiankowski
+  - Daven C. Presgraves
+  - Larisa D. Safronova
+  - Andreas Sutter
+  - Robert L. Unckless
+  - Rudi L. Verspoor
+  - Nina Wedell
+  - Gerald S. Wilkinson
+  - Tom A.R. Price
+  publisher: Trends in Ecology &amp; Evolution
+  date: '2016-04-01'
+  link: https://doi.org/f3rxrw
+  _cache: 69ff61fe7226f35f82a5a57bb427a9d26935fe9ae7d396dfe693e2a55b0b0a98
+- id: doi:10.1101/gr.197244.115
+  title: Introgression maintains the genetic integrity of the mating-type determining
+    chromosome of the fungus <i>Neurospora tetrasperma</i>
+  authors:
+  - "P\xE1draic Corcoran"
+  - Jennifer L. Anderson
+  - David J. Jacobson
+  - Yu Sun
+  - Peixiang Ni
+  - Martin Lascoux
+  - Hanna Johannesson
+  publisher: Genome Research
+  date: '2016-02-18'
+  link: https://doi.org/f3pfj2
+  _cache: 2d9d65d90a6060a69ec20d4aad9348ce639072f6a773c8e18b0c9e6a7228cda8
+- id: doi:10.1016/j.fbr.2015.06.001
+  title: 'Contrasted patterns in mating-type chromosomes in fungi: Hotspots versus
+    coldspots of recombination'
+  authors:
+  - Alexander Idnurm
+  - Michael E. Hood
+  - Hanna Johannesson
+  - Tatiana Giraud
+  publisher: Fungal Biology Reviews
+  date: '2015-12-01'
+  link: https://doi.org/f3p698
+  _cache: 897f4b22b128c8527adcb0dc2367402a8e0577c87cf9892c7a4305cd4dbc20a2
+- id: doi:10.1101/gr.175653.114
+  title: 'Intron evolution in <i>Neurospora</i>: the role of mutational bias and selection'
+  authors:
+  - Yu Sun
+  - Carrie A. Whittle
+  - "P\xE1draic Corcoran"
+  - Hanna Johannesson
+  publisher: Genome Research
+  date: '2014-10-23'
+  link: https://doi.org/f3nzkg
+  _cache: f4c07160a5a44618c3cf77231db6839a7f37e0aa463a03f09af7821712495eb5
+- id: doi:10.1016/j.ympev.2014.05.007
+  title: A global multilocus analysis of the model fungus Neurospora reveals a single
+    recent origin of a novel genetic system
+  authors:
+  - "P\xE1draic Corcoran"
+  - Jeremy R. Dettman
+  - Yu Sun
+  - Eva M. Luque
+  - Luis M. Corrochano
+  - John W. Taylor
+  - Martin Lascoux
+  - Hanna Johannesson
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2014-09-01'
+  link: https://doi.org/f2zpsd
+  _cache: 2e8f5ddb21a96acf6f3f371656aeda33c5a79b177c40dfbd4586629b5abf47ff
+- id: doi:10.1098/rspb.2014.0084
+  title: 'Nuclear interactions in a heterokaryon: insight from the model<i>Neurospora
+    tetrasperma</i>'
+  authors:
+  - Nicklas Samils
+  - "Jon\xE0s Oliva"
+  - Hanna Johannesson
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2014-07-07'
+  link: https://doi.org/f23r3b
+  _cache: 149bb369d77f8ba582df2a4a9bd6970bf94f46bb6bc519c36ce42b11d221987f
+- id: doi:10.1111/jeb.12386
+  title: Dynamics of transcriptome evolution in the model eukaryote Neurospora
+  authors:
+  - C. A. Whittle
+  - Y. Sun
+  - H. Johannesson
+  publisher: Journal of Evolutionary Biology
+  date: '2014-05-22'
+  link: https://doi.org/f24hcs
+  _cache: 9bdd6c0e1e4ae524ce65612c50c5b1b20c98608d7c0c9c98975bdb46e1dad50f
+- id: doi:10.1007/s00203-013-0923-5
+  title: Coexistence and expression profiles of two alternative splice variants of
+    the pheromone receptor gene pre-1 in Neurospora crassa
+  authors:
+  - Rebecka Strandberg
+  - Georgios Tzelepis
+  - Hanna Johannesson
+  - Magnus Karlsson
+  publisher: Archives of Microbiology
+  date: '2013-09-11'
+  link: https://doi.org/f23txx
+  _cache: 86136a4ca772b196006799ad342f5f30a30d2189ea13d45e51c67f217a9c0f7f
+- id: doi:10.1093/molbev/mst143
+  title: Evolutionary Dynamics of Sex-Biased Genes in a Hermaphrodite Fungus
+  authors:
+  - Carrie A. Whittle
+  - Hanna Johannesson
+  publisher: Molecular Biology and Evolution
+  date: '2013-08-20'
+  link: https://doi.org/f2z7kj
+  _cache: 406c02958271418cfa79ede6754151e0e8967660971e65e1a31d68b6e3e4cd53
+- id: doi:10.1098/rspb.2013.0862
+  title: Sex-linked transcriptional divergence in the hermaphrodite fungus<i>Neurospora
+    tetrasperma</i>
+  authors:
+  - Nicklas Samils
+  - Anastasia Gioti
+  - Magnus Karlsson
+  - Yu Sun
+  - Takao Kasuga
+  - Eric Bastiaans
+  - Zheng Wang
+  - Ning Li
+  - Jeffrey P. Townsend
+  - Hanna Johannesson
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2013-08-07'
+  link: https://doi.org/f23bbh
+  _cache: 392a689a31c9b7047d59110430e25b5d86f55c2566b424e6eefc19a3fcff596f
+- id: doi:10.1111/evo.12206
+  title: '<i>NEUROSPORA</i>AND THE DEAD-END HYPOTHESIS: GENOMIC CONSEQUENCES OF SELFING
+    IN THE MODEL GENUS'
+  authors:
+  - Anastasia Gioti
+  - Jason E. Stajich
+  - Hanna Johannesson
+  publisher: Evolution
+  date: '2013-08-05'
+  link: https://doi.org/f2z35z
+  _cache: 83578e3bab1ad6a6100e332a90fd66b876d4cf982326ca4ad6fc3d0d2e2d6b21
+- id: doi:10.1016/j.funbio.2012.06.006
+  title: Quantifying functional heterothallism in the pseudohomothallic ascomycete
+    Neurospora tetrasperma
+  authors:
+  - "P\xE1draic Corcoran"
+  - David J. Jacobson
+  - Martin I. Bidartondo
+  - Patrick C. Hickey
+  - Jennifer F. Kerekes
+  - John W. Taylor
+  - Hanna Johannesson
+  publisher: Fungal Biology
+  date: '2012-09-01'
+  link: https://doi.org/f24hfz
+  _cache: 4777e36ab95bbcd7ab25a6aef2f5878c70e96d35b0c49e5e1836300d1b2f35e9
+- id: doi:10.1093/molbev/mss132
+  title: Unidirectional Evolutionary Transitions in Fungal Mating Systems and the
+    Role of Transposable Elements
+  authors:
+  - Anastasia Gioti
+  - Alexandra A. Mushegian
+  - Rebecka Strandberg
+  - Jason E. Stajich
+  - Hanna Johannesson
+  publisher: Molecular Biology and Evolution
+  date: '2012-07-10'
+  link: https://doi.org/f23zvs
+  _cache: 80d64578552fe45f047f149c1e388262edd609d45848266700e719dca641108a
+- id: doi:10.1111/j.1574-6941.2012.01366.x
+  title: Occurrence and impact of the root-rot biocontrol agent Phlebiopsis gigantea
+    on soil fungal communities in Picea abies forests of northern Europe
+  authors:
+  - Audrius Menkis
+  - "Daiva Burokien\u0117"
+  - Talis Gaitnieks
+  - Antti Uotila
+  - Hanna Johannesson
+  - Anna Rosling
+  - Roger D. Finlay
+  - Jan Stenlid
+  - Rimvydas Vasaitis
+  publisher: FEMS Microbiology Ecology
+  date: '2012-04-18'
+  link: https://doi.org/f225wk
+  _cache: cff2dca0ac46649354ab6a15d7d2d68f8f7fe3915e2d87499247662bd43b2b4e
+- id: doi:10.1093/molbev/mss193
+  title: Deciphering the Relationship between Mating System and the Molecular Evolution
+    of the Pheromone and Receptor Genes in Neurospora
+  authors:
+  - Kristiina Nygren
+  - Rebecka Strandberg
+  - Anastasia Gioti
+  - Magnus Karlsson
+  - Hanna Johannesson
+  publisher: Molecular Biology and Evolution
+  date: '2012-08-31'
+  link: https://doi.org/f23b3p
+  _cache: c34c12f33179101a96b1283fb8420ab78778fbc271fd6c4a14011d8a3f6d7bd7
+- id: doi:10.1186/1471-2148-12-229
+  title: Analyses of expressed sequence tags in Neurosporareveal rapid evolution of
+    genes associated with the early stages of sexual reproduction in fungi
+  authors:
+  - Kristiina Nygren
+  - Andreas Wallberg
+  - Nicklas Samils
+  - Jason E Stajich
+  - Jeffrey P Townsend
+  - Magnus Karlsson
+  - Hanna Johannesson
+  publisher: BMC Evolutionary Biology
+  date: '2012-11-27'
+  link: https://doi.org/f2zpw8
+  _cache: 263ffaec423bc90351e1a2a6f900e26f9ee43e9e763be6d338591a5b4e875e93
+- id: doi:10.1371/journal.pgen.1002820
+  title: Large-Scale Introgression Shapes the Evolution of the Mating-Type Chromosomes
+    of the Filamentous Ascomycete Neurospora tetrasperma
+  authors:
+  - Yu Sun
+  - "P\xE1draic Corcoran"
+  - Audrius Menkis
+  - Carrie A. Whittle
+  - Siv G. E. Andersson
+  - Hanna Johannesson
+  publisher: PLoS Genetics
+  date: '2012-07-26'
+  link: https://doi.org/f23p24
+  _cache: f361ecbf48486647fa666637c26fa01458533a81aaded1222fa38012697bc33b
+- id: doi:10.1016/j.fgb.2012.05.004
+  title: Sex-specific gene expression during asexual development of Neurospora crassa
+  authors:
+  - Zheng Wang
+  - Koryu Kin
+  - "Francesc L\xF3pez-Gir\xE1ldez"
+  - Hanna Johannesson
+  - Jeffrey P. Townsend
+  publisher: Fungal Genetics and Biology
+  date: '2012-07-01'
+  link: https://doi.org/f23c4z
+  _cache: 750749d5ec03e456f86eaf27c2ac34cf3cdfc3c274138c2f118cdfeac3583dbd
+- id: doi:10.1093/molbev/mss065
+  title: Genome-Wide Selection on Codon Usage at the Population Level in the Fungal
+    Model Organism Neurospora crassa
+  authors:
+  - C. A. Whittle
+  - Y. Sun
+  - H. Johannesson
+  publisher: Molecular Biology and Evolution
+  date: '2012-02-14'
+  link: https://doi.org/f23gvx
+  _cache: a9065d326179446d5dd9bdbdacce93ac86f0ba3570cbab331c177a527e58d517
+- id: doi:10.1002/bies.201200110
+  title: Neurospora as a model to empirically test central hypotheses in eukaryotic
+    genome evolution
+  authors:
+  - Carrie A. Whittle
+  - Hanna Johannesson
+  publisher: BioEssays
+  date: '2012-09-12'
+  link: https://doi.org/fz6nhg
+  _cache: ee1e2ed6870afe19179796e691a59c7b94e13ae9ff997fdf1287ac40b8f15943
+- id: doi:10.1016/j.funeco.2011.07.001
+  title: Initial fungal colonizer affects mass loss and fungal community development
+    in Picea abies logs 6yr after inoculation
+  authors:
+  - Daniel L. Lindner
+  - Rimvydas Vasaitis
+  - "Ariana Kubartov\xE1"
+  - "Johan Allm\xE9r"
+  - Hanna Johannesson
+  - Mark T. Banik
+  - Jan Stenlid
+  publisher: Fungal Ecology
+  date: '2011-12-01'
+  link: https://doi.org/b6xmjx
+  _cache: 376e291af5766c490cd61532b1657b47ef38c9bdb7decb99131adb1cc82b3e4a
+- id: doi:10.1016/j.ympev.2011.03.023
+  title: A comprehensive phylogeny of Neurospora reveals a link between reproductive
+    mode and molecular evolution in fungi
+  authors:
+  - Kristiina Nygren
+  - Rebecka Strandberg
+  - Andreas Wallberg
+  - Benoit Nabholz
+  - Tim Gustafsson
+  - "Dania Garc\xEDa"
+  - "Jos\xE9 Cano"
+  - Josep Guarro
+  - Hanna Johannesson
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2011-06-01'
+  link: https://doi.org/fkgxwn
+  _cache: 63723b5c56ba2a549bdbbc7081545c14d1a4b31ecc5a313fa34994a2b723ec86
+- id: doi:10.1007/978-3-642-19974-5_12
+  title: 12 Evolution of Mating-Type Loci and Mating-Type Chromosomes in Model Species
+    of Filamentous Ascomycetes
+  authors:
+  - Carrie A. Whittle
+  - Hanna Johannesson
+  publisher: Evolution of Fungi and Fungal-Like Organisms
+  date: '2011-01-01'
+  link: https://doi.org/bnq3w7
+  _cache: 1fa6eb5f47bd1f393b9d7b473f8c51b2bc52e1e399e24b1cd325358c69f8bc5f
+- id: doi:10.1016/j.fgb.2011.02.005
+  title: Consequences of reproductive mode on genome evolution in fungi
+  authors:
+  - C.A. Whittle
+  - K. Nygren
+  - H. Johannesson
+  publisher: Fungal Genetics and Biology
+  date: '2011-07-01'
+  link: https://doi.org/cc7fpt
+  _cache: 0d0a4275c09e0afc0ccdfa9aca38ef960e2b35bc524611cc84ae56caed3fc2d5
+- id: doi:10.1093/gbe/evr018
+  title: Evolution of Synonymous Codon Usage in Neurospora tetrasperma and Neurospora
+    discreta
+  authors:
+  - C. A. Whittle
+  - Y. Sun
+  - H. Johannesson
+  publisher: Genome Biology and Evolution
+  date: '2011-01-01'
+  link: https://doi.org/cfm6mb
+  _cache: 1035b2bfb153782ec403ff53643573d70047b805fefb929b018aa1557e6ae25b
+- id: doi:10.1128/EC.00284-10
+  title: Degeneration in Codon Usage within the Region of Suppressed Recombination
+    in the Mating-Type Chromosomes of Neurospora tetrasperma
+  authors:
+  - C. A. Whittle
+  - Y. Sun
+  - H. Johannesson
+  publisher: Eukaryotic Cell
+  date: '2011-04-01'
+  link: https://doi.org/bkbkqm
+  _cache: a2b07fdbcb2a3723b76b639810e9bbe7d35b6e1f77081b1ad4e564d34ddee789
+- id: doi:10.1038/hdy.2011.11
+  title: Evidence of the accumulation of allele-specific non-synonymous substitutions
+    in the young region of recombination suppression within the mating-type chromosomes
+    of Neurospora tetrasperma
+  authors:
+  - C A Whittle
+  - H Johannesson
+  publisher: Heredity
+  date: '2011-03-09'
+  link: https://doi.org/bbg5x7
+  _cache: d2c47b10e26cc3edfa7acc886dd57e994de9f40729aa6021e1c4db93b8df4f35
+- id: doi:10.1186/1471-2148-10-234
+  title: Gene genealogies indicates abundant gene conversions and independent evolutionary
+    histories of the mating-type chromosomes in the evolutionary history of Neurospora
+    tetrasperma
+  authors:
+  - Audrius Menkis
+  - Carrie A Whittle
+  - Hanna Johannesson
+  publisher: BMC Evolutionary Biology
+  date: '2010-07-31'
+  link: https://doi.org/d89tvq
+  _cache: 86bf4c5aa4614ced7a0a2accebde8ca97897c61c7a25b2b9bd42569fac01bdf3
+- id: doi:10.1016/j.fgb.2010.06.008
+  title: Conflict between reproductive gene trees and species phylogeny among heterothallic
+    and pseudohomothallic members of the filamentous ascomycete genus Neurospora
+  authors:
+  - Rebecka Strandberg
+  - Kristiina Nygren
+  - Audrius Menkis
+  - Timothy Y. James
+  - Lotta Wik
+  - Jason E. Stajich
+  - Hanna Johannesson
+  publisher: Fungal Genetics and Biology
+  date: '2010-10-01'
+  link: https://doi.org/c6vhqd
+  _cache: 4b4ca9122368097faa1d5275f5f2850797067a4cd6649105277c6700937b287c
+- id: doi:10.1016/j.mycres.2009.01.006
+  title: Trikaryon formation and nuclear selection in pairings between heterokaryons
+    and homokaryons of the root rot pathogen Heterobasidion parviporum
+  authors:
+  - Timothy Y. James
+  - Stina B.K. Johansson
+  - Hanna Johannesson
+  publisher: Mycological Research
+  date: '2009-05-01'
+  link: https://doi.org/b2v9xt
+  _cache: a4230ed0f90a0cd8dfb55c45468ec3b3d54f600ad7458b2b28ce159f52b9885b
+- id: doi:10.1111/j.1558-5646.2008.00462.x
+  title: EVOLUTIONARY SIGNIFICANCE OF IMBALANCED NUCLEAR RATIOS WITHIN HETEROKARYONS
+    OF THE BASIDIOMYCETE FUNGUS<i>HETEROBASIDION PARVIPORUM</i>
+  authors:
+  - Timothy Y. James
+  - Jan Stenlid
+  - "\xC5ke Olson"
+  - Hanna Johannesson
+  publisher: Evolution
+  date: '2008-09-01'
+  link: https://doi.org/b8tfgr
+  _cache: 7aa746f75e25321d3682c67762f94b5c6624283a66692cdc97d0ec8fc237b4e0
+- id: doi:10.1111/j.1420-9101.2009.01801.x
+  title: Phylogenetic and biological species diversity within the<i>Neurospora tetrasperma</i>complex
+  authors:
+  - A. MENKIS
+  - E. BASTIAANS
+  - D. J. JACOBSON
+  - H. JOHANNESSON
+  publisher: Journal of Evolutionary Biology
+  date: '2009-09-01'
+  link: https://doi.org/cvzmn4
+  _cache: d90728b295988bf15845f1dfe3822e18a74e6b796510dad92548a284799766a2
+- id: doi:10.1371/journal.pgen.1000030
+  title: The Mating-Type Chromosome in the Filamentous Ascomycete Neurospora tetrasperma
+    Represents a Model for Early Evolution of Sex Chromosomes
+  authors:
+  - Audrius Menkis
+  - David J. Jacobson
+  - Tim Gustafsson
+  - Hanna Johannesson
+  publisher: PLoS Genetics
+  date: '2008-03-14'
+  link: https://doi.org/dcwf7x
+  _cache: 8a6f071b5352438707d16a06d5f7a61f09fd464b379fc21f0c4ae301f43473be
+- id: doi:10.1093/molbev/msm253
+  title: The Evolution of the Pheromonal Signal System and Its Potential Role for
+    Reproductive Isolation in Heterothallic Neurospora
+  authors:
+  - Magnus Karlsson
+  - Kristiina Nygren
+  - Hanna Johannesson
+  publisher: Molecular Biology and Evolution
+  date: '2007-11-17'
+  link: https://doi.org/dzb7jx
+  _cache: fed15da06df5851a1d84a3a85573a9d531c58b8e8442aa22bd6c498509efc363
+- id: doi:10.1186/1471-2148-8-109
+  title: The evolutionary trajectory of the mating-type (mat) genes in Neurosporarelates
+    to reproductive behavior of taxa
+  authors:
+  - Lotta Wik
+  - Magnus Karlsson
+  - Hanna Johannesson
+  publisher: BMC Evolutionary Biology
+  date: '2008-04-11'
+  link: https://doi.org/ftdsq4
+  _cache: 2f4fc61f8e40ca5e4406a62e088d95153447f77e64d94aa4c73d3bcd084da733
+- id: doi:10.1016/j.fgb.2006.02.003
+  title: Phase-specific gene expression underlying morphological adaptations of the
+    dimorphic human pathogenic fungus, Coccidioides posadasii
+  authors:
+  - H. Johannesson
+  - T. Kasuga
+  - R.A. Schaller
+  - B. Good
+  - M.J. Gardner
+  - J.P. Townsend
+  - G.T. Cole
+  - J.W. Taylor
+  publisher: Fungal Genetics and Biology
+  date: '2006-08-01'
+  link: https://doi.org/dxdqg4
+  _cache: 772991c80905b046659c7e5e00845607fe389d506aab59321bcd61818ae64f92
+- id: doi:10.1017/CBO9780511541797
+  title: Fungi in the Environment
+  authors: []
+  publisher: Cambridge University Press
+  date: '2007-04-12'
+  link: https://doi.org/fwh8x3
+  _cache: f8026ac9a46ecc1040185229eb7eba58a99fabaa5325bf8354f637901c94f0aa
+- id: doi:10.1534/genetics.105.040923
+  title: Concerted Evolution in the Repeats of an Immunomodulating Cell Surface Protein,
+    SOWgp, of the Human Pathogenic Fungi <i>Coccidioides immitis</i> and <i>C. posadasii</i>
+  authors:
+  - Hanna Johannesson
+  - Jeffrey P Townsend
+  - Chiung-Yu Hung
+  - Garry T Cole
+  - John W Taylor
+  publisher: Genetics
+  date: '2005-09-01'
+  link: https://doi.org/bdtwsr
+  _cache: 5da18f30c1121b0709d1a45133b09cff30c77c2ef55f9e0c536446b1ddb33f17
+- id: doi:10.1016/j.fgb.2004.01.002
+  title: Nuclear reassortment between vegetative mycelia in natural populations of
+    the basidiomycete Heterobasidion annosum
+  authors:
+  - Hanna Johannesson
+  - Jan Stenlid
+  publisher: Fungal Genetics and Biology
+  date: '2004-05-01'
+  link: https://doi.org/bmcqv5
+  _cache: a0aa2055b111d0538d4b92bad1088b7376ff0a429d431fac9fab00bec8c8dc54
+- id: doi:10.1093/molbev/msh124
+  title: Positive Directional Selection in the Proline-Rich Antigen (PRA) Gene Among
+    the Human Pathogenic Fungi Coccidioides immitis, C. posadasii and Their Closest
+    Relatives
+  authors:
+  - H. Johannesson
+  publisher: Molecular Biology and Evolution
+  date: '2004-02-12'
+  link: https://doi.org/fq6vsn
+  _cache: c1da432cb7b2b34eab79233cf11511c112fca26213b33743865071f887454888
+- id: doi:10.1016/S1055-7903(03)00087-3
+  title: Molecular markers reveal genetic isolation and phylogeography of the S and
+    F intersterility groups of the wood-decay fungus Heterobasidion annosum
+  authors:
+  - Hanna Johannesson
+  - Jan Stenlid
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2003-10-01'
+  link: https://doi.org/cpkkzs
+  _cache: 2eddf2c562973e15291c9bab9bc6551944f232b7e48cb76bd53a3167acb9abfa
+- id: doi:10.1046/j.1365-294X.2003.01858.x
+  title: Parental tracking in the postfire wood decay ascomycete<i>Daldinia loculata</i>using
+    highly variable nuclear gene loci
+  authors:
+  - A. Guidot
+  - H. Johannesson
+  - A. Dahlberg
+  - J. Stenlid
+  publisher: Molecular Ecology
+  date: '2003-05-27'
+  link: https://doi.org/chb37c
+  _cache: d6662baa862dc5803735bb23a3a0bb0dad025ec564e142c6555468d0a7e17e4c
+- id: doi:10.1016/S1087-1845(02)00011-7
+  title: Transmission of double-stranded RNA in Heterobasidion annosum
+  authors:
+  - Katarina Ihrmark
+  - Hanna Johannesson
+  - "Elna Stenstr\xF6m"
+  - Jan Stenlid
+  publisher: Fungal Genetics and Biology
+  date: '2002-07-01'
+  link: https://doi.org/c2893m
+  _cache: cf538b7f4c99cec1ccb8e05a4340011cf39bea3859cd84d815b08f932829e1a3
+- id: doi:10.1017/S0953756203008359
+  title: Albatrellus citrinus sp. nov., connected to Picea abies on lime rich soils
+  authors:
+  - Svengunnar Ryman
+  - Petra Fransson
+  - Hanna Johannesson
+  - Eric Danell
+  publisher: Mycological Research
+  date: '2003-10-01'
+  link: https://doi.org/b3sx3x
+  _cache: 478c923635aa128cd89aefa76b04238de6e0f9a7c71cd357c5b7ffd5e76956a2
+- id: doi:10.1016/S0378-1127(01)00716-2
+  title: Differential decay extension capability of Daldinia spp. in wood of Betula
+    pendula, Alnus glutinosa and Fraxinus excelsior
+  authors:
+  - Hanna Johannesson
+  - Katarina Ihrmark
+  - Jan Stenlid
+  publisher: Forest Ecology and Management
+  date: '2002-08-01'
+  link: https://doi.org/bwfpj6
+  _cache: 3991168cf88d71448f2cb4f57cd0f7b320f791102cbbd223d9a531e717d02938
+- id: doi:10.1016/S0006-3207(00)00230-5
+  title: Post-fire legacy of ectomycorrhizal fungal communities in the Swedish boreal
+    forest in relation to fire severity and logging intensity
+  authors:
+  - Anders Dahlberg
+  - Johnny Schimmel
+  - Andy F.S. Taylor
+  - Hanna Johannesson
+  publisher: Biological Conservation
+  date: '2001-08-01'
+  link: https://doi.org/ccx8ds
+  _cache: 78ace54d00168730bf7c08efb7ce71c2035c67ed6b2a89a797470b849df640a7
+- id: doi:10.1046/j.1365-294X.2001.01317.x
+  title: Genetic differentiation in Eurasian populations of the postfire ascomycete
+    Daldinia loculata
+  authors:
+  - H. Johannesson
+  - R. Vasiliauskas
+  - A. Dahlberg
+  - "R. Penttil\xE4"
+  - J. Stenlid
+  publisher: Molecular Ecology
+  date: '2001-12-21'
+  link: https://doi.org/bf4tz5
+  _cache: d9f2eb194ffc8ecfe01b9afa8a53b93d547c60f3d5cacccb5113bc46aedc6f53
+- id: doi:10.1080/00275514.2001.12063176
+  title: Local population structure of the wood decay ascomycete<i>Daldinia loculata</i>
+  authors:
+  - Hanna Johannesson
+  - "M\xE5rten Gustafsson"
+  - Jan Stenlid
+  publisher: Mycologia
+  date: '2001-05-01'
+  link: https://doi.org/grvc88
+  _cache: 9476ab13c376d4a5bcb0ac96d2f80f6435ec8ed3a8db6cf98dc5211314adf647
+- id: doi:10.1046/j.1365-294x.2000.00874-6.x
+  title: Development of primer sets to amplify fragments of conserved genes for use
+    in population studies of the fungus Daldinia loculata
+  authors:
+  - H. S. Johannesson
+  - K. H. P. Johannesson
+  - J. Stenlid
+  publisher: Molecular Ecology
+  date: '2000-03-01'
+  link: https://doi.org/dmc26n
+  _cache: a06facf0e77b73ed02a623261d9b20eb418739ce5306474f70f3908dfec49ba4
+- id: doi:10.1017/S0953756299001719
+  title: Molecular and morphological investigation of Daldinia in northern Europe
+  authors:
+  - Hanna Johannesson
+  - "Thomas L\xE6ss\xF8e"
+  - Jan Stenlid
+  publisher: Mycological Research
+  date: '2000-03-01'
+  link: https://doi.org/bdgvbx
+  _cache: 46bae9b1bf026a65a052da3c593b79e3ad9bbe694611491a6d83a6442f527dae
+- id: doi:10.1017/S0953756299008709
+  title: "Sarcodon imbricatus and S. squamosus \u2014 two confused species"
+  authors:
+  - Hanna Johannesson
+  - Svengunnar Ryman
+  - "Hj\xD6Rdis Lundmark"
+  - Eric Danell
+  publisher: Mycological Research
+  date: '1999-11-01'
+  link: https://doi.org/bzbgzx
+  _cache: 5283a810e0094a6105a0d493fd229479ab0fce1b68fe4382435cfd6f3ccbd666
+- id: doi:10.1017/S0953756299008953
+  title: Taxonomy of Antrodiella inferred from morphological and molecular data
+  authors:
+  - H. Johannesson
+  - P. Renvall
+  - J. Stenlid
+  publisher: Mycological Research
+  date: '2000-01-01'
+  link: https://doi.org/bjdskg
+  _cache: b8f60f4405c61dbf66a10f09b453e10ab592339253dc0e5f4d811b5624ab525b
+- id: doi:10.11609/jott.5679.12.8.15881-15888
+  title: 'Morphological and molecular phylogenetic studies on Battarrea phalloides
+    (Agaricales): a new report to Indian mycobiota'
+  authors:
+  - ' R. Kantharaja'
+  - ' M. Krishnappa'
+  publisher: Journal of Threatened Taxa
+  date: '2020-05-26'
+  link: https://doi.org/grvc9c
+  _cache: a7d23b6561ad0460c7cc41b7d6297e48968a1ec987409ebc637d4331a5ee4c7f
+- id: issn:0093-4666
+  title: ISSN 0093-4666 (Print) | Mycotaxon | The ISSN Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/0093-4666
+  _cache: 405f7b6cfd900639c1bb34d35b8941f1a45b677cb80bca076aba517456495b6f
+- id: doi:10.1016/S0378-1127(98)00399-5
+  title: Molecular identification of wood-inhabiting fungi in an unmanaged Picea abies
+    forest in Sweden
+  authors:
+  - Hanna Johannesson
+  - Jan Stenlid
+  publisher: Forest Ecology and Management
+  date: '1999-03-01'
+  link: https://doi.org/bjn33d
+  _cache: 72ed648787a9673965a56e737a0f36e5374441b03963727ac53c5d576c7d8e8e
