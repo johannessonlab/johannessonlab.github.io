@@ -27,29 +27,6 @@
   link: https://doi.org/grvc5v
   image: https://www.pnas.org/cms/10.1073/pnas.2208575119/asset/3213f8bc-f3ac-45de-a8f2-d79d9e2a94a9/assets/images/large/pnas.2208575119fig01.jpg
   _cache: 0aca8dcbab6dbe02c46101719208799af48374a371289bd4f783c96065c4bf34
-- id: doi:10.1016/j.cub.2019.07.025
-  title: Maintenance of High Genome Integrity over Vegetative Growth in the Fairy-Ring
-    Mushroom Marasmius oreades
-  authors:
-  - Markus Hiltunen
-  - Magdalena Grudzinska-Sterno
-  - Ola Wallerman
-  - Martin Ryberg
-  - Hanna Johannesson
-  publisher: Current Biology
-  date: '2019-08-01'
-  link: https://doi.org/gjfd2n
-  _cache: c3402a982c9bae098f2163c069c13d7a5fc3377034417d0b47f2a89d703dc1c0
-- id: doi:10.1093/bioinformatics/btaa975
-  title: 'ARBitR: an overlap-aware genome assembly scaffolder for linked reads'
-  authors:
-  - Markus Hiltunen
-  - Martin Ryberg
-  - Hanna Johannesson
-  publisher: Bioinformatics
-  date: '2020-11-20'
-  link: https://doi.org/gjqhp4
-  _cache: df48e33353bf950d887571954a98793a7db716f000a241e6cfc930b864cb1640
 - id: doi:10.1146/annurev-micro-041320-113730
   title: On the Mechanistic Basis of Killer Meiotic Drive in Fungi
   authors:
@@ -266,7 +243,8 @@
   publisher: MycoKeys
   date: '2020-11-25'
   link: https://doi.org/gjfnn6
-  _cache: 75dd8280e60bc462c79869d01609717fe5f4c3265ac90cacf0396541dbf6014c
+  image: https://binary.pensoft.net/fig/479670/big
+  _cache: d31a35bfb575bdb8d8bb4179293d7946e53d6d275552dd9673951e542e0f9bc1
 - id: doi:10.1038/s41467-017-01317-6
   title: Large-scale suppression of recombination predates genomic rearrangements
     in Neurospora tetrasperma
@@ -279,7 +257,19 @@
   publisher: Nature Communications
   date: '2017-10-26'
   link: https://doi.org/gckbrn
-  _cache: be3559f999f79df090fb423d1636ff7b487d771b68c100833a33f4aa70430205
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-017-01317-6/MediaObjects/41467_2017_1317_Fig1_HTML.jpg?as=webp
+  _cache: 77418ad50d407731c3b74461ba414729caa8f73a6709b9493c6b286e76696434
+- id: doi:10.1093/bioinformatics/btaa975
+  title: 'ARBitR: an overlap-aware genome assembly scaffolder for linked reads'
+  authors:
+  - Markus Hiltunen
+  - Martin Ryberg
+  - Hanna Johannesson
+  publisher: Bioinformatics
+  date: '2020-11-20'
+  link: https://doi.org/gjqhp4
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/37/15/10.1093_bioinformatics_btaa975/1/m_btaa975f1.jpeg?Expires=1680177882&Signature=mBatYIFn7bApYSb4xAAtWpn36hqeRkwSrph9wmAQ5-TGBA70dORpPCdOmG7avwfAPU7QzhgfwI6-rb0AQz-Uz3DTu3QuCohnZUguMeAFVCMd7KnmGy253ONa3Ka-IOp9nrR5jmOxr7C5QDl0doJfcaANM8Gfg25HElv6NYsjAc5ApWnVW9K1zGyG8zMNHkXlTcbrDUO3xSlwiPAfkXQM9FhGxk5GjzEMwAh0ir5s1YPH2ak0WfnJZxSFKMOTNXzryOs7jdpazJB-pVHYEqerEeh33tQqloiOoO9hdyS84Yqf9aVAOqMklSmdG6TKstrZ2Tww0-E~ZBdmPMlMAIHp7A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: 76109e77de1bc464c714b5030e85b79a02e65101ec97549f9d8fc636d1cac734
 - id: doi:10.1080/15592294.2020.1741758
   title: Comparative analysis of genome-wide DNA methylation in <i>Neurospora</i>
   authors:
@@ -291,21 +281,8 @@
   publisher: Epigenetics
   date: '2020-03-31'
   link: https://doi.org/gjfjbv
-  _cache: b76305d653ec8a0d38a3a55f96b5d55014c9db4ed5dd7fe9cd6138703b6ea8b3
-- id: doi:10.1007/978-1-0716-0199-0_13
-  title: 'Neurospora from Natural Populations: Population Genomics Insights into the
-    Life History of a Model Microbial Eukaryote'
-  authors:
-  - Pierre Gladieux
-  - Fabien De Bellis
-  - Christopher Hann-Soden
-  - Jesper Svedberg
-  - Hanna Johannesson
-  - John W. Taylor
-  publisher: Methods in Molecular Biology
-  date: '2020-01-01'
-  link: https://doi.org/grvc87
-  _cache: 9a8fa0e47f7f0d9f5afd14c7eb4bd4c819b6b03e6936feeb82345e9712b120ee
+  image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/kepi20/2020/kepi20.v015.i09/15592294.2020.1741758/20210508/images/medium/kepi_a_1741758_f0001_c.jpg
+  _cache: b14e071be62f79fa43ac29acf60177e541d2e6d8fb0b460cd3e958f4ed97e58e
 - id: doi:10.1038/s41598-020-58025-3
   title: Building de novo reference genome assemblies of complex eukaryotic microorganisms
     from single nuclei
@@ -322,7 +299,37 @@
   publisher: Scientific Reports
   date: '2020-01-28'
   link: https://doi.org/ggx5b6
-  _cache: 46aed785e1cc7ea19ab7af420ff24074767f13d4487463bd1d4e9ae47e8accec
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-58025-3/MediaObjects/41598_2020_58025_Fig1_HTML.png?as=webp
+  _cache: 847331aeb475a25ef0ad7b11458a8b46a9771c9cdb0db5475bf381127641d247
+- id: doi:10.1007/978-1-0716-0199-0_13
+  title: 'Neurospora from Natural Populations: Population Genomics Insights into the
+    Life History of a Model Microbial Eukaryote'
+  authors:
+  - Pierre Gladieux
+  - Fabien De Bellis
+  - Christopher Hann-Soden
+  - Jesper Svedberg
+  - Hanna Johannesson
+  - John W. Taylor
+  publisher: Methods in Molecular Biology
+  date: '2020-01-01'
+  link: https://doi.org/grvc87
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-0716-0199-0_13/MediaObjects/447116_1_En_13_Fig1_HTML.jpg?as=webp
+  _cache: 46d226d23b1242b44abf5f098ce01a607606f298864053b2420201e8e60c6884
+- id: doi:10.1016/j.cub.2019.07.025
+  title: Maintenance of High Genome Integrity over Vegetative Growth in the Fairy-Ring
+    Mushroom Marasmius oreades
+  authors:
+  - Markus Hiltunen
+  - Magdalena Grudzinska-Sterno
+  - Ola Wallerman
+  - Martin Ryberg
+  - Hanna Johannesson
+  publisher: Current Biology
+  date: '2019-08-01'
+  link: https://doi.org/gjfd2n
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S096098221930870X-gr4.jpg
+  _cache: 8af51b4c7818f9d6049b6ef87394443271de6e9adf0658c397d72b4ea5a0fec7
 - id: doi:10.7554/eLife.46454
   title: Combinations of Spok genes create multiple meiotic drivers in Podospora
   authors:
@@ -340,7 +347,8 @@
   publisher: eLife
   date: '2019-07-26'
   link: https://doi.org/gjfgx7
-  _cache: 0d41ba9b91e1b6f68a46f09f558b395d2d5c9d00ba53fb08a148904c6979b7a6
+  image: https://iiif.elifesciences.org/lax/46454%2Felife-46454-box1-fig1-v1.tif/full/1234,/0/default.webp
+  _cache: 10259051e0898547ead38a766714b9b75c7534e29fd470b335a3c836c2e71181
 - id: doi:10.1534/genetics.119.302122
   title: Identification of <i>rfk-1</i>, a Meiotic Driver Undergoing RNA Editing in
     <i>Neurospora</i>
@@ -364,7 +372,8 @@
   publisher: Genetics
   date: '2019-03-27'
   link: https://doi.org/gjfcmv
-  _cache: 9e5417b02a1890f7af9e568d255e20dc5f02f206f829a546a3517e4401ad2172
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/genetics/212/1/10.1534_genetics.119.302122/6/m_93f1.jpeg?Expires=1680790276&Signature=2E~oBEocgsleybx25ijcLR0R7Pzq7NWVEHzW5WJW4bXBwXXFH11UTqJuGz~0Mi4HL1MPxLYMqGe-dkra9bgPJAQymgyC9xDFlrKAj6VEyNg221Jvxt1v2PBgaOm93EzIEzIZaMYluqsiw54aXAYB6FaHFUSeSgof3tzoxE2iKeeXgwXK5r-OBWkw8BFs4ohegLB0l3X6EFsojlLV7qbuwY7lue5ovisvPhWI7cLkMRW0Ii5rdCWLu5PHKbbHTHsA3Vp8n7SIPRt253HfjYeg3v4EOrR3xW2gyJSIVtODUysptXJ7f2eqsJLnLu0oyM61f5wYiQZfvGlfu21PwafFAw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: f10a92c12d9cb6755365ccdf24714950d1ecafd7fab6c75525fc4d3576da0f8b
 - id: doi:10.1016/j.cub.2018.12.022
   title: Two Basidiomycete Fungi in the Cortex of Wolf Lichens
   authors:
@@ -377,7 +386,8 @@
   publisher: Current Biology
   date: '2019-02-01'
   link: https://doi.org/gftht5
-  _cache: edd434784286ff41c2b34aa5a4783f594b54e7f21c5bb0c203461a5aa27428f0
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982218X00049-cov200h.gif
+  _cache: 9c5973a7d2f7f94b2586906d66e356b1fb750b40bdf43f6d30e79403b476e089
 - id: doi:10.1038/s41396-018-0294-7
   title: 'Asexual reproduction and growth rate: independent and plastic life history
     traits in Neurospora crassa'
@@ -388,7 +398,8 @@
   publisher: The ISME Journal
   date: '2018-11-09'
   link: https://doi.org/gjfc4z
-  _cache: 8e762f14ceb6bdc97e20b79f658b6d8fa7abe4eb8d3729add52dbe76af1147e3
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41396-018-0294-7/MediaObjects/41396_2018_294_Fig1_HTML.png?as=webp
+  _cache: 0298f8e39c7028c8490778b802570c9472d1ec834679b959787e42db2b7010ee
 - id: doi:10.1038/s41467-018-06562-x
   title: Convergent evolution of complex genomic rearrangements in two fungal meiotic
     drive elements
@@ -407,7 +418,8 @@
   publisher: Nature Communications
   date: '2018-10-12'
   link: https://doi.org/gfc385
-  _cache: 7ae04be43b5f944a8ca0a055444d01c64e104204f999c08748412af7bce40c67
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-018-06562-x/MediaObjects/41467_2018_6562_Fig1_HTML.png?as=webp
+  _cache: ae825259376206dda0bf3dd9ee3ace3d980d522185779481abf51c135a88e5a5
 - id: doi:10.1111/1462-2920.14069
   title: Host genetic variation strongly influences the microbiome structure and function
     in fungal fruiting-bodies
@@ -423,7 +435,8 @@
   publisher: Environmental Microbiology
   date: '2018-03-25'
   link: https://doi.org/gjd9v3
-  _cache: a847a51bd771c4507cdffa4d941f58b2da7ad9a90a3a009713af58a9c3f35afe
+  image: https://ami-journals.onlinelibrary.wiley.com/cms/asset/27caad00-b998-4d1a-a07e-cf8f901caa08/emi14069-fig-0001-m.png
+  _cache: 76047d49ba8369576d756ab0870583eaef84f8cbef91d031903897bff152bf22
 - id: doi:10.1038/s41598-018-22470-y
   title: 'Sharing of photobionts in sympatric populations of Thamnolia and Cetraria
     lichens: evidence from high-throughput sequencing'
@@ -438,7 +451,8 @@
   publisher: Scientific Reports
   date: '2018-03-13'
   link: https://doi.org/gc8k6v
-  _cache: 6228dbd55e8ed75746c6e7925945a2cce574786ef519933cd8dda149e34b711d
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-018-22470-y/MediaObjects/41598_2018_22470_Fig1_HTML.jpg?as=webp
+  _cache: 66b7361a1e032a26752e0090fcfdbc0dc5ebf61317914c0c5a6369c711d661d2
 - id: doi:10.1086/695803
   title: Multilevel Selection in the Filamentous Ascomycete<i>Neurospora tetrasperma</i>
   authors:
@@ -450,7 +464,8 @@
   publisher: The American Naturalist
   date: '2018-03-01'
   link: https://doi.org/gc9wgh
-  _cache: 29d7dd1655f54b381f413a596909a37a22f0257cf3dc51c0d14d6dcdf6d315d3
+  image: https://www.journals.uchicago.edu/cms/10.1086/695803/asset/images/medium/fg1.gif
+  _cache: a67b54e7b6d5b43d12cd75478475f94bff2fcadd26979b4b0eb03f014947365a
 - id: doi:10.1017/S0024282917000615
   title: <i>Thamnolia tundrae</i> sp. nov., a cryptic species and putative glacial
     relict
@@ -461,7 +476,8 @@
   publisher: The Lichenologist
   date: '2018-01-01'
   link: https://doi.org/gc85n8
-  _cache: 52d45596df1c8f390f5cb58861e553e829f585dc77a54836591a9ee23854c242
+  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20180126101212168-0740:S0024282917000615:S0024282917000615_fig1g.jpeg?pub-status=live
+  _cache: 4f34c0ec12fb3b284ed0f495d891702a4def0375a3f594bee5ca9a6f71d11b96
 - id: doi:10.1002/ece3.2917
   title: A worldwide phylogeography of the whiteworm lichens<i>Thamnolia</i>reveals
     three lineages with distinct habitats and evolutionary histories
@@ -472,7 +488,8 @@
   publisher: Ecology and Evolution
   date: '2017-04-13'
   link: https://doi.org/f97r43
-  _cache: f99242a152d5ac986ac235debadeca2912bd7c3175924543269206c43dd6e320
+  image: https://onlinelibrary.wiley.com/cms/asset/53ca5900-2083-44ee-a6a6-ac7a4a70d5a7/ece32917-fig-0001-m.png
+  _cache: 44944f174d8f6c641a6a88e0fd0eecf1c543dbecfa073b5952b92500c965f656
 - id: doi:10.1534/g3.116.033860
   title: Epigenetic Control of Phenotypic Plasticity in the Filamentous Fungus <i>Neurospora
     crassa</i>
@@ -483,7 +500,8 @@
   publisher: G3 Genes|Genomes|Genetics
   date: '2016-12-01'
   link: https://doi.org/f3t7qm
-  _cache: 45d2ecaa870defe543fe35e86594b1b20aaf00aabceeddffc6c0059b2a733380
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/g3journal/6/12/10.1534_g3.116.033860/4/m_4009f1.gif?Expires=1680789777&Signature=X0YPMam~XKLOYqAjvy5EqhIK83p1kd5BhZ00~WSGp3ea4L58BzVRp8JnOuhEQaIfws-zRC~cUutGq-bJsFqVH~G015Emx7T6i9T6neVa4FtOi9qRS3wYzkGwzFIwyzWBlwnfGqpP-zUvc-o6zGC8rZa7vy6UvfW~TNHd1VNxLd2aPf83UhQPtXdC-eQTHYa~00aFUlniUXInAFU3uMm8qy6dG9Zxxc0v2meE8oCqIo4Z6N8W11WzeIqfP1S0KBvf1ihj7Lg4uim3eUZTBp-NfRQedfXK2FEu-bULu3NVqAtnEPM1QTg8xvF1gOsEUL3jo5Bin4nXXQY0X0PQ0lHt6g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: a6fc80a49dc3230a04d2738259bb916314eb5dd0f55f53a2ff53aceed32f9e92
 - id: doi:10.1126/science.aaf8287
   title: Basidiomycete yeasts in the cortex of ascomycete macrolichens
   authors:
@@ -503,7 +521,8 @@
   publisher: Science
   date: '2016-07-29'
   link: https://doi.org/f3rvgt
-  _cache: 8a50535820a909617995cb3e0f385b098506023aa4351c1651bdba758c05e954
+  image: https://www.science.org/cms/asset/997b7e87-0f97-48e4-9a2d-96ee1e5aaaa0/science.2016.353.issue-6298.cover.gif
+  _cache: 3b890f318f5c1eb2eab0a9288f287df95ed3d588a0fdafcad81a37d82d44b393
 - id: doi:10.1016/j.tree.2016.02.001
   title: The Ecology and Evolutionary Dynamics of Meiotic Drive
   authors:
@@ -532,7 +551,8 @@
   publisher: Trends in Ecology &amp; Evolution
   date: '2016-04-01'
   link: https://doi.org/f3rxrw
-  _cache: 69ff61fe7226f35f82a5a57bb427a9d26935fe9ae7d396dfe693e2a55b0b0a98
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0169534716000434-gr1b1.jpg
+  _cache: 04c92552f3d0dacbe8c9f191eb4cf6903d80c19c7dd1f3f2c150a6c5f1765446
 - id: doi:10.1101/gr.197244.115
   title: Introgression maintains the genetic integrity of the mating-type determining
     chromosome of the fungus <i>Neurospora tetrasperma</i>
@@ -547,7 +567,8 @@
   publisher: Genome Research
   date: '2016-02-18'
   link: https://doi.org/f3pfj2
-  _cache: 2d9d65d90a6060a69ec20d4aad9348ce639072f6a773c8e18b0c9e6a7228cda8
+  image: https://genome.cshlp.org/content/26/4/486/F1.medium.gif
+  _cache: 6425ebfb78811f90570524b0954ecc8b03c07ab56b8b091cf539306602eed821
 - id: doi:10.1016/j.fbr.2015.06.001
   title: 'Contrasted patterns in mating-type chromosomes in fungi: Hotspots versus
     coldspots of recombination'
@@ -559,7 +580,8 @@
   publisher: Fungal Biology Reviews
   date: '2015-12-01'
   link: https://doi.org/f3p698
-  _cache: 897f4b22b128c8527adcb0dc2367402a8e0577c87cf9892c7a4305cd4dbc20a2
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1749461315000287-gr1.jpg
+  _cache: c30d05ce0c4c9061f6ec38c529395c675bbc8e252c21f476a7c17270f8d7fc9d
 - id: doi:10.1101/gr.175653.114
   title: 'Intron evolution in <i>Neurospora</i>: the role of mutational bias and selection'
   authors:
@@ -1146,16 +1168,6 @@
   date: '2000-01-01'
   link: https://doi.org/bjdskg
   _cache: b8f60f4405c61dbf66a10f09b453e10ab592339253dc0e5f4d811b5624ab525b
-- id: doi:10.11609/jott.5679.12.8.15881-15888
-  title: 'Morphological and molecular phylogenetic studies on Battarrea phalloides
-    (Agaricales): a new report to Indian mycobiota'
-  authors:
-  - ' R. Kantharaja'
-  - ' M. Krishnappa'
-  publisher: Journal of Threatened Taxa
-  date: '2020-05-26'
-  link: https://doi.org/grvc9c
-  _cache: a7d23b6561ad0460c7cc41b7d6297e48968a1ec987409ebc637d4331a5ee4c7f
 - id: issn:0093-4666
   title: ISSN 0093-4666 (Print) | Mycotaxon | The ISSN Portal
   authors: []

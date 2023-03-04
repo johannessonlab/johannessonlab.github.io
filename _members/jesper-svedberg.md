@@ -1,9 +1,9 @@
 ---
 name: Jesper Svedberg
-image: images/member.jpg
+image: images/team/jesper_svedberg.jpg
 description: Postdoctoral Researcher
 role: postdoc
-group: alum
+group: current
 aliases:
 links:
   home-page:

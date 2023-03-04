@@ -2,8 +2,6 @@
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/76/11/10.1111_evo.14630/2/evo14630-fig-0003-m.jpeg?Expires=1680619092&Signature=yjVTE9iLvHVhmiqY7Sdm9hs2lDtE9upsw8-PdjwAPu-Xuml8hOcuT5YG0wy4h-2TNLChVUdwmaf8U1zxxtKgNa3Otu6wf6pydBlLYckIiYH96kxsnq6RtQhPYcycFGnbQhCOJwhq8awokXuiOdCxSqIqnQ0Rwphs5XzVOJXmCIxAnUjLt6fdmAr0qUehzVKciVgO1EN4Tjqmtba1~y6K8eoZdA-OKMf6FWgHtQm-CuO9dGRVoBR~EF8SNDix6fO6HMSmIblaE00etwmpMaZGHgm1fsfsGSBhXVNcZhkUB09wQ7gBHFoFSV~YYT0ieBhGwkVd0CRwrGSWCRa~dFvCyA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1073/pnas.2208575119
   image: https://www.pnas.org/cms/10.1073/pnas.2208575119/asset/3213f8bc-f3ac-45de-a8f2-d79d9e2a94a9/assets/images/large/pnas.2208575119fig01.jpg
-- id: doi:10.1016/j.cub.2019.07.025
-- id: doi:10.1093/bioinformatics/btaa975
 - id: doi:10.1146/annurev-micro-041320-113730
   image: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/micro/2022/micro.2022.76.issue-1/annurev-micro-041320-113730/20220828/images/medium/mi760305.f3.gif
 - id: doi:10.1098/rspb.2022.0971
@@ -30,25 +28,49 @@
 - id: doi:10.1093/molbev/msab040
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/38/6/10.1093_molbev_msab040/1/m_msab040f1.jpeg?Expires=1680682499&Signature=nfGVAttR6ga4NbyR11oj-wXEMOCHwJQBpFNOD4HXA4EN4l6fcg0s5YxYdbaaCwaVeXO3rqx81BJIdEIrk8KOhkSykyppC2j2VHT5hdjUm4e8exM3tCjGg3DFzktrS0XDdFoF4BTC9LS4YgTtU4YeHKY9C2n9KfPfF4LkhIXebpC5d5zSFAJl2gGZouQCOq6m9blXWgfaAKuu6PQmBsFdm-OyA1ZqMEeQoOde4VuV8JbWKPPs0k9bZobgRhPTZji1~pxtbGOm3TIhRKnJ7FgaKEEFYMu-~fkn3dNyzL5E61ISi5dSS0H6L~BRK21qTSdyrYyvkymXP9ojOPqNXutfoA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.3897/mycokeys.75.55968
+  image: https://binary.pensoft.net/fig/479670/big
 - id: doi:10.1038/s41467-017-01317-6
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-017-01317-6/MediaObjects/41467_2017_1317_Fig1_HTML.jpg?as=webp
+- id: doi:10.1093/bioinformatics/btaa975
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/37/15/10.1093_bioinformatics_btaa975/1/m_btaa975f1.jpeg?Expires=1680177882&Signature=mBatYIFn7bApYSb4xAAtWpn36hqeRkwSrph9wmAQ5-TGBA70dORpPCdOmG7avwfAPU7QzhgfwI6-rb0AQz-Uz3DTu3QuCohnZUguMeAFVCMd7KnmGy253ONa3Ka-IOp9nrR5jmOxr7C5QDl0doJfcaANM8Gfg25HElv6NYsjAc5ApWnVW9K1zGyG8zMNHkXlTcbrDUO3xSlwiPAfkXQM9FhGxk5GjzEMwAh0ir5s1YPH2ak0WfnJZxSFKMOTNXzryOs7jdpazJB-pVHYEqerEeh33tQqloiOoO9hdyS84Yqf9aVAOqMklSmdG6TKstrZ2Tww0-E~ZBdmPMlMAIHp7A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1080/15592294.2020.1741758
-- id: doi:10.1007/978-1-0716-0199-0_13
+  image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/kepi20/2020/kepi20.v015.i09/15592294.2020.1741758/20210508/images/medium/kepi_a_1741758_f0001_c.jpg
 - id: doi:10.1038/s41598-020-58025-3
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-58025-3/MediaObjects/41598_2020_58025_Fig1_HTML.png?as=webp
+- id: doi:10.1007/978-1-0716-0199-0_13
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-0716-0199-0_13/MediaObjects/447116_1_En_13_Fig1_HTML.jpg?as=webp
+- id: doi:10.1016/j.cub.2019.07.025
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S096098221930870X-gr4.jpg
 - id: doi:10.7554/eLife.46454
+  image: https://iiif.elifesciences.org/lax/46454%2Felife-46454-box1-fig1-v1.tif/full/1234,/0/default.webp
 - id: doi:10.1534/genetics.119.302122
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/genetics/212/1/10.1534_genetics.119.302122/6/m_93f1.jpeg?Expires=1680790276&Signature=2E~oBEocgsleybx25ijcLR0R7Pzq7NWVEHzW5WJW4bXBwXXFH11UTqJuGz~0Mi4HL1MPxLYMqGe-dkra9bgPJAQymgyC9xDFlrKAj6VEyNg221Jvxt1v2PBgaOm93EzIEzIZaMYluqsiw54aXAYB6FaHFUSeSgof3tzoxE2iKeeXgwXK5r-OBWkw8BFs4ohegLB0l3X6EFsojlLV7qbuwY7lue5ovisvPhWI7cLkMRW0Ii5rdCWLu5PHKbbHTHsA3Vp8n7SIPRt253HfjYeg3v4EOrR3xW2gyJSIVtODUysptXJ7f2eqsJLnLu0oyM61f5wYiQZfvGlfu21PwafFAw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1016/j.cub.2018.12.022
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982218X00049-cov200h.gif
 - id: doi:10.1038/s41396-018-0294-7
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41396-018-0294-7/MediaObjects/41396_2018_294_Fig1_HTML.png?as=webp
 - id: doi:10.1038/s41467-018-06562-x
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-018-06562-x/MediaObjects/41467_2018_6562_Fig1_HTML.png?as=webp
 - id: doi:10.1111/1462-2920.14069
+  image: https://ami-journals.onlinelibrary.wiley.com/cms/asset/27caad00-b998-4d1a-a07e-cf8f901caa08/emi14069-fig-0001-m.png
 - id: doi:10.1038/s41598-018-22470-y
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-018-22470-y/MediaObjects/41598_2018_22470_Fig1_HTML.jpg?as=webp
 - id: doi:10.1086/695803
+  image: https://www.journals.uchicago.edu/cms/10.1086/695803/asset/images/medium/fg1.gif
 - id: doi:10.1017/S0024282917000615
+  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20180126101212168-0740:S0024282917000615:S0024282917000615_fig1g.jpeg?pub-status=live
 - id: doi:10.1002/ece3.2917
+  image: https://onlinelibrary.wiley.com/cms/asset/53ca5900-2083-44ee-a6a6-ac7a4a70d5a7/ece32917-fig-0001-m.png
 - id: doi:10.1534/g3.116.033860
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/g3journal/6/12/10.1534_g3.116.033860/4/m_4009f1.gif?Expires=1680789777&Signature=X0YPMam~XKLOYqAjvy5EqhIK83p1kd5BhZ00~WSGp3ea4L58BzVRp8JnOuhEQaIfws-zRC~cUutGq-bJsFqVH~G015Emx7T6i9T6neVa4FtOi9qRS3wYzkGwzFIwyzWBlwnfGqpP-zUvc-o6zGC8rZa7vy6UvfW~TNHd1VNxLd2aPf83UhQPtXdC-eQTHYa~00aFUlniUXInAFU3uMm8qy6dG9Zxxc0v2meE8oCqIo4Z6N8W11WzeIqfP1S0KBvf1ihj7Lg4uim3eUZTBp-NfRQedfXK2FEu-bULu3NVqAtnEPM1QTg8xvF1gOsEUL3jo5Bin4nXXQY0X0PQ0lHt6g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1126/science.aaf8287
+  image: https://www.science.org/cms/asset/997b7e87-0f97-48e4-9a2d-96ee1e5aaaa0/science.2016.353.issue-6298.cover.gif
 - id: doi:10.1016/j.tree.2016.02.001
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0169534716000434-gr1b1.jpg
 - id: doi:10.1101/gr.197244.115
+  image: https://genome.cshlp.org/content/26/4/486/F1.medium.gif
 - id: doi:10.1016/j.fbr.2015.06.001
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1749461315000287-gr1.jpg
 - id: doi:10.1101/gr.175653.114
 - id: doi:10.1016/j.ympev.2014.05.007
 - id: doi:10.1098/rspb.2014.0084
@@ -98,6 +120,5 @@
 - id: doi:10.1017/S0953756299001719
 - id: doi:10.1017/S0953756299008709
 - id: doi:10.1017/S0953756299008953
-- id: doi:10.11609/jott.5679.12.8.15881-15888
 - id: issn:0093-4666
 - id: doi:10.1016/S0378-1127(98)00399-5

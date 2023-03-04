@@ -1,9 +1,9 @@
 ---
 name: Petter Madsen
-image: images/petter.jpg
+image: images/team/petter.jpg
 description: PhD Student
 role: phd
-group: alum
+group: current
 aliases:
 links:
   home-page:

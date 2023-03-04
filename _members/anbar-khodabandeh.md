@@ -1,9 +1,9 @@
 ---
 name: Anbar Khodabandeh
-image: images/member.jpg
+image: images/team/anbar.jpg
 description: Lab technician
 role: labtech
-group: alum
+group: current
 aliases:
 links:
   home-page:

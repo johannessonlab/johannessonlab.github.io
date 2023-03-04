@@ -1,9 +1,9 @@
 ---
 name: Noah Hensen
-image: images/noah.jpg
+image: images/team/noah.jpg
 description: PhD Student
 role: phd
-group: alum
+group: current
 aliases:
 links:
   home-page:

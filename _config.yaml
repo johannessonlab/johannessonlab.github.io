@@ -3,10 +3,10 @@
 # site properties and page defaults
 title: Johannesson lab
 description: The lab group of professor Hanna Johannesson at Stockholm University
-logo: images/logo.svg
+logo: images/JohannessonLab_logo.png
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+baseurl: /johannesson-lab
 
 # site social media and other links
 links:

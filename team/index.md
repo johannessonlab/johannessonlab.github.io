@@ -15,56 +15,55 @@ Our team is led by professor Hanna Johannesson. We comprise a mix of Swedish and
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: pi, group: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: postdoc"
+  filters="role: postdoc, group: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: phd, group: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: bioinformatician"
+  filters="role: bioinformatician, group: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: labtech"
+  filters="role: labtech, group: current"
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% include section.html background="images/banner.jpg" dark=true %}
 
 {% include section.html %}
-<!---
-## Join
 
-#### Post Dogtoral Researcher
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## Alumni
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="group: alum"
+  style="small"
+%}
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+### Undergraduate students & visitors
+<ul style="list-style: none;">
+  {% for person in site.data.students %}
+      <li><b>{{ person.name }}</b> ({{ person.level }})</li>
+  {% endfor %}
+</ul>
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
-{:.center}
-
-{% include section.html %}
--->
 
 ## Funding
 
@@ -73,29 +72,20 @@ Our work is made possible by funding from several organizations.
 
 {%
   include gallery.html
-  style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/funding_logos/bergianska.png"
+  link1="https://www.bergianska.se/"
+  tooltip1="Bergianska stiftelsen"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  image2="images/funding_logos/vr.png"
+  link2="https://www.vr.se/"
+  tooltip2="Vetenskapsrådet"
 
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
+  image3="images/funding_logos/CTS_logotyp.svg"
+  link3="https://www.carltryggersstiftelse.se/"
+  tooltip3="Carl Tryggers stiftelse"
 
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
+  image4="images/funding_logos/LKAB_logo_blue.svg"
+  link4="https://lkab.com/en/"
+  tooltip4="LKAB Kiruna"
 %}

@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Ecology, Environment and Plant sciences](https://www.su.se/department-of-ecology-environment-and-plant-sciences/), at [Stockholm university](https://www.su.se/). We are located on the 4th-5th floors at Svante Arrhenius väg 20.
+Our group is part of the [Department of Ecology, Environment and Plant sciences](https://www.su.se/department-of-ecology-environment-and-plant-sciences/), at [Stockholm university](https://www.su.se/). Our lab and offices are located on the 4th-5th floors at Svante Arrhenius väg 20.
 
 {%
   include link.html
@@ -51,15 +51,15 @@ SWEDEN
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/stockholm_university.jpg"
+  caption="Stockholm University"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/royal_academy.png"
+  caption="Royal Swedish Academy of Sciences"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}

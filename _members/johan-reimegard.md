@@ -1,9 +1,9 @@
 ---
 name: Johan Reimegård
-image: images/member.jpg
+image: images/team/johan.jpg
 description: Bioinformatician
 role: bioinformatician
-group: alum
+group: current
 aliases:
 links:
   home-page:
