@@ -37,7 +37,7 @@ We study fungal life history traits and explore general evolutionary questions s
 %}
 
 {% capture text %}
-Our skilled team members come from a diverse background and share a deep interest for fungal evolution and genetics.
+Our talented team members come from a diverse background and share a deep interest for fungal evolution and genetics.
 
 {%
   include link.html

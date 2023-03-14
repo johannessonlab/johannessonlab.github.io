@@ -20,15 +20,6 @@ Our group is part of the [Department of Ecology, Environment and Plant sciences]
 %}
 {%
   include link.html
-  type="phone"
-  icon=""
-  text="(555) 867-5309"
-  tooltip=""
-  link="+1-555-867-5309"
-  style="button"
-%}
-{%
-  include link.html
   type="address"
   icon=""
   text="Google Maps"
