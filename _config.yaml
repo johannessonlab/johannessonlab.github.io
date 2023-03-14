@@ -1,7 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Johannesson lab
+title: Johannesson Lab
+subtitle: at Stockholm University
 description: The lab group of professor Hanna Johannesson at Stockholm University
 logo: images/JohannessonLab_logo.png
 header: images/background.jpg
@@ -14,8 +15,8 @@ links:
   google-scholar: __qwxZoAAAAJ
   github: johannessonlab
   twitter: JohannessonLab
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  instagram: 
+  youtube: 
 
 ### advanced settings
 
