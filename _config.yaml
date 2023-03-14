@@ -7,7 +7,7 @@ description: The lab group of professor Hanna Johannesson at Stockholm Universit
 logo: images/JohannessonLab_logo.png
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /johannesson-lab
+baseurl: /
 
 # site social media and other links
 links:
