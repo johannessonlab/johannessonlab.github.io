@@ -1,6 +1,6 @@
 ---
 name: Markus Hiltunen Thorén
-image: images/team/markus.jpg
+image: images/team/markus_hiltunen_thoren.jpg
 description: Postdoctoral Researcher
 role: postdoc
 group: current

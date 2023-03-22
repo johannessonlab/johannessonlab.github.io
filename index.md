@@ -51,7 +51,7 @@ Our talented team members come from a diverse background and share a deep intere
 
 {%
   include feature.html
-  image="images/team.png"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   flip=true
