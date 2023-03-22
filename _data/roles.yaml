@@ -22,6 +22,10 @@ labtech:
   icon: fas fa-microscope
   text: Laboratory technician
 
+guest:
+  icon: fas fa-glasses
+  text: Guest Researcher
+
 mascot:
   icon: fas fa-dog
   text: Mascot

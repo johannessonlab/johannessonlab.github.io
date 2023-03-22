@@ -41,6 +41,12 @@ Our team is led by professor Hanna Johannesson. We comprise a mix of Swedish and
   component="portrait"
   filters="role: labtech, group: current"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: guest, group: current"
+%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true %}
