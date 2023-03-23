@@ -9,7 +9,7 @@ Our lab conducts research using fungi as model systems to explore fundamental ev
 
 {% include section.html full=true %}
 
-{% include figure.html image="images/JohannessonLab_logo.png" width="35%" %}
+{% include figure.html image="images/team.jpg" width="45%" %}
 
 {% include section.html %}
 
@@ -51,12 +51,18 @@ Our talented team members come from a diverse background and share a deep intere
 
 {%
   include feature.html
-  image="images/team.jpg"
+  image="images/team_jump.jpg"
   link="team"
   title="Our Team"
   flip=true
   text=text
 %}
+
+{% include section.html full=true %}
+
+{% include figure.html image="images/JohannessonLab_logo.png" width="15%" %}
+
+{% include section.html %}
 
 <!---
 {% capture text %}
