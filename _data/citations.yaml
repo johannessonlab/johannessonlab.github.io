@@ -83,7 +83,8 @@
   publisher: Fungal Genetics Reports
   date: '2022-02-18'
   link: https://doi.org/gph6g7
-  _cache: 014f5b2a7b177281009759a5622f8602c2d35570ebeecf96e50aaeb746b31d65
+  image: images/paper_figures/Nguyen_et_al_2022_Fig2.png
+  _cache: 6d4bc0d825759df3f1411cff1212a2b599e88e8897ac060da07c4e62512a554e
 - id: doi:10.1080/00275514.2021.1994815
   title: The spore killers, fungal meiotic driver elements
   authors:

@@ -10,4 +10,4 @@ links:
   email:
 ---
 
-Anbar is the lab technician in the Johannesson lab.
+I am the lab technician in the Johannesson lab. I keep the lab in good shape and make sure we follow the safety regulations at SU, and I also support researchers and students with their ongoing experiments.

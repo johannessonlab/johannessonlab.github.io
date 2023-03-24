@@ -10,6 +10,4 @@ links:
   email: johan.reimegard@scilifelab.se
 ---
 
-Johan is a bioinformatician in the Johannesson lab. He is employed by the
-[National Bioinformatics Infrastructure Sweden](https://nbis.se/) with a part
-time placement in the Johannesson lab.
+I am a bioinformatician in the Johannesson lab. I am employed by the [National Bioinformatics Infrastructure Sweden](https://nbis.se/) with a part time placement in the Johannesson lab, where I will run own research projects as well as supporting others in the group.

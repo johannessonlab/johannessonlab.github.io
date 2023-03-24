@@ -2,10 +2,8 @@
 title: Home
 ---
 
-# The evolution of fungal genomes and its association with life history traits and extreme environments
-The Johannesson lab, led by professor Hanna Johannesson, is placed at the [Department of Ecology, Environment and Plant sciences](https://www.su.se/department-of-ecology-environment-and-plant-sciences/) at [Stockholm university](https://www.su.se/).
-
-Our lab conducts research using fungi as model systems to explore fundamental evolutionary questions such as individuality, genetic conflict, multilevel selection, and the drivers of genetic variation.
+# Fungal Genome Evolution
+The Johannesson lab, led by professor Hanna Johannesson, is placed at the [Department of Ecology, Environment and Plant Sciences](https://www.su.se/department-of-ecology-environment-and-plant-sciences/) at [Stockholm University](https://www.su.se/). Today, our team comprises 12 members from a diverse background: we all share a deep interest for fungal evolution and genetics! 
 
 {% include section.html full=true %}
 
@@ -16,12 +14,12 @@ Our lab conducts research using fungi as model systems to explore fundamental ev
 # Highlights
 
 {% capture text %}
-We study fungal life history traits and explore general evolutionary questions such as natural selection operating at multiple levels in the biological hierarchy, the causes and consequences of symbioses and switches in reproductive mode. We also study fungi from extreme environments, and their genomic adaptations. As tools we use comparative genomics, population genetics, bioinformatics, and laboratory experiments.
+Our lab conducts research using fungi as model systems to explore fundamental evolutionary questions such as individuality, genetic conflict, multilevel selection, and the drivers of genetic variation and adaptation. As tools we use a wide range of methods such as comparative genomics, metagenomics, population genetics, bioinformatics, and laboratory experiments.
 
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="Explore our ongoing projects"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -37,7 +35,7 @@ We study fungal life history traits and explore general evolutionary questions s
 %}
 
 {% capture text %}
-Our talented team members come from a diverse background and share a deep interest for fungal evolution and genetics.
+In addition to our PI, we have researchers, PhD-students and support persons in our team.
 
 {%
   include link.html
