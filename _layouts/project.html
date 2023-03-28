@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{%- include figure.html image=page.image width="500px" caption=page.imagecaption -%}
+
+<p class="center">
+  {%- include role.html type=page.role text=true description=page.description -%}
+</p>
+
+<p class="center">
+  {%- for entry in page.links -%}
+    {%- assign key = entry[0] -%}
+    {%- assign value = entry[1] -%}
+    {%- include link.html type=key icon="" text="" tooltip="" link=value -%}
+  {%- endfor -%}
+</p>
+
+{{ content }}
+
+<p>
+  <i>Main investigators of the {{ page.name | default: page.title }} project:</i>
+  {{ page.people | join: ", " }}
+</p>
+
+
+{%- assign aliases = "" | split: ',' -%}
+
+{%- if page.aliases.first -%}
+  {%- assign aliases = aliases | concat: page.aliases -%}
+{%- elsif page.aliases -%}
+  {%- assign aliases = aliases | push: page.aliases -%}
+{%- elsif page.name -%}
+  {%- assign aliases = aliases | push: page.name -%}
+{%- elsif page.title -%}
+  {%- assign aliases = aliases | push: page.title -%}
+{%- endif -%}
+
+{%- assign search = aliases | join: '" "' | prepend: '"' | append: '"' | prepend: "/publications/?search=" -%}
+
+{%- capture text -%}
+  See papers related to {{ page.name | default: page.title }} on the Publications page
+{%- endcapture -%}
+
+<p class="center">
+  {%- include link.html icon="fas fa-book-open" text=text link=search -%}
+</p>

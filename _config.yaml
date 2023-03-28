@@ -45,10 +45,18 @@ defaults:
       type: "posts"
     values:
       layout: post
+  # markdown files in /_projects - added by Markus
+  - scope:
+      type: "projects"
+    values:
+      layout: project
+
 
 # collections
 collections:
   members:
+    output: true
+  projects:
     output: true
 
 # sass settings

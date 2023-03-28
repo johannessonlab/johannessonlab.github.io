@@ -480,7 +480,7 @@
   image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20180126101212168-0740:S0024282917000615:S0024282917000615_fig1g.jpeg?pub-status=live
   _cache: 4f34c0ec12fb3b284ed0f495d891702a4def0375a3f594bee5ca9a6f71d11b96
 - id: doi:10.1002/ece3.2917
-  title: A worldwide phylogeography of the whiteworm lichens<i>Thamnolia</i>reveals
+  title: A worldwide phylogeography of the whiteworm lichens <i>Thamnolia</i> reveals
     three lineages with distinct habitats and evolutionary histories
   authors:
   - "Ioana Onu\u0163-Br\xE4nnstr\xF6m"
@@ -595,7 +595,7 @@
   link: https://doi.org/f3nzkg
   _cache: f4c07160a5a44618c3cf77231db6839a7f37e0aa463a03f09af7821712495eb5
 - id: doi:10.1016/j.ympev.2014.05.007
-  title: A global multilocus analysis of the model fungus Neurospora reveals a single
+  title: A global multilocus analysis of the model fungus <i>Neurospora</i> reveals a single
     recent origin of a novel genetic system
   authors:
   - "P\xE1draic Corcoran"
@@ -611,7 +611,7 @@
   link: https://doi.org/f2zpsd
   _cache: 2e8f5ddb21a96acf6f3f371656aeda33c5a79b177c40dfbd4586629b5abf47ff
 - id: doi:10.1098/rspb.2014.0084
-  title: 'Nuclear interactions in a heterokaryon: insight from the model<i>Neurospora
+  title: 'Nuclear interactions in a heterokaryon: insight from the model <i>Neurospora
     tetrasperma</i>'
   authors:
   - Nicklas Samils
@@ -622,7 +622,7 @@
   link: https://doi.org/f23r3b
   _cache: 149bb369d77f8ba582df2a4a9bd6970bf94f46bb6bc519c36ce42b11d221987f
 - id: doi:10.1111/jeb.12386
-  title: Dynamics of transcriptome evolution in the model eukaryote Neurospora
+  title: Dynamics of transcriptome evolution in the model eukaryote <i>Neurospora</i>
   authors:
   - C. A. Whittle
   - Y. Sun
@@ -633,7 +633,7 @@
   _cache: 9bdd6c0e1e4ae524ce65612c50c5b1b20c98608d7c0c9c98975bdb46e1dad50f
 - id: doi:10.1007/s00203-013-0923-5
   title: Coexistence and expression profiles of two alternative splice variants of
-    the pheromone receptor gene pre-1 in Neurospora crassa
+    the pheromone receptor gene pre-1 in <i>Neurospora crassa</i>
   authors:
   - Rebecka Strandberg
   - Georgios Tzelepis
@@ -653,7 +653,7 @@
   link: https://doi.org/f2z7kj
   _cache: 406c02958271418cfa79ede6754151e0e8967660971e65e1a31d68b6e3e4cd53
 - id: doi:10.1098/rspb.2013.0862
-  title: Sex-linked transcriptional divergence in the hermaphrodite fungus<i>Neurospora
+  title: Sex-linked transcriptional divergence in the hermaphrodite fungus <i>Neurospora
     tetrasperma</i>
   authors:
   - Nicklas Samils
@@ -683,7 +683,7 @@
   _cache: 83578e3bab1ad6a6100e332a90fd66b876d4cf982326ca4ad6fc3d0d2e2d6b21
 - id: doi:10.1016/j.funbio.2012.06.006
   title: Quantifying functional heterothallism in the pseudohomothallic ascomycete
-    Neurospora tetrasperma
+    <i>Neurospora tetrasperma</i>
   authors:
   - "P\xE1draic Corcoran"
   - David J. Jacobson
@@ -728,7 +728,7 @@
   _cache: cff2dca0ac46649354ab6a15d7d2d68f8f7fe3915e2d87499247662bd43b2b4e
 - id: doi:10.1093/molbev/mss193
   title: Deciphering the Relationship between Mating System and the Molecular Evolution
-    of the Pheromone and Receptor Genes in Neurospora
+    of the Pheromone and Receptor Genes in <i>Neurospora</i>
   authors:
   - Kristiina Nygren
   - Rebecka Strandberg
@@ -740,7 +740,7 @@
   link: https://doi.org/f23b3p
   _cache: c34c12f33179101a96b1283fb8420ab78778fbc271fd6c4a14011d8a3f6d7bd7
 - id: doi:10.1186/1471-2148-12-229
-  title: Analyses of expressed sequence tags in Neurosporareveal rapid evolution of
+  title: Analyses of expressed sequence tags in <i>Neurospora</i> reveal rapid evolution of
     genes associated with the early stages of sexual reproduction in fungi
   authors:
   - Kristiina Nygren
@@ -756,7 +756,7 @@
   _cache: 263ffaec423bc90351e1a2a6f900e26f9ee43e9e763be6d338591a5b4e875e93
 - id: doi:10.1371/journal.pgen.1002820
   title: Large-Scale Introgression Shapes the Evolution of the Mating-Type Chromosomes
-    of the Filamentous Ascomycete Neurospora tetrasperma
+    of the Filamentous Ascomycete <i>Neurospora tetrasperma</i>
   authors:
   - Yu Sun
   - "P\xE1draic Corcoran"
@@ -769,7 +769,7 @@
   link: https://doi.org/f23p24
   _cache: f361ecbf48486647fa666637c26fa01458533a81aaded1222fa38012697bc33b
 - id: doi:10.1016/j.fgb.2012.05.004
-  title: Sex-specific gene expression during asexual development of Neurospora crassa
+  title: Sex-specific gene expression during asexual development of <i>Neurospora crassa</i>
   authors:
   - Zheng Wang
   - Koryu Kin
@@ -782,7 +782,7 @@
   _cache: 750749d5ec03e456f86eaf27c2ac34cf3cdfc3c274138c2f118cdfeac3583dbd
 - id: doi:10.1093/molbev/mss065
   title: Genome-Wide Selection on Codon Usage at the Population Level in the Fungal
-    Model Organism Neurospora crassa
+    Model Organism <i>Neurospora crassa</i>
   authors:
   - C. A. Whittle
   - Y. Sun
@@ -792,7 +792,7 @@
   link: https://doi.org/f23gvx
   _cache: a9065d326179446d5dd9bdbdacce93ac86f0ba3570cbab331c177a527e58d517
 - id: doi:10.1002/bies.201200110
-  title: Neurospora as a model to empirically test central hypotheses in eukaryotic
+  title: <i>Neurospora</i> as a model to empirically test central hypotheses in eukaryotic
     genome evolution
   authors:
   - Carrie A. Whittle
@@ -817,7 +817,7 @@
   link: https://doi.org/b6xmjx
   _cache: 376e291af5766c490cd61532b1657b47ef38c9bdb7decb99131adb1cc82b3e4a
 - id: doi:10.1016/j.ympev.2011.03.023
-  title: A comprehensive phylogeny of Neurospora reveals a link between reproductive
+  title: A comprehensive phylogeny of <i>Neurospora</i> reveals a link between reproductive
     mode and molecular evolution in fungi
   authors:
   - Kristiina Nygren
@@ -854,8 +854,8 @@
   link: https://doi.org/cc7fpt
   _cache: 0d0a4275c09e0afc0ccdfa9aca38ef960e2b35bc524611cc84ae56caed3fc2d5
 - id: doi:10.1093/gbe/evr018
-  title: Evolution of Synonymous Codon Usage in Neurospora tetrasperma and Neurospora
-    discreta
+  title: Evolution of Synonymous Codon Usage in <i>Neurospora tetrasperma</i> and <i>Neurospora
+    discreta</i>
   authors:
   - C. A. Whittle
   - Y. Sun
@@ -866,7 +866,7 @@
   _cache: 1035b2bfb153782ec403ff53643573d70047b805fefb929b018aa1557e6ae25b
 - id: doi:10.1128/EC.00284-10
   title: Degeneration in Codon Usage within the Region of Suppressed Recombination
-    in the Mating-Type Chromosomes of Neurospora tetrasperma
+    in the Mating-Type Chromosomes of <i>Neurospora tetrasperma</i>
   authors:
   - C. A. Whittle
   - Y. Sun
@@ -878,7 +878,7 @@
 - id: doi:10.1038/hdy.2011.11
   title: Evidence of the accumulation of allele-specific non-synonymous substitutions
     in the young region of recombination suppression within the mating-type chromosomes
-    of Neurospora tetrasperma
+    of <i>Neurospora tetrasperma</i>
   authors:
   - C A Whittle
   - H Johannesson
@@ -888,8 +888,8 @@
   _cache: d2c47b10e26cc3edfa7acc886dd57e994de9f40729aa6021e1c4db93b8df4f35
 - id: doi:10.1186/1471-2148-10-234
   title: Gene genealogies indicates abundant gene conversions and independent evolutionary
-    histories of the mating-type chromosomes in the evolutionary history of Neurospora
-    tetrasperma
+    histories of the mating-type chromosomes in the evolutionary history of <i>Neurospora
+    tetrasperma</i>
   authors:
   - Audrius Menkis
   - Carrie A Whittle
@@ -900,7 +900,7 @@
   _cache: 86bf4c5aa4614ced7a0a2accebde8ca97897c61c7a25b2b9bd42569fac01bdf3
 - id: doi:10.1016/j.fgb.2010.06.008
   title: Conflict between reproductive gene trees and species phylogeny among heterothallic
-    and pseudohomothallic members of the filamentous ascomycete genus Neurospora
+    and pseudohomothallic members of the filamentous ascomycete genus <i>Neurospora</i>
   authors:
   - Rebecka Strandberg
   - Kristiina Nygren
@@ -937,7 +937,7 @@
   link: https://doi.org/b8tfgr
   _cache: 7aa746f75e25321d3682c67762f94b5c6624283a66692cdc97d0ec8fc237b4e0
 - id: doi:10.1111/j.1420-9101.2009.01801.x
-  title: Phylogenetic and biological species diversity within the<i>Neurospora tetrasperma</i>complex
+  title: Phylogenetic and biological species diversity within the <i>Neurospora tetrasperma</i> complex
   authors:
   - A. MENKIS
   - E. BASTIAANS
@@ -948,7 +948,7 @@
   link: https://doi.org/cvzmn4
   _cache: d90728b295988bf15845f1dfe3822e18a74e6b796510dad92548a284799766a2
 - id: doi:10.1371/journal.pgen.1000030
-  title: The Mating-Type Chromosome in the Filamentous Ascomycete Neurospora tetrasperma
+  title: The Mating-Type Chromosome in the Filamentous Ascomycete <i>Neurospora tetrasperma</i>
     Represents a Model for Early Evolution of Sex Chromosomes
   authors:
   - Audrius Menkis
@@ -961,7 +961,7 @@
   _cache: 8a6f071b5352438707d16a06d5f7a61f09fd464b379fc21f0c4ae301f43473be
 - id: doi:10.1093/molbev/msm253
   title: The Evolution of the Pheromonal Signal System and Its Potential Role for
-    Reproductive Isolation in Heterothallic Neurospora
+    Reproductive Isolation in Heterothallic <i>Neurospora</i>
   authors:
   - Magnus Karlsson
   - Kristiina Nygren
@@ -971,7 +971,7 @@
   link: https://doi.org/dzb7jx
   _cache: fed15da06df5851a1d84a3a85573a9d531c58b8e8442aa22bd6c498509efc363
 - id: doi:10.1186/1471-2148-8-109
-  title: The evolutionary trajectory of the mating-type (mat) genes in Neurosporarelates
+  title: The evolutionary trajectory of the mating-type (mat) genes in <i>Neurospora</i> relates
     to reproductive behavior of taxa
   authors:
   - Lotta Wik
@@ -1048,7 +1048,7 @@
   link: https://doi.org/cpkkzs
   _cache: 2eddf2c562973e15291c9bab9bc6551944f232b7e48cb76bd53a3167acb9abfa
 - id: doi:10.1046/j.1365-294X.2003.01858.x
-  title: Parental tracking in the postfire wood decay ascomycete<i>Daldinia loculata</i>using
+  title: Parental tracking in the postfire wood decay ascomycete <i>Daldinia loculata</i>using
     highly variable nuclear gene loci
   authors:
   - A. Guidot
@@ -1118,7 +1118,7 @@
   link: https://doi.org/bf4tz5
   _cache: d9f2eb194ffc8ecfe01b9afa8a53b93d547c60f3d5cacccb5113bc46aedc6f53
 - id: doi:10.1080/00275514.2001.12063176
-  title: Local population structure of the wood decay ascomycete<i>Daldinia loculata</i>
+  title: Local population structure of the wood decay ascomycete <i>Daldinia loculata</i>
   authors:
   - Hanna Johannesson
   - "M\xE5rten Gustafsson"

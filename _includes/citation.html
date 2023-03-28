@@ -48,11 +48,21 @@
     </div>
 
     {%- assign authors = citation.authors | default: emptyarray -%}
+    <!--- Don't truncate the author list. Original div here: class="citation_authors truncate" --->
     <div
-      class="citation_authors truncate"
+      class="citation_authors"
       tabindex="0"
     >
-      {{ authors | join: ", " }}
+      <!--- Here I wanted to bold Hanna's name. Original: {{ authors | join: ", " }} --->
+      {%- for auth in authors -%}
+        {% if auth == "Hanna Johannesson" %}
+          <b>{{- auth -}}</b>
+        {%- else -%}
+          {{- auth -}}
+        {%- endif -%}
+        {%- if forloop.last == false -%},{%- endif %}
+      {% endfor %}
+
     </div>
 
     {%- assign publisher = citation.publisher | default: "[no publisher info]" -%}
