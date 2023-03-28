@@ -2,7 +2,7 @@
 title: "Genome Evolution in Sordariales"
 name: Sordariales
 image: images/photo.jpg
-imagecaption: Chaetomiaceae species growing on petri dishes
+imagecaption: 
 description: Genome evolution and genetic conflict in Sordariales
 group: 
 link: 

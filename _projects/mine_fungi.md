@@ -2,7 +2,7 @@
 title: Mine fungi
 name: Mine fungi
 image: images/photo.jpg
-imagecaption: Kiruna mine
+imagecaption: 
 description: Fungi of the Kiruna iron mine
 group: 
 link: 
