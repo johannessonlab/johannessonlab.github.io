@@ -19,3 +19,6 @@ Add new publications by making new entries in `data/sources.yaml`. Only the DOI 
 Make news posts by adding files in `_posts`. The files need to be named according to jekyll blog post format, i.e. with the date first. Easiest is to copy a previous post and edit the information.
 
 After all changes are done in the source code, commit and push changes as per usual. Pushed changes are automatically updated by github-pages.
+
+### Tags
+Tags in news posts, research projects, publications, etc need to be indented by two spaces in the yaml front matter. Each tag on a new line, else spaces aren't included in the tag.

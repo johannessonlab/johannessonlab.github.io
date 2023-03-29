@@ -20,6 +20,6 @@
   {%- endif -%}
 </div>
 
-{%- if include.tags -%}
-  {% include tags.html tags=include.tags link="blog" %}
-{%- endif -%}
+{% if include.tags %}
+  {% include tags.html tags=include.tags link="news" %}
+{% endif %}
