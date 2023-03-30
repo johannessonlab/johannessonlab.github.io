@@ -1,5 +1,7 @@
 {%- if include.style == "small" -%}
   {%- assign width = 100 -%}
+{% elsif include.style == "tiny" %}
+  {%- assign width = 75 -%}
 {%- else -%}
   {%- assign width = 150 -%}
 {%- endif -%}
@@ -25,7 +27,9 @@
 
   {%- assign role = member.role | default: "" -%}
   {%- if role -%}
+  {% unless include.style == "tiny" %}
     {%- include role.html type=role -%}
+  {% endunless %}
   {%- endif -%}
   
   {%- assign name = member.name | default: "" -%}
@@ -47,9 +51,11 @@
 
   {%- assign description = member.description | default: "" -%}
   {%- if description -%}
+    {% unless include.style == "tiny" %}
     <span class="portrait_description">
       {{ description }}
     </span>
+    {% endunless %}
   {%- endif -%}
 
 </a>

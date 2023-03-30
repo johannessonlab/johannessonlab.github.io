@@ -1,6 +1,9 @@
 ---
 title: johannessonlab is live!
-tags: biology, mycology
+tags:
+  - website 
+  - biology
+  - mycology
 author: Markus Hiltunen Thorén
 member: markus-thoren
 ---

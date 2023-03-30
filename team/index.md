@@ -60,7 +60,7 @@ Our team is led by professor Hanna Johannesson. We comprise a mix of Swedish and
   data="members"
   component="portrait"
   filters="group: alum"
-  style="small"
+  style="tiny"
 %}
 
 ### Undergraduate students & visitors
