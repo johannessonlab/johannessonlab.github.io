@@ -8,7 +8,12 @@ group:
 link: 
 subtitle: 
 tooltip: Marasmius
-tags: marasmius, fairy rings, genome, mutations, transposons
+tags:
+  - marasmius
+  - fairy rings
+  - genome
+  - mutations
+  - transposons
 repo: 
 people:
   - "Markus Hiltunen Thorén"

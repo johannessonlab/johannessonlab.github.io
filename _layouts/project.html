@@ -7,10 +7,6 @@ layout: default
 {%- include figure.html image=page.image width="500px" caption=page.imagecaption -%}
 
 <p class="center">
-  {%- include role.html type=page.role text=true description=page.description -%}
-</p>
-
-<p class="center">
   {%- for entry in page.links -%}
     {%- assign key = entry[0] -%}
     {%- assign value = entry[1] -%}
@@ -20,11 +16,24 @@ layout: default
 
 {{ content }}
 
-<p>
-  <i>Main investigators of the {{ page.name | default: page.title }} project:</i>
-  {{ page.people | join: ", " }}
-</p>
+{% assign project_members = '' | split: '' %}
 
+{%- for m in site.members -%}
+  {%- if m.projects contains page.name -%}
+  {% assign project_members = project_members | push: m %}
+  {%- endif -%}
+{%- endfor -%}
+
+
+<p>
+  Group members involved in the {{ page.name | default: page.title }} project: 
+  {% for m in project_members %}
+    <a href="{{ m.url | relative_url }}">
+    {{- m.name -}}
+    </a>
+    {%- if forloop.last == false %}, {%- endif %}
+  {%- endfor -%}
+</p>
 
 {%- assign aliases = "" | split: ',' -%}
 

@@ -8,6 +8,8 @@ aliases:
 links:
   home-page:
   email: thibault.caron@su.se
+projects:
+  - Mine fungi
 ---
 
 I am mainly interested in studying the adaptation of microorganisms to atypical environments as well as their potential optimization for human applications.
