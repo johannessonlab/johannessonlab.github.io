@@ -5,7 +5,7 @@ nav:
   tooltip: What's new in the lab
 ---
 
-# <i class="fas fa-feather-alt"></i>Tweets
+# <i class="fab fa-twitter"></i>Tweets
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
