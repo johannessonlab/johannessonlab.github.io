@@ -1,6 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1111/jeb.14108
+  title: "To self or not to self? Absence of mate choice despite costly outcrossing\
+    \ in the fungus\n            <i>Podospora anserina</i>"
+  authors:
+  - "Ivain Martinossi\u2010Allibert"
+  - "Sandra Lorena Ament\u2010Vel\xE1squez"
+  - Sven J. Saupe
+  - Hanna Johannesson
+  publisher: Journal of Evolutionary Biology
+  date: '2022-10-20'
+  link: https://doi.org/grdz69
+  image: https://onlinelibrary.wiley.com/cms/asset/2016e245-f100-43c6-91c1-e2de9c9e395b/jeb14108-fig-0001-m.png
+  tags:
+  - Ascomycetes
+  - Fungi
+  - Mate choice
+  - Mating strategy
+  - Outcrossing
+  - Podospora
+  - Reproductive strategy
+  - Selfing
+  _cache: a58f33137685a7dab5e8fa39c5b31548cf3e0d1d06dc353c6754feaaa8364e81
 - id: doi:10.1111/evo.14630
   title: "Meiotic drive is associated with sexual incompatibility in\n           \
     \ <i>Neurospora</i>"
@@ -13,7 +35,13 @@
   date: '2022-10-03'
   link: https://doi.org/grgzb3
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/76/11/10.1111_evo.14630/2/evo14630-fig-0003-m.jpeg?Expires=1680619092&Signature=yjVTE9iLvHVhmiqY7Sdm9hs2lDtE9upsw8-PdjwAPu-Xuml8hOcuT5YG0wy4h-2TNLChVUdwmaf8U1zxxtKgNa3Otu6wf6pydBlLYckIiYH96kxsnq6RtQhPYcycFGnbQhCOJwhq8awokXuiOdCxSqIqnQ0Rwphs5XzVOJXmCIxAnUjLt6fdmAr0qUehzVKciVgO1EN4Tjqmtba1~y6K8eoZdA-OKMf6FWgHtQm-CuO9dGRVoBR~EF8SNDix6fO6HMSmIblaE00etwmpMaZGHgm1fsfsGSBhXVNcZhkUB09wQ7gBHFoFSV~YYT0ieBhGwkVd0CRwrGSWCRa~dFvCyA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  _cache: 371951e0d83528c47866d160d7706da63f63df7ef79f8fed92122dad1091b579
+  tags:
+  - "Bateson\u2010Dobzhansky\u2010Muller incompatibility"
+  - Meiotic drive
+  - Neurospora
+  - Sexual incompatibility
+  - Speciation
+  _cache: 74bd83f189c1941da9f4582fa46339ec3bc5fc85ccb9f1660ad9ad3c4796d304
 - id: doi:10.1073/pnas.2208575119
   title: "Stage-specific transposon activity in the life cycle of the fairy-ring mushroom\n\
     \            <i>Marasmius oreades</i>"
@@ -26,7 +54,15 @@
   date: '2022-11-07'
   link: https://doi.org/grvc5v
   image: https://www.pnas.org/cms/10.1073/pnas.2208575119/asset/3213f8bc-f3ac-45de-a8f2-d79d9e2a94a9/assets/images/large/pnas.2208575119fig01.jpg
-  _cache: 0aca8dcbab6dbe02c46101719208799af48374a371289bd4f783c96065c4bf34
+  tags:
+  - Marasmius
+  - Fairy ring
+  - Basidiomycetes
+  - Life history
+  - Life cycle
+  - Selfish genetic elements
+  - Transposable elements
+  _cache: 044f08d36f5452fe271e527cfd9858465913ebac41e10ba2a948bd62ffe7a0a8
 - id: doi:10.1146/annurev-micro-041320-113730
   title: On the Mechanistic Basis of Killer Meiotic Drive in Fungi
   authors:
@@ -36,7 +72,12 @@
   date: '2022-09-08'
   link: https://doi.org/gqxgmw
   image: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/micro/2022/micro.2022.76.issue-1/annurev-micro-041320-113730/20220828/images/medium/mi760305.f3.gif
-  _cache: 951035ab3108b5db9c77f0cfae8d744434e48b5d1c88a574c459841a809ee5e2
+  tags:
+  - Meiotic drive
+  - Fungi
+  - Spore killing
+  - Selfish genetic elements
+  _cache: 7d54ce1d9a807335b6326055336c9ddf8206f282a1d8667c2eab4d6dd56d0ecd
 - id: doi:10.1098/rspb.2022.0971
   title: "Nuclear-specific gene expression in heterokaryons of the filamentous ascomycete\n\
     \            <i>Neurospora tetrasperma</i>"
@@ -50,7 +91,11 @@
   date: '2022-08-10'
   link: https://doi.org/gqp6rm
   image: https://royalsocietypublishing.org/cms/asset/e3580fae-7af3-4171-b054-fb0a435842eb/rspb20220971f01.gif
-  _cache: 263938389c2486ff41139559281282dbdc3db56a488beabec434ad8aec7983ad
+  tags:
+  - Allele-specific expression
+  - Heterokaryosis
+  - Additivity
+  _cache: a8c74170e0d0d78a680bc79223ee5fc7570f1b1f1ab188595a4873365b58ee35
 - id: doi:10.1038/s41559-022-01734-x
   title: Allorecognition genes drive reproductive isolation in Podospora anserina
   authors:
@@ -69,7 +114,13 @@
   date: '2022-05-12'
   link: https://doi.org/gp8pc5
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41559-022-01734-x/MediaObjects/41559_2022_1734_Fig4_HTML.png?as=webp
-  _cache: 29bfb9efb409b087ac548b32ef973c70763d55e804ec95ecef535352b0449f87
+  tags:
+  - Evolutionary genetics
+  - Fungi
+  - Genetic interaction
+  - Genetic variation
+  - Speciation
+  _cache: f6dafc10c173dcb4162aa43a80c0dab50ac6f3de599fca862d191dce1f6ee451
 - id: doi:10.4148/1941-4765.2177
   title: 'Transposon- and Genome Dynamics in the Fungal Genus Neurospora: Insights
     from Nearly Gapless Genome Assemblies'
@@ -84,7 +135,13 @@
   date: '2022-02-18'
   link: https://doi.org/gph6g7
   image: images/paper_figures/Nguyen_et_al_2022_Fig2.png
-  _cache: 6d4bc0d825759df3f1411cff1212a2b599e88e8897ac060da07c4e62512a554e
+  tags:
+  - Transposable elements
+  - Genome evolution
+  - Genome defense
+  - Repeat-Induced Point (RIP) mutation
+  - Neurospora
+  _cache: 8c3f048e7cc8ec6a9c6957dd29ad5a120ebfdfcd8de86d3c6d0ba63ba4387d77
 - id: doi:10.1080/00275514.2021.1994815
   title: The spore killers, fungal meiotic driver elements
   authors:
@@ -97,7 +154,13 @@
   date: '2022-01-02'
   link: https://doi.org/gphz9x
   image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/umyc20/2022/umyc20.v114.i01/00275514.2021.1994815/20220314/images/medium/umyc_a_1994815_f0001_c.jpg
-  _cache: 691de979215bdbffe8520e65e8d676afc61228890813b6ff21889d53130a1013
+  tags:
+  - Meiotic drive
+  - Fungi
+  - Spore killing
+  - Gene drive
+  - Ascomycetes
+  _cache: 4d02d4b1dfd6e1bc4a8179f128e6d308c1dff5353f1fb8c594e8d796d1af1092
 - id: doi:10.1128/MMBR.00016-21
   title: Molecular Mechanisms and Evolutionary Consequences of Spore Killers in Ascomycetes
   authors:
@@ -135,7 +198,14 @@
   date: '2021-05-29'
   link: https://doi.org/gm5sc3
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/13/7/10.1093_gbe_evab126/4/m_evab126f1.jpeg?Expires=1680127443&Signature=426pho1Fg~NYlPs3q3pfYYSuj1d8SCAAnq30qkUg8YOsofcSs9yjk8YhTGWt7hlHmRcpf9FvGv~XlriEjlD9sI~ifpIJpeumx7rQI307SK8~3L5dhupKRD4POpmsNF1xpq1NmxTNYR4zraDJ8yTp5BfPIxT9Vz46qfFP63bRpnJBUJ0IkrBLDp2itFx5kmcZUF-iJ8T2xHDhi6ImMpoHa7~ay5WOqxlcCbRvbrUtJra~-pSLdNKn9BIRVqkK~f0OCAZ-YeTe5HIBZ66IwTV0wwSzrD-kvwBO4BQymGJT-DajnAHU2kK1EA9BUed-T7HVdeMnya4IeDG4KnnPBth49g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  _cache: c0dcda1ca0d18aece73845b5f50461e73e03c4673068ff8ca5526d45adf8c977
+  tags:
+  - Mushroom
+  - Repeat library
+  - Transposon
+  - Linkage map
+  - Genomics
+  - Agaricomycetes
+  _cache: 2b40713952a746edeebdadcec0e00ae39a6649596d9780aa7e5dac8e311e1947
 - id: doi:10.3389/ffunb.2021.656386
   title: 'The Plot Thickens: Haploid and Triploid-Like Thalli, Hybridization, and
     Biased Mating Type Ratios in Letharia'
@@ -155,7 +225,7 @@
   image: https://www.frontiersin.org/files/Articles/656386/ffunb-02-656386-HTML/image_m/ffunb-02-656386-g001.jpg
   _cache: 7384b5d490ab7c219a7a64cda6549b5ef2a7097a0d4509caae4cb79e04140349
 - id: doi:10.1073/pnas.2026605118
-  title: An introgressed gene causes meiotic drive in<i>Neurospora sitophila</i>
+  title: An introgressed gene causes meiotic drive in <i>Neurospora sitophila</i>
   authors:
   - Jesper Svedberg
   - Aaron A. Vogan
@@ -200,7 +270,13 @@
   date: '2021-05-01'
   link: https://doi.org/gjjzjn
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/75/5/10.1111_evo.14214/2/m_evo14214-fig-0002.jpeg?Expires=1680682386&Signature=wvQa9KbMYBbWMe8shFyHSatZ7m8sIF9DS~EhqhebQYEzST6o-gplz18qj7NPytbsIBGiUWlWqe1ONPhJeyMlo5eSuYu6s1tBf5ZvGra9nGkstsxTtM-Vrj3LrBA0sE~OCWHpl--L4l7GzFVYC3kqFeSHnVjWq1~Ls9Ech7od1~KfNBGYWdGWlLC6mfCiiQpdOoy9dGyGFhkALK7MHFFWnEzDROMXpu-pjY3w~53KdA0Bvw7jsVbMLwPKx5vG8mZM0zQSyB5ICONRrxLUcJUS7cTtIJJSVxKTTGMV5Hntq6R4jc5p2rC6472BdHjsNQlwaFeo9nGGq5~1S8MIiwmwsQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  _cache: edc8e9e065b12ba030851c9d0e2e90daaa822e0fc41f683fa11965590b4750b6
+  tags:
+  - Ascomycete fungi
+  - Meiosis
+  - Meiotic drive
+  - Population genetics
+  - Spore killer
+  _cache: 405bac803a011fc81d7db20c20b408f8ce7b7831965d0e6ef284f2edf813f89f
 - id: doi:10.1093/molbev/msab040
   title: Size Variation of the Nonrecombining Region on the Mating-Type Chromosomes
     in the Fungal <i>Podospora anserina</i> Species Complex
@@ -221,7 +297,17 @@
   date: '2021-02-08'
   link: https://doi.org/gk8hkd
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/38/6/10.1093_molbev_msab040/1/m_msab040f1.jpeg?Expires=1680682499&Signature=nfGVAttR6ga4NbyR11oj-wXEMOCHwJQBpFNOD4HXA4EN4l6fcg0s5YxYdbaaCwaVeXO3rqx81BJIdEIrk8KOhkSykyppC2j2VHT5hdjUm4e8exM3tCjGg3DFzktrS0XDdFoF4BTC9LS4YgTtU4YeHKY9C2n9KfPfF4LkhIXebpC5d5zSFAJl2gGZouQCOq6m9blXWgfaAKuu6PQmBsFdm-OyA1ZqMEeQoOde4VuV8JbWKPPs0k9bZobgRhPTZji1~pxtbGOm3TIhRKnJ7FgaKEEFYMu-~fkn3dNyzL5E61ISi5dSS0H6L~BRK21qTSdyrYyvkymXP9ojOPqNXutfoA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  _cache: 0ea365ef88c5398b3f1e855f8db55802eadd418972507368729ff088387515c5
+  tags:
+  - Convergence
+  - Mating-type chromosomes
+  - Fungi
+  - Fungal chromosomes
+  - Sex chromosomes
+  - Automixis
+  - Pseudohomothallism
+  - Evolutionary strata
+  - Transposable elements
+  _cache: b060842ed883a1652f8dc55a75948eac1ec41bf26075b9b62da0ed31db28a454
 - id: doi:10.3897/mycokeys.75.55968
   title: The taxonomy of the model filamentous fungus Podospora anserina
   authors:
@@ -595,8 +681,8 @@
   link: https://doi.org/f3nzkg
   _cache: f4c07160a5a44618c3cf77231db6839a7f37e0aa463a03f09af7821712495eb5
 - id: doi:10.1016/j.ympev.2014.05.007
-  title: A global multilocus analysis of the model fungus <i>Neurospora</i> reveals a single
-    recent origin of a novel genetic system
+  title: A global multilocus analysis of the model fungus <i>Neurospora</i> reveals
+    a single recent origin of a novel genetic system
   authors:
   - "P\xE1draic Corcoran"
   - Jeremy R. Dettman
@@ -740,8 +826,8 @@
   link: https://doi.org/f23b3p
   _cache: c34c12f33179101a96b1283fb8420ab78778fbc271fd6c4a14011d8a3f6d7bd7
 - id: doi:10.1186/1471-2148-12-229
-  title: Analyses of expressed sequence tags in <i>Neurospora</i> reveal rapid evolution of
-    genes associated with the early stages of sexual reproduction in fungi
+  title: Analyses of expressed sequence tags in <i>Neurospora</i> reveal rapid evolution
+    of genes associated with the early stages of sexual reproduction in fungi
   authors:
   - Kristiina Nygren
   - Andreas Wallberg
@@ -769,7 +855,8 @@
   link: https://doi.org/f23p24
   _cache: f361ecbf48486647fa666637c26fa01458533a81aaded1222fa38012697bc33b
 - id: doi:10.1016/j.fgb.2012.05.004
-  title: Sex-specific gene expression during asexual development of <i>Neurospora crassa</i>
+  title: Sex-specific gene expression during asexual development of <i>Neurospora
+    crassa</i>
   authors:
   - Zheng Wang
   - Koryu Kin
@@ -854,8 +941,8 @@
   link: https://doi.org/cc7fpt
   _cache: 0d0a4275c09e0afc0ccdfa9aca38ef960e2b35bc524611cc84ae56caed3fc2d5
 - id: doi:10.1093/gbe/evr018
-  title: Evolution of Synonymous Codon Usage in <i>Neurospora tetrasperma</i> and <i>Neurospora
-    discreta</i>
+  title: Evolution of Synonymous Codon Usage in <i>Neurospora tetrasperma</i> and
+    <i>Neurospora discreta</i>
   authors:
   - C. A. Whittle
   - Y. Sun
@@ -937,7 +1024,8 @@
   link: https://doi.org/b8tfgr
   _cache: 7aa746f75e25321d3682c67762f94b5c6624283a66692cdc97d0ec8fc237b4e0
 - id: doi:10.1111/j.1420-9101.2009.01801.x
-  title: Phylogenetic and biological species diversity within the <i>Neurospora tetrasperma</i> complex
+  title: Phylogenetic and biological species diversity within the <i>Neurospora tetrasperma</i>
+    complex
   authors:
   - A. MENKIS
   - E. BASTIAANS
@@ -971,8 +1059,8 @@
   link: https://doi.org/dzb7jx
   _cache: fed15da06df5851a1d84a3a85573a9d531c58b8e8442aa22bd6c498509efc363
 - id: doi:10.1186/1471-2148-8-109
-  title: The evolutionary trajectory of the mating-type (mat) genes in <i>Neurospora</i> relates
-    to reproductive behavior of taxa
+  title: The evolutionary trajectory of the mating-type (mat) genes in <i>Neurospora</i>
+    relates to reproductive behavior of taxa
   authors:
   - Lotta Wik
   - Magnus Karlsson
