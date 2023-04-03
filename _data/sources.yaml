@@ -69,17 +69,22 @@
 - id: doi:10.3389/ffunb.2021.716385
   image: https://www.frontiersin.org/files/Articles/716385/ffunb-02-716385-HTML/image_m/ffunb-02-716385-g001.jpg
 - id: doi:10.1093/gbe/evab126
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/13/7/10.1093_gbe_evab126/4/m_evab126f1.jpeg?Expires=1680127443&Signature=426pho1Fg~NYlPs3q3pfYYSuj1d8SCAAnq30qkUg8YOsofcSs9yjk8YhTGWt7hlHmRcpf9FvGv~XlriEjlD9sI~ifpIJpeumx7rQI307SK8~3L5dhupKRD4POpmsNF1xpq1NmxTNYR4zraDJ8yTp5BfPIxT9Vz46qfFP63bRpnJBUJ0IkrBLDp2itFx5kmcZUF-iJ8T2xHDhi6ImMpoHa7~ay5WOqxlcCbRvbrUtJra~-pSLdNKn9BIRVqkK~f0OCAZ-YeTe5HIBZ66IwTV0wwSzrD-kvwBO4BQymGJT-DajnAHU2kK1EA9BUed-T7HVdeMnya4IeDG4KnnPBth49g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/13/7/10.1093_gbe_evab126/4/m_evab126f1.jpeg?Expires=1683234958&Signature=mJRoBEQX-6m53G73bsZtEywVv8fTMmWyF~gwQEKna7mj0whyvUxGVBp5tV5cCQNOZJI1UHrzgHl-tm6iZmySVwzcFT~xFtIU4I9QUu-F21-HFAHYIRLkDfsGpGoF9xFnJf5Df0T8q6dsCbmKWZ2WuIwdf0o0uolTm~WDxAEg9sF-rhtuRhPaDCMNUCRFfssxDmthFgKgLSisPfQskJtvEiC1BXyaboqw5B1DQ~eldTUmntjdTQ7daWUoKLeJash9~LVKQBdQKdQPt3CDHUoZii86nx0pVJ3PdzEEQzPxIM3QbgcCE0sRNQSzmSdAZsiGDSmIb72dPMZfe9aNx0nr9g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
     - Mushroom
     - Repeat library
-    - Transposon
+    - Transposons
     - Linkage map
     - Genomics
     - Agaricomycetes
 - id: doi:10.3389/ffunb.2021.656386
   image: https://www.frontiersin.org/files/Articles/656386/ffunb-02-656386-HTML/image_m/ffunb-02-656386-g001.jpg
+  tags:
+    - Lichens
+    - Mating type
+    - Triploid
 - id: doi:10.1073/pnas.2026605118
+  title: An introgressed gene causes meiotic drive in <i>Neurospora sitophila</i>
   image: https://www.pnas.org/cms/10.1073/pnas.2026605118/asset/19d431f7-f213-4c86-8817-d4e857a24c54/assets/images/large/pnas.2026605118fig01.jpg
 - id: doi:10.1101/gr.267609.120
   image: https://genome.cshlp.org/content/31/5/789/F2.small.gif
@@ -105,6 +110,11 @@
     - Transposable elements
 - id: doi:10.3897/mycokeys.75.55968
   image: https://binary.pensoft.net/fig/479670/big
+  tags: 
+    - Phylogenetics
+    - Podospora
+    - Podosporaceae
+    - Taxonomy
 - id: doi:10.1038/s41467-017-01317-6
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-017-01317-6/MediaObjects/41467_2017_1317_Fig1_HTML.jpg?as=webp
 - id: doi:10.1093/bioinformatics/btaa975
@@ -117,6 +127,16 @@
   image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-0716-0199-0_13/MediaObjects/447116_1_En_13_Fig1_HTML.jpg?as=webp
 - id: doi:10.1016/j.cub.2019.07.025
   image: https://ars.els-cdn.com/content/image/1-s2.0-S096098221930870X-gr4.jpg
+  tags:
+    - Mutation
+    - Mutation accumulation
+    - Fairy-ring mushroom
+    - Fairy ring
+    - Fungal genomics
+    - Genome sequencing
+    - Genomics
+    - Genome assembly
+    - Mutation rate
 - id: doi:10.7554/eLife.46454
   image: https://iiif.elifesciences.org/lax/46454%2Felife-46454-box1-fig1-v1.tif/full/1234,/0/default.webp
 - id: doi:10.1534/genetics.119.302122
@@ -132,9 +152,15 @@
 - id: doi:10.1038/s41598-018-22470-y
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-018-22470-y/MediaObjects/41598_2018_22470_Fig1_HTML.jpg?as=webp
 - id: doi:10.1086/695803
+  title: Multilevel Selection in the Filamentous Ascomycete <i>Neurospora tetrasperma</i>
   image: https://www.journals.uchicago.edu/cms/10.1086/695803/asset/images/medium/fg1.gif
 - id: doi:10.1017/S0024282917000615
+  title: <i>Thamnolia tundrae</i> sp. nov., a cryptic species and putative glacial relict 
   image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20180126101212168-0740:S0024282917000615:S0024282917000615_fig1g.jpeg?pub-status=live
+  authors:
+    - Ioana Onut-Brännström
+    - Hanna Johannesson
+    - Leif Tibell
 - id: doi:10.1002/ece3.2917
   image: https://onlinelibrary.wiley.com/cms/asset/53ca5900-2083-44ee-a6a6-ac7a4a70d5a7/ece32917-fig-0001-m.png
 - id: doi:10.1534/g3.116.033860
@@ -148,53 +174,352 @@
 - id: doi:10.1016/j.fbr.2015.06.001
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1749461315000287-gr1.jpg
 - id: doi:10.1101/gr.175653.114
+  image: https://genome.cshlp.org/content/25/1/100/F2.medium.gif
 - id: doi:10.1016/j.ympev.2014.05.007
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1055790314001663-fx1.jpg
 - id: doi:10.1098/rspb.2014.0084
+  image: https://royalsocietypublishing.org/cms/asset/ba179b88-75a7-4710-8389-5ce6852896bf/rspb20140084f06.jpg
 - id: doi:10.1111/jeb.12386
+  image: https://onlinelibrary.wiley.com/cms/asset/bdc1fedd-2a06-4111-a0e7-954fa284c959/jeb12386-fig-0004-m.png
+  authors:
+    - Carrie A. Whittle
+    - Yu Sun
+    - Hanna Johannesson
 - id: doi:10.1007/s00203-013-0923-5
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00203-013-0923-5/MediaObjects/203_2013_923_Fig1_HTML.gif?as=webp
 - id: doi:10.1093/molbev/mst143
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/30/11/10.1093_molbev_mst143/2/m_mst143f3p.jpeg?Expires=1683286081&Signature=vmVpEANeLJ5z3YWrdOAEXI6xOn8ehkVqfHO77MZ7O1jaH-O6JlE~htJojOAKUc05Lps1v0hLTeDids7OcnINW4FpiJ3NPJtSb8EeHJ7pMnB4WqtZtTPy8uhqho9mNehUxVU47N5D4LlsG6aF0aTBNI5O9jMeqJCydVKmG8sQI4dQXJXw1Sj3Q9VTH5Ap46JLxJpg7Q4Y9i16BaEaHBAI2g-YaAmqMT0aPoljmtMjtpISWn5b2C8eM-9MtBjl9xlQxCz7~s0r4Y6A3Y6b4llnMrv8CbEJg8PpnJNZGgQSQl63IO7yqXI2RfbV-yjkLMFsS26k8Xel3MLx1Gad2lOlbA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1098/rspb.2013.0862
+  image: https://royalsocietypublishing.org/cms/asset/4c923a90-6a7f-416a-a01a-25272a31811b/rspb20130862f01.jpg
 - id: doi:10.1111/evo.12206
+  title: "<i>Neurospora</i> and the dead-end hypothesis: genomic consequences of selfing in the model genus"
+  tags:
+    - Evolutionary genomics
+    - Mating systems
+    - Molecular evolution
+    - Mutations
+    - Reproductive strategies
+    - Selection—natural
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/67/12/10.1111_evo.12206/4/m_evo12206-fig-0001.jpeg?Expires=1683553336&Signature=x1HUkwr~4I4vA~z7QSDxA9XZJV6gQ6AMoJ0oBW6ukL-BWT1Y2G7P8Ye5L8GjQ09gWo1dkGY7kDVNbQdDADr5jQEgQYVZ1EzGb5X5K9gHWX~NFv7KvnulcHrdoPXg-8O8lrdXc~B0F0G--kkrXx3uvJwK6cpDP4LfY7bZTpfIxoBOc7a2wR3~MBOpNUmnGvBcoqEGy~LkZYClAV2kXMGKhCrhHOBIMrgrPzLUWxae2cYlFJWfs0VMXA~eVHcx5paYo7~cH4Ioyx5vx~3oYX8sY7oCDwoj09JEx4JjQQoFfEp62hvTWbke2yb8MDzjrzR-Fv6VJwSinhffjPPZHLlnqQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1016/j.funbio.2012.06.006
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1878614612001183-gr1.jpg
+  tags:
+    - Conidia
+    - Heterothallism
+    - Neurospora tetrasperma
+    - Outcrossing
+    - Populations
+    - Pseudohomothallism
 - id: doi:10.1093/molbev/mss132
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/29/10/10.1093_molbev_mss132/2/m_mss132f1.jpeg?Expires=1683281069&Signature=s71khF4hYoh~mO2qKM6DqdEeWSloW-3mobZLOfs~ho-OI8AigddPe7-VlBzP~6mnC9FOtDNPB~3lGfVLneguBIiBcQPm2M2ZzaMf2uEJbHh6A46-mcUoWUyzE-xoQYnWotRt9uocdvMvuv24dco1doWqSfRBU2t1AXuc2q~Jw9gg6NdLcu7olOXMIonuQU3EAhxmiMtlPL-ashwe-ZVBO1AIO727IWmKPMZklECdngJDU7mw1It6YEdX6k0SK03l55bQDyYEMt-lOcvexjuKVgO2lUayxtxoUIMIL8Nbs8LvTt29OLVLU1tKWdjXVMPDpD8T8EQm4sLUQRNOtOTdug__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - Mating system
+    - Evolutionary transition
+    - Transposable element
+    - Mating-type locus
+    - Unequal crossover
 - id: doi:10.1111/j.1574-6941.2012.01366.x
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsec/81/2/10.1111_j.1574-6941.2012.01366.x/2/m_fem1366-fig-0001.jpeg?Expires=1683555223&Signature=tLnALkR39PrTtEMD2XJij7CJUwDlMJxvfAJZFC5EteuggEMmQnqH~hPIj6kWNZs8ZsJU-3VKu6UfJ4SuE-dsCSfxgXNHWa48riiF0qLNRZzrDk7j3KoJb4CMU8XWRwUkD-vj1RsTbF2QqYThAo5ibwXTtNRciaJqbj~~eY1Knd0KPbBpaHoJXnwWpvNfQjaX34PoPZd5BYysLkcFOwRPQtihPqh2g~G0C-~qXu0e8ZAjKJSZpVAo4Kkwjc0Li721kO~rRKBcLvCau9CHI9kI7vqYqgZO-3yhD8NMorUOS6LQTRVWjOKZFamCKc-57xNhp2BnCMxul7VLIPVg8yjPGw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - Phlebiopsis gigantea
+    - Biocontrol
+    - Environmental impact
+    - Fungal ecology
+    - Soil fungi
 - id: doi:10.1093/molbev/mss193
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/29/12/10.1093_molbev_mss193/1/m_mss193f2p.jpeg?Expires=1683385211&Signature=KjSMywaHTdjoqxIuPkV8fRgkeoI2vYchrCZcOQbAeNx1Kn72ExL3wfO17bVp73AvZy1ibeH1~7uv08VEiEXHPZE8Gw9ZxS6mOIYWK71OrxwOMnZsKNgkK2m4sYvcxCFsM~eXPFkDpqj-nzbceeM2K9QqY1xOsZGX-7bnuafwtnyTA4mXjriN90jfkeT6AUChFk~BqGsbtYKvRKKt~rf92TAN1v1HCDKqDXwqgLh5QxFNbhNSkMSK0Z972UFYuvzjZQ9vUpHCS~xpcQYEHLKlutCvkOM88MFaQ0NNzoQJkeX8lWeO2D1u7RO5f6B9vrPvBJd-Vt0XXFL7rocs-jW5hQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - Neurospora
+    - Pheromones
+    - Receptors
+    - Homothallism
 - id: doi:10.1186/1471-2148-12-229
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2148-12-229/MediaObjects/12862_2012_Article_2245_Fig1_HTML.jpg?as=webp
 - id: doi:10.1371/journal.pgen.1002820
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1002820.g002
 - id: doi:10.1016/j.fgb.2012.05.004
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1087184512000825-gr1.jpg
+  tags:
+    - Mating type
+    - Pheromone
+    - Transcription
+    - Light
+    - Conidiation
+    - Microarray
 - id: doi:10.1093/molbev/mss065
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/29/8/10.1093_molbev_mss065/2/m_molbiolevolmss065f01_ht.jpeg?Expires=1683385497&Signature=Uf52GU4rqP2YLkjBCVR9Nk0O7R~ho~DB5ff84nsOHZYa~s7plb2onidX59LCSNurGVRIN3h8oP7DezHxXQVo~Xyh6HnxHoUZn4fxifSlSvb8HCJAWFXc~GvSWuVfL8uyfvo3I5hP8aYqTZqJdnQGO8ZLHp9sNmwxe-LO11B-XUvDHqW5qv26ZRo4UfpLAcsiYIdztnwjCXcZ0pa1VCzX4MXTqL0xFFNuaImMIVF-v52pzU5jWGLm3ujCedvtSM50y9zzQ7HMRc1wt9mKXF72aKtv4Xl5rZZFhOBLF0DMyNBPIKXwRVfZ7WjHD1uJbhkiYkmiSmNBlS0c47kA9njYSA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - Neurospora crassa
+    - Microevolution
+    - Codon
+    - Selection
+    - Genetic hitchhiking
+  authors:
+    - Carrie A. Whittle
+    - Yu Sun
+    - Hanna Johannesson
 - id: doi:10.1002/bies.201200110
+  image: https://onlinelibrary.wiley.com/cms/asset/59c35edf-5900-41e4-8915-2e6257eea514/mcontent.jpg
 - id: doi:10.1016/j.funeco.2011.07.001
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1754504811000717-gr1.jpg
+  tags:
+    - Basidiomycota
+    - Biodiversity
+    - Decomposition
+    - DNA
+    - Environmental sampling
+    - Fungal succession
+    - Fungi
+    - Wood decay
 - id: doi:10.1016/j.ympev.2011.03.023
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S105579031100162X-gr5.jpg
+  tags:
+    - Outcrossing
+    - Selfing
+    - Conidia
+    - Mutation rate
+    - dN/dS
+    - Ancestral character state
+    - Dead end theory
 - id: doi:10.1007/978-3-642-19974-5_12
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-642-19974-5_12/MediaObjects/978-3-642-19974-5_12_Fig2_HTML.gif?as=webp
 - id: doi:10.1016/j.fgb.2011.02.005
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1087184511000508-gr1.jpg
+  tags:
+    - Genome evolution
+    - Mating systems
+    - Mutations
+    - Dead end theory
+    - Neurospora
+  authors:
+    - Carrie A. Whittle
+    - Kristiina Nygren
+    - Hanna Johannesson
 - id: doi:10.1093/gbe/evr018
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/3/10.1093_gbe_evr018/4/m_gbeevr018f03_ht.gif?Expires=1683553150&Signature=ICUIipvt6VVQz6AjQn0ZNFAKU-AiFUOvXjIdA8-Z2GSZlgcw~eVejs3dHGzsoT1cUdtB~p8STyjVGp42sETjgCeR4nZeCrdylR8lCBk6snx54aCnnJOaVkKizbQlskdCDBHPM~8BsOoL0FHhRlILmHDKd0T0dGRzyMyf24avz8fudqy8RhQmyi56JfpBCwEOkhWMlm3LZGDQGlgbagWkZ4lPrqy1oRmi93oxKlxqjBWJT2UXQCnrzQAq~kKsalgbiyuYupLJN9BQ4cgSGB8f1Xr4cmMdLbPdBs9YEpB3LeYvX7r4iK-hyXuASU3SiZOA-CzDd3yDRzIM7A0q1tQ0EA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - Neurospora tetrasperma
+    - Neurospora discreta
+    - Optimal codons
+    - Gene expression
+    - Codon usage bias
+    - Gene length
+  authors:
+    - Carrie A. Whittle
+    - Yu Sun
+    - Hanna Johannesson
 - id: doi:10.1128/EC.00284-10
+  image: https://journals.asm.org/cms/10.1128/EC.00284-10/asset/6a53a488-b841-4a6f-8838-b4583ac1a341/assets/graphic/zek9990937080003.jpeg
+  authors:
+    - Carrie A. Whittle
+    - Yu Sun
+    - Hanna Johannesson
 - id: doi:10.1038/hdy.2011.11
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fhdy.2011.11/MediaObjects/41437_2011_Article_BFhdy201111_Fig1_HTML.jpg?as=webp
+  authors:
+    - Carrie A. Whittle
+    - Hanna Johannesson
 - id: doi:10.1186/1471-2148-10-234
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2148-10-234/MediaObjects/12862_2009_Article_1450_Fig1_HTML.jpg?as=webp
 - id: doi:10.1016/j.fgb.2010.06.008
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1087184510001209-gr1.jpg
+  tags:
+    - Ascomycota
+    - Evolution
+    - Heterothallism
+    - Mating type
+    - Pheromone receptor
+    - Pseudohomothallism
 - id: doi:10.1016/j.mycres.2009.01.006
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0953756209000252-gr1.jpg
+  tags:
+    - Butt rot
+    - Dikaryon
+    - Heterobasidion annosum
+    - Nuclear migration
+    - Plurinucleate
 - id: doi:10.1111/j.1558-5646.2008.00462.x
+  title: Evolutionary significance of imbalanced nuclear ratios within heterokaryons of the Basidiomycete fungus <i>Heterobasidium parviporum</i>
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/62/9/10.1111_j.1558-5646.2008.00462.x/3/m_evo_462_f1.gif?Expires=1683552800&Signature=1~1HP8YSHPE7Y0ZK4AaRL2fdtLyKUTh9KtuCrFa8OERje~z0oYyL0UYCxGXJ0vuusntyrpDQ4hKBlRJzc1qrSf57Uw127EeArottoPIrBcKrXxwBztqDwloVdOmI~0z2~OXmKs5VF0owTTxxWyFGRzr9rAbuxctCMrPoycUxy-9~Bws2OzPBJSixO9FcvJ5bMwYtyYE4RMCSyVP3JCmbfGdwOYz~Ke51pQkBh~~m-gkU-gmCVO6MMncaYOb6OQm0ZhHIHk86vTJ4jKr2-ROP2Dw91YdQZBOWs14SMJbFpmPs25gcpDW0iDqa66EK1KSPhQIXHhbUikWQv3ysHLhZNA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - Butt rot
+    - Conidia
+    - Genomic conflict
+    - Heterobasidion annosum
+    - Heterokaryosis
+    - Multinucleate
 - id: doi:10.1111/j.1420-9101.2009.01801.x
+  title: Phylogenetic and biological species diversity within the <i>Neurospora tetrasperma</i> complex
+  image: https://onlinelibrary.wiley.com/cms/asset/45938a11-d4c5-45a0-a576-f5e09b35dfc7/jeb_1801_f2.gif
+  authors:
+    - Audrius Menkis
+    - Eric Bastiaans
+    - David J. Jacobson
+    - Hanna Johannesson
 - id: doi:10.1371/journal.pgen.1000030
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1000030.g001
+  tags:
+    - Neurospora crassa
+    - Sex chromosomes
+    - Fungal evolution
+    - Evolutionary genetics
+    - Copulation
+    - Fungal genetics
+    - Genomics
+    - Fungi
 - id: doi:10.1093/molbev/msm253
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/25/1/10.1093_molbev_msm253/2/m_molbiolevolmsm253f02_lw.jpeg?Expires=1683388998&Signature=jepbuMHQKVAbltxNbXzNPsXqkOGskl-Qyc5OaEY4VuR8~zwF7X9aoHSJOujgjYf7u4M8A17cH2lOf6M8FO~BGfktCM9cZJvP72pb9Toit7S2tUg02K8rpwSqN03qUSS80BxQspPLGRaAVwbf6IJ9mUQOQ5od8fz7l~PHgRfP6bTDI2DWAcIN0uqB0zh51V55qaLHfVz9UZxx~RJjcS3YBDWhOemyy5xDNP0gC8zaeu4g-Y-4VyxGCv9BPmAqycwCfAjpUeHyCX6X-GuP0fX80fsQXg9bUayyjGqwk4FoHeA6TUZejA-qs3wB68noDvvxFh8HczEEzZ9LbO~Wqkc0xg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags: 
+    - Neurospora
+    - Pheromone
+    - Pheromone receptor
+    - Reproductive protein
+    - Speciation
+    - Reinforcement
 - id: doi:10.1186/1471-2148-8-109
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2148-8-109/MediaObjects/12862_2007_Article_678_Fig2_HTML.jpg?as=webp
+  tags:
+    - Selective Constraint
+    - Filamentous Ascomycete
+    - Synonymous Substitution Rate
+    - Opposite Mating Type
+    - Reproductive Mode
 - id: doi:10.1016/j.fgb.2006.02.003
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1087184506000351-gr1.jpg
+  tags:
+    - Development
+    - Spherules
+    - Endospores
+    - Microarray
+    - Fungal pathogen
+    - Population
+  authors:
+    - Hanna Johannesson
+    - Takao Kasuga
+    - Ruth A. Schaller
+    - Benjamin M. Good
+    - Malcolm J. Gardner
+    - Jeffrey P Townsend
+    - Garry T. Cole
+    - John W. Taylor
 - id: doi:10.1017/CBO9780511541797
+  authors:
+    - John W. Taylor
+    - Elizabeth Turner
+    - Anne Pringle
+    - Jeremy Dettman
+    - Hanna Johannesson
+  title: "Fungal species: Thoughts on their recognition, maintenance and selection. In G. Gadd, S. Watkinson, & P. Dyer (Eds.), Fungi in the Environment"
 - id: doi:10.1534/genetics.105.040923
 - id: doi:10.1016/j.fgb.2004.01.002
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1087184504000064-gr1.gif
+  tags:
+    - Nuclear mosaic
+    - Nuclear reassortment
+    - Somatic incompatibility
+    - Microsatellites
+    - Root rot
+    - Natural chimera
+    - Fungi
+    - Allorecognition
+    - Individual
+    - Operational selective unit
 - id: doi:10.1093/molbev/msh124
+  title: Positive Directional Selection in the Proline-Rich Antigen (<i>PRA</i>) Gene Among the Human Pathogenic Fungi <i>Coccidioides immitis</i>, <i>C. posadasii</i> and Their Closest Relatives
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/21/6/10.1093/molbev/msh124/3/m_mbev-21-05-22-f01.gif?Expires=1683391248&Signature=YDuNPCbOmGIvCKr33i9PYuaqN~RohKVmHZXNFA7Kk8VZx4qmyd0eT0Ui4AaeF1SF8WiTUxT35M4yxoXxd93XT~MZM0CFv82uBxS8zNmjyPpLm5rGCNYoHhgbc4QMdoggrosy03wjWXqoElb0vZK8sBZctK3w5Sbfe9D5qK7x8oI9ESaQnOu7RPSSVTjD-mvIYC4zEOOIiuSjQs5d16VZWZODj2Ew6LPf2BOtkmXXASVLIMKahXJST3lh1YwLEM58s7pgbID81w3wdrU~5iz~OM7lbvhbOQy6LlaHFra2f5TecK6px8lgr~zAOvAnK3L-zaI23n8T~XsTKiXlG5FXIg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - Coccidioides
+    - Positive selection
+    - Proline-rich antigen
+    - Vaccine
+    - Paml
+    - Antigen
+  authors:
+    - Hanna Johannesson
+    - Pilar Vidal
+    - Josep Guarro
+    - Roger A. Herr
+    - Garry T. Cole
+    - John W. Taylor
 - id: doi:10.1016/S1055-7903(03)00087-3
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1055790303000873-gr3.gif
 - id: doi:10.1046/j.1365-294X.2003.01858.x
+  title: Parental tracking in the postfire wood decay ascomycete <i>Daldinia loculata</i> using highly variable nuclear gene loci
+  image: https://onlinelibrary.wiley.com/cms/asset/dde0deaf-2351-4651-992a-a5b6faeda8f0/mec_1858_f1.gif
+  authors:
+    - Alice Guidot
+    - Hanna Johannesson
+    - Anders Dahlberg
+    - Jan Stenlid
 - id: doi:10.1016/S1087-1845(02)00011-7
+  tags:
+    - Heterobasidion annosum
+    - Mycovirus
+    - Transmission
+    - dsRNA
+    - Mitochondrial markers
+    - Nuclear markers
+    - Basidiomycete
+    - Plant pathogen
+    - Horizontal transfer
+    - Vertical transfer
 - id: doi:10.1017/S0953756203008359
 - id: doi:10.1016/S0378-1127(01)00716-2
+  title: Differential decay extension capability of <i>Daldinia</i> spp. in wood of Betula pendula, <i>Alnus glutinosa</i> and <i>Fraxinus excelsior</i>
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378112701007162-gr1.jpg
+  tags:
+    - Xylariaceae
+    - Daldinia
+    - Endophyte
+    - Substrate-specificity
+    - Latent infection
 - id: doi:10.1016/S0006-3207(00)00230-5
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006320700002305-gr1.jpg
 - id: doi:10.1046/j.1365-294X.2001.01317.x
+  title: Genetic differentiation in Eurasian populations of the postfire ascomycete <i>Daldinia loculata</i>
+  image: https://onlinelibrary.wiley.com/cms/asset/2ab3dbb7-3253-4124-961f-7b1c2c1b6b6a/mec_1317_f3.gif
+  authors:
+    - Hanna Johannesson
+    - Rimvydas Vasiliauskas
+    - Anders Dahlberg
+    - Reijo Penttilä   
+    - Jan Stenlid
 - id: doi:10.1080/00275514.2001.12063176
+  tags:
+    - Endophyte
+    - Fire ecology
+    - Molecular markers
+    - Multilocus genotypes
+    - Stroma
+    - Xylariaceae
 - id: doi:10.1046/j.1365-294x.2000.00874-6.x
+  title: Development of primer sets to amplify fragments of conserved genes for use in population studies of the fungus <i>Daldinia loculata</i>
+  authors: 
+    - Hanna Johannesson
+    - K.H.P Johannesson    
+    - Jan Stenlid
 - id: doi:10.1017/S0953756299001719
+  title: Molecular and morphological investigation of <i>Daldinia</i> in northern Europe
 - id: doi:10.1017/S0953756299008709
+  title: <i>Sarcodon imbricatus</i> and <i>S. squamosus</i> — two confused species
+  authors: 
+    - Hanna Johannesson
+    - Svengunnar Ryman
+    - Hjördis Lundmark
+    - Eric Danell
 - id: doi:10.1017/S0953756299008953
+  title: Taxonomy of <i>Antrodiella</i> inferred from morphological and molecular data
+  authors: 
+    - Hanna Johannesson
+    - Pertti Renvall
+    - Jan Stenlid
 - id: issn:0093-4666
+  title: Molecular relationships within the genus <i>Amylostereum</i> as determined by internal transcribed spacer sequences of the ribosomal DNA
+  authors:
+    - Hanna Johannesson
+    - Rimvydas Vasiliauskas
+    - Jan Stenlid
+  publisher: Mycotaxon
+  date: 1999
 - id: doi:10.1016/S0378-1127(98)00399-5
+  title: Molecular identification of wood-inhabiting fungi in an unmanaged <i>Picea abies</i> forest in Sweden
