@@ -1433,7 +1433,7 @@
   image: https://onlinelibrary.wiley.com/cms/asset/2ab3dbb7-3253-4124-961f-7b1c2c1b6b6a/mec_1317_f3.gif
   _cache: fec470fbc67412498916c0a67d459b0727daf649c3b8d5de47d404363eefb9b1
 - id: doi:10.1080/00275514.2001.12063176
-  title: Local population structure of the wood decay ascomycete<i>Daldinia loculata</i>
+  title: Local population structure of the wood decay ascomycete <i>Daldinia loculata</i>
   authors:
   - Hanna Johannesson
   - "M\xE5rten Gustafsson"
@@ -1448,7 +1448,7 @@
   - Multilocus genotypes
   - Stroma
   - Xylariaceae
-  _cache: bd685dc59f5bc88f01dcd70f0832daa73dd0f93d7be57b46b8d0368aa40784b1
+  _cache: 5f5d7efac46c1e3657c5e6cc703585d46a00f5655b4ade8b41f6b469bb1f0be5
 - id: doi:10.1046/j.1365-294x.2000.00874-6.x
   title: Development of primer sets to amplify fragments of conserved genes for use
     in population studies of the fungus <i>Daldinia loculata</i>
