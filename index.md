@@ -49,7 +49,7 @@ In addition to our PI, we have researchers, PhD-students and support persons in 
 
 {%
   include feature.html
-  image="images/team_jump.jpg"
+  image="images/team_meeting.jpeg"
   link="team"
   title="Our Team"
   flip=true
