@@ -2,7 +2,7 @@
 title: Mine fungi
 name: Mine fungi
 image: images/projects/mine_fungi.jpg
-imagecaption: Ascomycete strain isolated from the mine
+imagecaption: Fungal strains isolated from the mine to pure culture
 description: Fungi of the Kiruna iron mine
 group: 
 link: 
@@ -13,6 +13,7 @@ tags:
   - ascomycota
   - oil
   - extreme environments
+  - heavy metals
 repo: 
 people:
   - "Petter Madsen"
