@@ -2,6 +2,7 @@
 title: Visit from Gulnara Tagirdzhanova
 tags:
   - workshop
+  - presentation
 author: Hanna Johannesson
 member: hanna-johannesson
 ---

@@ -1,6 +1,6 @@
 ---
 name: Mario Walthert
-image: images/team/mario-walthert.jpg
+image: images/team/mario_walthert.jpg
 description: Master Student
 role: phd
 group: current

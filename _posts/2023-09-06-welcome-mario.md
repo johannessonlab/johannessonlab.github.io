@@ -3,7 +3,8 @@ title: Mario joins the lab
 tags:
   - mushroom
   - mycology
-  - new member
+  - group
+  - research
 author: Hanna Johannesson
 member: hanna-johannesson
 ---
