@@ -3,7 +3,7 @@ title: Home
 ---
 
 # Fungal Genome Evolution
-The Johannesson lab, led by professor Hanna Johannesson, is placed at the [Department of Ecology, Environment and Plant Sciences](https://www.su.se/department-of-ecology-environment-and-plant-sciences/) at [Stockholm University](https://www.su.se/). Today, our team comprises 12 members from a diverse background: we all share a deep interest for fungal evolution and genetics! 
+The Johannesson lab, led by professor Hanna Johannesson, is placed at the [Department of Ecology, Environment and Plant Sciences](https://www.su.se/department-of-ecology-environment-and-plant-sciences/) at [Stockholm University](https://www.su.se/). Today, our team comprises members from a diverse background, and we all share a deep interest for fungal evolution and genetics! 
 
 {% include section.html full=true %}
 

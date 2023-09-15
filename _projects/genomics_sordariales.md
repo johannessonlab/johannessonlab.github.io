@@ -1,7 +1,7 @@
 ---
 title: "Genome Evolution in Sordariales"
 name: Sordariales
-image: images/photo.jpg
+image: images/projects/sordariales.png
 imagecaption: 
 description: Genome evolution and genetic conflict in Sordariales
 group: 
