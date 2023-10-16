@@ -2,7 +2,7 @@
 title: "Genome Evolution in Sordariales"
 name: Sordariales
 image: images/projects/sordariales.png
-imagecaption: 
+imagecaption: Perithecium (fruiting body) of Podospora anserina
 description: Genome evolution and genetic conflict in Sordariales
 group: 
 link: 

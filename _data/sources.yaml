@@ -1,3 +1,12 @@
+- id: doi:10.1016/j.ympev.2023.107938
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1055790323002385-ga1.jpg
+  tags:
+    - Comparative genomics
+    - Whole-genome phylogeny
+    - Podosporaceae
+    - Chaetomiaceae
+    - Sordariaceae
+    - Genome evolution
 - id: doi:10.1111/jeb.14108
   image: https://onlinelibrary.wiley.com/cms/asset/2016e245-f100-43c6-91c1-e2de9c9e395b/jeb14108-fig-0001-m.png
   tags:
@@ -10,7 +19,7 @@
     - Reproductive strategy
     - Selfing
 - id: doi:10.1111/evo.14630
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/76/11/10.1111_evo.14630/2/evo14630-fig-0003-m.jpeg?Expires=1680619092&Signature=yjVTE9iLvHVhmiqY7Sdm9hs2lDtE9upsw8-PdjwAPu-Xuml8hOcuT5YG0wy4h-2TNLChVUdwmaf8U1zxxtKgNa3Otu6wf6pydBlLYckIiYH96kxsnq6RtQhPYcycFGnbQhCOJwhq8awokXuiOdCxSqIqnQ0Rwphs5XzVOJXmCIxAnUjLt6fdmAr0qUehzVKciVgO1EN4Tjqmtba1~y6K8eoZdA-OKMf6FWgHtQm-CuO9dGRVoBR~EF8SNDix6fO6HMSmIblaE00etwmpMaZGHgm1fsfsGSBhXVNcZhkUB09wQ7gBHFoFSV~YYT0ieBhGwkVd0CRwrGSWCRa~dFvCyA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/evo14630-fig-0003-m.jpeg
   tags:
     - Bateson‐Dobzhansky‐Muller incompatibility
     - Meiotic drive
@@ -35,7 +44,7 @@
      - Spore killing
      - Selfish genetic elements
 - id: doi:10.1098/rspb.2022.0971
-  image: https://royalsocietypublishing.org/cms/asset/e3580fae-7af3-4171-b054-fb0a435842eb/rspb20220971f01.gif
+  image: images/paper_figures/rspb20220971f01.gif
   tags:
     - Allele-specific expression
     - Heterokaryosis
@@ -69,7 +78,7 @@
 - id: doi:10.3389/ffunb.2021.716385
   image: https://www.frontiersin.org/files/Articles/716385/ffunb-02-716385-HTML/image_m/ffunb-02-716385-g001.jpg
 - id: doi:10.1093/gbe/evab126
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/13/7/10.1093_gbe_evab126/4/m_evab126f1.jpeg?Expires=1683234958&Signature=mJRoBEQX-6m53G73bsZtEywVv8fTMmWyF~gwQEKna7mj0whyvUxGVBp5tV5cCQNOZJI1UHrzgHl-tm6iZmySVwzcFT~xFtIU4I9QUu-F21-HFAHYIRLkDfsGpGoF9xFnJf5Df0T8q6dsCbmKWZ2WuIwdf0o0uolTm~WDxAEg9sF-rhtuRhPaDCMNUCRFfssxDmthFgKgLSisPfQskJtvEiC1BXyaboqw5B1DQ~eldTUmntjdTQ7daWUoKLeJash9~LVKQBdQKdQPt3CDHUoZii86nx0pVJ3PdzEEQzPxIM3QbgcCE0sRNQSzmSdAZsiGDSmIb72dPMZfe9aNx0nr9g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/evab126f1.jpeg
   tags:
     - Mushroom
     - Repeat library
@@ -89,7 +98,7 @@
 - id: doi:10.1101/gr.267609.120
   image: https://genome.cshlp.org/content/31/5/789/F2.small.gif
 - id: doi:10.1111/evo.14214
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/75/5/10.1111_evo.14214/2/m_evo14214-fig-0002.jpeg?Expires=1680682386&Signature=wvQa9KbMYBbWMe8shFyHSatZ7m8sIF9DS~EhqhebQYEzST6o-gplz18qj7NPytbsIBGiUWlWqe1ONPhJeyMlo5eSuYu6s1tBf5ZvGra9nGkstsxTtM-Vrj3LrBA0sE~OCWHpl--L4l7GzFVYC3kqFeSHnVjWq1~Ls9Ech7od1~KfNBGYWdGWlLC6mfCiiQpdOoy9dGyGFhkALK7MHFFWnEzDROMXpu-pjY3w~53KdA0Bvw7jsVbMLwPKx5vG8mZM0zQSyB5ICONRrxLUcJUS7cTtIJJSVxKTTGMV5Hntq6R4jc5p2rC6472BdHjsNQlwaFeo9nGGq5~1S8MIiwmwsQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/evo14214-fig-0002.jpeg 
   tags:
     - Ascomycete fungi
     - Meiosis
@@ -97,7 +106,7 @@
     - Population genetics
     - Spore killer
 - id: doi:10.1093/molbev/msab040
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/38/6/10.1093_molbev_msab040/1/m_msab040f1.jpeg?Expires=1680682499&Signature=nfGVAttR6ga4NbyR11oj-wXEMOCHwJQBpFNOD4HXA4EN4l6fcg0s5YxYdbaaCwaVeXO3rqx81BJIdEIrk8KOhkSykyppC2j2VHT5hdjUm4e8exM3tCjGg3DFzktrS0XDdFoF4BTC9LS4YgTtU4YeHKY9C2n9KfPfF4LkhIXebpC5d5zSFAJl2gGZouQCOq6m9blXWgfaAKuu6PQmBsFdm-OyA1ZqMEeQoOde4VuV8JbWKPPs0k9bZobgRhPTZji1~pxtbGOm3TIhRKnJ7FgaKEEFYMu-~fkn3dNyzL5E61ISi5dSS0H6L~BRK21qTSdyrYyvkymXP9ojOPqNXutfoA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/msab040f5.jpeg
   tags:
     - Convergence
     - Mating-type chromosomes

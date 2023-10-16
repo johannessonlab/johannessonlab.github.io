@@ -1,6 +1,6 @@
 # Johannesson Lab
 
-This repository hosts the source code and data for the [Johannesson lab web page](https://johannessonlab.github.io/). It was created from the [Lab website template](https://github.com/greenelab/lab-website-template/)
+This repository hosts the source code and data for the [Johannesson lab web page](https://johannessonlab.github.io/). It was created from the [Lab website template](https://github.com/greenelab/lab-website-template/).
 
 ## Update the site
 
@@ -14,6 +14,17 @@ _Internal user guide for the johannessonlab administrator_
 
 ### Adding publications
 Add new publications by making new entries in `data/sources.yaml`. Only the DOI number is necessary, but an image can also be added. **Important**: after adding the DOI number in `sources.yaml`, auto-cite.py needs to be run. You will have to install some dependencies first. See [the lab website template documentations for details](https://greene-lab.gitbook.io/lab-website-template-docs/basics/citations).
+
+Installing dependencies:
+```bash
+pip install importlib
+pip install dict_hash
+pip install --upgrade manubot
+```
+manubot defaults to install in `$HOME/.local/bin/`. You may have to add it to PATH:
+```bash
+export "PATH=$HOME/.local/bin/:$PATH" >> $HOME/.bashrc
+```
 
 ### Make a news post
 Make news posts by adding files in `_posts`. The files need to be named according to jekyll blog post format, i.e. with the date first. Easiest is to copy a previous post and edit the information.

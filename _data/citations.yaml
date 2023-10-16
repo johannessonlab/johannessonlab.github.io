@@ -1,6 +1,59 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1016/j.ympev.2023.107938
+  title: Genome-scale phylogeny and comparative genomics of the fungal order Sordariales
+  authors:
+  - Noah Hensen
+  - Lucas Bonometti
+  - Ivar Westerberg
+  - "Ioana Onut Br\xE4nnstr\xF6m"
+  - Sonia Guillou
+  - Sandrine Cros-Aarteil
+  - Sara Calhoun
+  - Sajeet Haridas
+  - Alan Kuo
+  - Stephen Mondo
+  - Jasmyn Pangilinan
+  - Robert Riley
+  - Kurt LaButti
+  - Bill Andreopoulos
+  - Anna Lipzen
+  - Cindy Chen
+  - Mi Yan
+  - Chris Daum
+  - Vivian Ng
+  - Alicia Clum
+  - Andrei Steindorff
+  - Robin A. Ohm
+  - Francis Martin
+  - Philippe Silar
+  - Donald O. Natvig
+  - Christophe Lalanne
+  - "Val\xE9rie Gautier"
+  - "Sandra Lorena Ament-Vel\xE1squez"
+  - "\xC5sa Kruys"
+  - Miriam I. Hutchinson
+  - Amy Jo Powell
+  - Kerrie Barry
+  - Andrew N. Miller
+  - Igor V. Grigoriev
+  - Robert Debuchy
+  - Pierre Gladieux
+  - "Markus Hiltunen Thor\xE9n"
+  - Hanna Johannesson
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2023-12-01'
+  link: https://doi.org/gsv3qq
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1055790323002385-ga1.jpg
+  tags:
+  - Comparative genomics
+  - Whole-genome phylogeny
+  - Podosporaceae
+  - Chaetomiaceae
+  - Sordariaceae
+  - Genome evolution
+  _cache: 5fc4ab2cc47dc8121b0c94957accc1fa9b701af7aea246f3f9215f240d57b02c
 - id: doi:10.1111/jeb.14108
   title: "To self or not to self? Absence of mate choice despite costly outcrossing\
     \ in the fungus\n            <i>Podospora anserina</i>"
@@ -34,14 +87,14 @@
   publisher: Evolution
   date: '2022-10-03'
   link: https://doi.org/grgzb3
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/76/11/10.1111_evo.14630/2/evo14630-fig-0003-m.jpeg?Expires=1680619092&Signature=yjVTE9iLvHVhmiqY7Sdm9hs2lDtE9upsw8-PdjwAPu-Xuml8hOcuT5YG0wy4h-2TNLChVUdwmaf8U1zxxtKgNa3Otu6wf6pydBlLYckIiYH96kxsnq6RtQhPYcycFGnbQhCOJwhq8awokXuiOdCxSqIqnQ0Rwphs5XzVOJXmCIxAnUjLt6fdmAr0qUehzVKciVgO1EN4Tjqmtba1~y6K8eoZdA-OKMf6FWgHtQm-CuO9dGRVoBR~EF8SNDix6fO6HMSmIblaE00etwmpMaZGHgm1fsfsGSBhXVNcZhkUB09wQ7gBHFoFSV~YYT0ieBhGwkVd0CRwrGSWCRa~dFvCyA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/evo14630-fig-0003-m.jpeg
   tags:
   - "Bateson\u2010Dobzhansky\u2010Muller incompatibility"
   - Meiotic drive
   - Neurospora
   - Sexual incompatibility
   - Speciation
-  _cache: 74bd83f189c1941da9f4582fa46339ec3bc5fc85ccb9f1660ad9ad3c4796d304
+  _cache: e4171e2661ed86664b619ee5de18b5eae8ba30f9d00439f1cbcd4300fc91945d
 - id: doi:10.1073/pnas.2208575119
   title: "Stage-specific transposon activity in the life cycle of the fairy-ring mushroom\n\
     \            <i>Marasmius oreades</i>"
@@ -90,12 +143,12 @@
   publisher: 'Proceedings of the Royal Society B: Biological Sciences'
   date: '2022-08-10'
   link: https://doi.org/gqp6rm
-  image: https://royalsocietypublishing.org/cms/asset/e3580fae-7af3-4171-b054-fb0a435842eb/rspb20220971f01.gif
+  image: images/paper_figures/rspb20220971f01.gif
   tags:
   - Allele-specific expression
   - Heterokaryosis
   - Additivity
-  _cache: a8c74170e0d0d78a680bc79223ee5fc7570f1b1f1ab188595a4873365b58ee35
+  _cache: 5ed1b7b698240d72adbab6be8557e9c94e197cf390329b3aae39f46830635640
 - id: doi:10.1038/s41559-022-01734-x
   title: Allorecognition genes drive reproductive isolation in Podospora anserina
   authors:
@@ -197,7 +250,7 @@
   publisher: Genome Biology and Evolution
   date: '2021-05-29'
   link: https://doi.org/gm5sc3
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/13/7/10.1093_gbe_evab126/4/m_evab126f1.jpeg?Expires=1683234958&Signature=mJRoBEQX-6m53G73bsZtEywVv8fTMmWyF~gwQEKna7mj0whyvUxGVBp5tV5cCQNOZJI1UHrzgHl-tm6iZmySVwzcFT~xFtIU4I9QUu-F21-HFAHYIRLkDfsGpGoF9xFnJf5Df0T8q6dsCbmKWZ2WuIwdf0o0uolTm~WDxAEg9sF-rhtuRhPaDCMNUCRFfssxDmthFgKgLSisPfQskJtvEiC1BXyaboqw5B1DQ~eldTUmntjdTQ7daWUoKLeJash9~LVKQBdQKdQPt3CDHUoZii86nx0pVJ3PdzEEQzPxIM3QbgcCE0sRNQSzmSdAZsiGDSmIb72dPMZfe9aNx0nr9g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/evab126f1.jpeg
   tags:
   - Mushroom
   - Repeat library
@@ -205,7 +258,7 @@
   - Linkage map
   - Genomics
   - Agaricomycetes
-  _cache: 63fa33b7fa5910949381b4ebf40fbc356900ac1b1206e807851074fa374537d8
+  _cache: bbbc9b5decb4d4430e63cbd37b1e3b8a251b736f8fc524e8b5962790b34287b1
 - id: doi:10.3389/ffunb.2021.656386
   title: 'The Plot Thickens: Haploid and Triploid-Like Thalli, Hybridization, and
     Biased Mating Type Ratios in Letharia'
@@ -273,14 +326,14 @@
   publisher: Evolution
   date: '2021-05-01'
   link: https://doi.org/gjjzjn
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/75/5/10.1111_evo.14214/2/m_evo14214-fig-0002.jpeg?Expires=1680682386&Signature=wvQa9KbMYBbWMe8shFyHSatZ7m8sIF9DS~EhqhebQYEzST6o-gplz18qj7NPytbsIBGiUWlWqe1ONPhJeyMlo5eSuYu6s1tBf5ZvGra9nGkstsxTtM-Vrj3LrBA0sE~OCWHpl--L4l7GzFVYC3kqFeSHnVjWq1~Ls9Ech7od1~KfNBGYWdGWlLC6mfCiiQpdOoy9dGyGFhkALK7MHFFWnEzDROMXpu-pjY3w~53KdA0Bvw7jsVbMLwPKx5vG8mZM0zQSyB5ICONRrxLUcJUS7cTtIJJSVxKTTGMV5Hntq6R4jc5p2rC6472BdHjsNQlwaFeo9nGGq5~1S8MIiwmwsQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/evo14214-fig-0002.jpeg
   tags:
   - Ascomycete fungi
   - Meiosis
   - Meiotic drive
   - Population genetics
   - Spore killer
-  _cache: 405bac803a011fc81d7db20c20b408f8ce7b7831965d0e6ef284f2edf813f89f
+  _cache: 077ae970c88288894a5161504b0fabaca410d2207a2db36db198b73c34d75fe1
 - id: doi:10.1093/molbev/msab040
   title: Size Variation of the Nonrecombining Region on the Mating-Type Chromosomes
     in the Fungal <i>Podospora anserina</i> Species Complex
@@ -300,7 +353,7 @@
   publisher: Molecular Biology and Evolution
   date: '2021-02-08'
   link: https://doi.org/gk8hkd
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/38/6/10.1093_molbev_msab040/1/m_msab040f1.jpeg?Expires=1680682499&Signature=nfGVAttR6ga4NbyR11oj-wXEMOCHwJQBpFNOD4HXA4EN4l6fcg0s5YxYdbaaCwaVeXO3rqx81BJIdEIrk8KOhkSykyppC2j2VHT5hdjUm4e8exM3tCjGg3DFzktrS0XDdFoF4BTC9LS4YgTtU4YeHKY9C2n9KfPfF4LkhIXebpC5d5zSFAJl2gGZouQCOq6m9blXWgfaAKuu6PQmBsFdm-OyA1ZqMEeQoOde4VuV8JbWKPPs0k9bZobgRhPTZji1~pxtbGOm3TIhRKnJ7FgaKEEFYMu-~fkn3dNyzL5E61ISi5dSS0H6L~BRK21qTSdyrYyvkymXP9ojOPqNXutfoA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/msab040f5.jpeg
   tags:
   - Convergence
   - Mating-type chromosomes
@@ -311,7 +364,7 @@
   - Pseudohomothallism
   - Evolutionary strata
   - Transposable elements
-  _cache: b060842ed883a1652f8dc55a75948eac1ec41bf26075b9b62da0ed31db28a454
+  _cache: a8f9c751d759bbd6cc14daedd698637d2535c986c579acca2d58dc98e92f2d8f
 - id: doi:10.3897/mycokeys.75.55968
   title: The taxonomy of the model filamentous fungus Podospora anserina
   authors:
