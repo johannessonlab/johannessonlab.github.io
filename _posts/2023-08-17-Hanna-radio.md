@@ -7,4 +7,4 @@ author: Hanna Johannesson
 member: hanna-johannesson
 ---
 
-Our PI, Hanna Johannesson, is giving her program at Sommar i P1. The program is dedicated to the fungi. [Listen to it here](https://sverigesradio.se/avsnitt/hanna-johannesson-sommarpratare-2023).
+Our PI, Hanna Johannesson, is giving her program at Sommar i P1. The program is dedicated to the fungi. Listen to it here: [https://sverigesradio.se/avsnitt/hanna-johannesson-sommarpratare-2023](https://sverigesradio.se/avsnitt/hanna-johannesson-sommarpratare-2023)
