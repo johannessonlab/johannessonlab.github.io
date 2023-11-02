@@ -7,8 +7,6 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Our team is led by professor Hanna Johannesson. We comprise a mix of Swedish and international team members, each with their own unique skillset.
-
 {% include section.html %}
 
 {%

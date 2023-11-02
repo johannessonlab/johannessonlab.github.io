@@ -29,47 +29,47 @@
 
 {%- for year in years -%}
 
-{%- assign items = year.items -%}
+  {%- assign items = year.items -%}
 
-{%- if years.size > 1 -%}
-  <h3 id="{{ year.name }}">{{ year.name }}</h3>
-  {%- assign items = items | sort: "date" | reverse -%}
-{%- endif -%}
+  {%- if years.size > 1 -%}
+    <h3 id="{{ year.name }}">{{ year.name }}</h3>
+    {%- assign items = items | sort: "date" | reverse -%}
+  {%- endif -%}
 
-{%- for d in items -%}
+  {%- for d in items -%}
 
-  {%- assign link = d.link | default: d.url -%}
-  {%- assign style = d.style | default: include.style -%}
+    {%- assign link = d.link | default: d.url -%}
+    {%- assign style = d.style | default: include.style -%}
 
-  {%-
-    include {{ component }}
-    author=d.author
-    authors=d.authors
-    caption=d.caption
-    content=d.content
-    date=d.date
-    description=d.description
-    extra-links=d.extra-links
-    height=d.height
-    icon=d.icon
-    id=d.id
-    image=d.image
-    link=link
-    publisher=d.publisher
-    repo=d.repo
-    role=d.role
-    slug=d.slug
-    style=style
-    subtitle=d.subtitle
-    tags=d.tags
-    title=d.title
-    text=d.text
-    tooltip=d.tooltip
-    type=d.type
-    url=d.url
-    width=d.width
-  -%}
+    {%-
+      include {{ component }}
+      author=d.author
+      authors=d.authors
+      caption=d.caption
+      content=d.content
+      date=d.date
+      description=d.description
+      extra-links=d.extra-links
+      height=d.height
+      icon=d.icon
+      id=d.id
+      image=d.image
+      link=link
+      publisher=d.publisher
+      repo=d.repo
+      role=d.role
+      slug=d.slug
+      style=style
+      subtitle=d.subtitle
+      tags=d.tags
+      title=d.title
+      text=d.text
+      tooltip=d.tooltip
+      type=d.type
+      url=d.url
+      width=d.width
+    -%}
 
-{%- endfor -%}
+  {%- endfor -%}
 
 {%- endfor -%}
