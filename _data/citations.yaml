@@ -1,6 +1,32 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.3389/fmicb.2023.1286501
+  title: Cytological studies reveal high variation in ascospore number and shape and
+    conidia produced directly from ascospores in Morchella galilaea
+  authors:
+  - Xi-Hui Du
+  - Si-Yue Wang
+  - Martin Ryberg
+  - Yong-Jie Guo
+  - Jing-Yi Wei
+  - Donald H. Pfister
+  - Hanna Johannesson
+  publisher: Frontiers in Microbiology
+  date: '2023-11-09'
+  link: https://doi.org/gs4x52
+  image: https://www.frontiersin.org/files/Articles/1286501/fmicb-14-1286501-HTML-r1/image_m/fmicb-14-1286501-g001.jpg
+  tags:
+  - Morels
+  - Ascomycetes
+  - Aborted ascospore
+  - Ascospore number
+  - Ascospore shape
+  - Budding
+  - Ascoconidium
+  - Meiosis
+  - Mitosis
+  _cache: 7623030775ed43c6135a6aa85df87d8e6478bd9b9460b82ba17df2e630aa0e4c
 - id: doi:10.1016/j.ympev.2023.107938
   title: Genome-scale phylogeny and comparative genomics of the fungal order Sordariales
   authors:
