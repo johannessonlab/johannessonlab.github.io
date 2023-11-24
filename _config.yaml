@@ -1,34 +1,22 @@
-### basic settings
-
 # site properties and page defaults
 title: Johannesson Lab
 subtitle: at Stockholm University
 description: The lab group of professor Hanna Johannesson at Stockholm University
-logo: images/JohannessonLab_logo.png
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /
 
 # site social media and other links
 links:
   email: hanna.johannesson@su.se
+  orcid: 0000-0001-6359-9856
   google-scholar: __qwxZoAAAAJ
   github: johannessonlab
   twitter: JohannessonLab
-  instagram: 
   youtube: 
 
-### advanced settings
+### jekyll settings
 
-# automatic citations
-auto-cite:
-  plugins:
-    - name: sources
-      input:
-        - ../_data/sources.yaml
-  output: ../_data/citations.yaml
-
-# default front matter parameters for markdown files
+# front matter defaults
 defaults:
   # all markdown files
   - scope:
@@ -52,31 +40,42 @@ defaults:
       layout: project
 
 
-# collections
 collections:
+  # generate page for each member
   members:
     output: true
+  # generate page for each post
+  posts:
+    output: true
+  # generate page for each project - added by Markus
   projects:
     output: true
 
-# sass settings
-sass:
-  sass_dir: css
-
-# syntax highlighting
-highlighter: rouge
-
-# plugins
+# jekyll plugins
 plugins:
+  - jekyll-spaceship
+  - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-feed
-  - jekyll-sitemap
-  # - jekyll-github-metadata
-  # - jekyll-avatar
-  # - jekyll-gist
-  # - jekyll-mentions
-  # - jekyll-relative-links
-  # - jemoji
+  - jekyll-last-modified-at
+
+# code block syntax highlighting
+highlighter: rouge
 
 # jekyll theme
 theme: null
+
+# sass settings
+sass:
+  sass_dir: _styles
+
+# force jekyll to include certain files/folders
+include:
+  - _styles
+  - _scripts
+
+# force jekyll to exclude certain files/folders
+exclude:
+  - README.md
+  - LICENSE.md
+  - CITATION.cff

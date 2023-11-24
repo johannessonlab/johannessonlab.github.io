@@ -1,5 +1,4 @@
-# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
-# See https://github.com/greenelab/lab-website-template/wiki/Citations
+# DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.3389/fmicb.2023.1286501
   title: Cytological studies reveal high variation in ascospore number and shape and
@@ -26,7 +25,8 @@
   - Ascoconidium
   - Meiosis
   - Mitosis
-  _cache: 7623030775ed43c6135a6aa85df87d8e6478bd9b9460b82ba17df2e630aa0e4c
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ympev.2023.107938
   title: Genome-scale phylogeny and comparative genomics of the fungal order Sordariales
   authors:
@@ -79,10 +79,11 @@
   - Chaetomiaceae
   - Sordariaceae
   - Genome evolution
-  _cache: 5fc4ab2cc47dc8121b0c94957accc1fa9b701af7aea246f3f9215f240d57b02c
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/jeb.14108
-  title: "To self or not to self? Absence of mate choice despite costly outcrossing\
-    \ in the fungus\n            <i>Podospora anserina</i>"
+  title: To self or not to self? Absence of mate choice despite costly outcrossing
+    in the fungus <i>Podospora anserina</i>
   authors:
   - "Ivain Martinossi\u2010Allibert"
   - "Sandra Lorena Ament\u2010Vel\xE1squez"
@@ -101,7 +102,8 @@
   - Podospora
   - Reproductive strategy
   - Selfing
-  _cache: a58f33137685a7dab5e8fa39c5b31548cf3e0d1d06dc353c6754feaaa8364e81
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/evo.14630
   title: "Meiotic drive is associated with sexual incompatibility in\n           \
     \ <i>Neurospora</i>"
@@ -120,7 +122,8 @@
   - Neurospora
   - Sexual incompatibility
   - Speciation
-  _cache: e4171e2661ed86664b619ee5de18b5eae8ba30f9d00439f1cbcd4300fc91945d
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1073/pnas.2208575119
   title: "Stage-specific transposon activity in the life cycle of the fairy-ring mushroom\n\
     \            <i>Marasmius oreades</i>"
@@ -141,7 +144,8 @@
   - Life cycle
   - Selfish genetic elements
   - Transposable elements
-  _cache: 044f08d36f5452fe271e527cfd9858465913ebac41e10ba2a948bd62ffe7a0a8
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1146/annurev-micro-041320-113730
   title: On the Mechanistic Basis of Killer Meiotic Drive in Fungi
   authors:
@@ -156,7 +160,8 @@
   - Fungi
   - Spore killing
   - Selfish genetic elements
-  _cache: 7d54ce1d9a807335b6326055336c9ddf8206f282a1d8667c2eab4d6dd56d0ecd
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1098/rspb.2022.0971
   title: "Nuclear-specific gene expression in heterokaryons of the filamentous ascomycete\n\
     \            <i>Neurospora tetrasperma</i>"
@@ -174,7 +179,8 @@
   - Allele-specific expression
   - Heterokaryosis
   - Additivity
-  _cache: 5ed1b7b698240d72adbab6be8557e9c94e197cf390329b3aae39f46830635640
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41559-022-01734-x
   title: Allorecognition genes drive reproductive isolation in Podospora anserina
   authors:
@@ -199,7 +205,8 @@
   - Genetic interaction
   - Genetic variation
   - Speciation
-  _cache: f6dafc10c173dcb4162aa43a80c0dab50ac6f3de599fca862d191dce1f6ee451
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.4148/1941-4765.2177
   title: 'Transposon- and Genome Dynamics in the Fungal Genus Neurospora: Insights
     from Nearly Gapless Genome Assemblies'
@@ -220,7 +227,8 @@
   - Genome defense
   - Repeat-Induced Point (RIP) mutation
   - Neurospora
-  _cache: 8c3f048e7cc8ec6a9c6957dd29ad5a120ebfdfcd8de86d3c6d0ba63ba4387d77
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/00275514.2021.1994815
   title: The spore killers, fungal meiotic driver elements
   authors:
@@ -239,7 +247,8 @@
   - Spore killing
   - Gene drive
   - Ascomycetes
-  _cache: 4d02d4b1dfd6e1bc4a8179f128e6d308c1dff5353f1fb8c594e8d796d1af1092
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1128/MMBR.00016-21
   title: Molecular Mechanisms and Evolutionary Consequences of Spore Killers in Ascomycetes
   authors:
@@ -249,7 +258,8 @@
   date: '2021-12-15'
   link: https://doi.org/gn3d75
   image: https://journals.asm.org/cms/10.1128/MMBR.00016-21/asset/694d2a0e-72cd-44c5-8bef-5b2da12f4e39/assets/images/large/mmbr.00016-21-f003.jpg
-  _cache: 841488ef461427fea568e16234730dad00becf681f0d69d662dca899bb313868
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3389/ffunb.2021.716385
   title: In-depth Phylogenomic Analysis of Arbuscular Mycorrhizal Fungi Based on a
     Comprehensive Set of de novo Genome Assemblies
@@ -265,7 +275,8 @@
   date: '2021-09-29'
   link: https://doi.org/gqcnws
   image: https://www.frontiersin.org/files/Articles/716385/ffunb-02-716385-HTML/image_m/ffunb-02-716385-g001.jpg
-  _cache: d42ef568130ae38c433c1acb0abd4b92c2a4c0f406cb30b30d758778f3df46f7
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/gbe/evab126
   title: The Assembled and Annotated Genome of the Fairy-Ring Fungus <i>Marasmius
     oreades</i>
@@ -284,7 +295,8 @@
   - Linkage map
   - Genomics
   - Agaricomycetes
-  _cache: bbbc9b5decb4d4430e63cbd37b1e3b8a251b736f8fc524e8b5962790b34287b1
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3389/ffunb.2021.656386
   title: 'The Plot Thickens: Haploid and Triploid-Like Thalli, Hybridization, and
     Biased Mating Type Ratios in Letharia'
@@ -306,7 +318,8 @@
   - Lichens
   - Mating type
   - Triploid
-  _cache: 461fb7c93bea980c29cd984c6e27871624317586b8a1f48a97083e93aad4e713
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1073/pnas.2026605118
   title: An introgressed gene causes meiotic drive in <i>Neurospora sitophila</i>
   authors:
@@ -322,7 +335,8 @@
   date: '2021-04-19'
   link: https://doi.org/gkbpsx
   image: https://www.pnas.org/cms/10.1073/pnas.2026605118/asset/19d431f7-f213-4c86-8817-d4e857a24c54/assets/images/large/pnas.2026605118fig01.jpg
-  _cache: 449c30e39ad151f490bd2537a6a7e47463deb8ba2dc2af4ca27780083569dc74
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/gr.267609.120
   title: The <i>Enterprise</i>, a massive transposon carrying <i>Spok</i> meiotic
     drive genes
@@ -338,7 +352,8 @@
   date: '2021-04-19'
   link: https://doi.org/gkmxd6
   image: https://genome.cshlp.org/content/31/5/789/F2.small.gif
-  _cache: 6fb7284126bb8cc846fddc3db26c01a97c8b8a166288f2fa313ace59f7d058d8
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/evo.14214
   title: Invasion and maintenance of meiotic drivers in populations of ascomycete
     fungi
@@ -359,7 +374,8 @@
   - Meiotic drive
   - Population genetics
   - Spore killer
-  _cache: 077ae970c88288894a5161504b0fabaca410d2207a2db36db198b73c34d75fe1
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/molbev/msab040
   title: Size Variation of the Nonrecombining Region on the Mating-Type Chromosomes
     in the Fungal <i>Podospora anserina</i> Species Complex
@@ -390,7 +406,8 @@
   - Pseudohomothallism
   - Evolutionary strata
   - Transposable elements
-  _cache: a8f9c751d759bbd6cc14daedd698637d2535c986c579acca2d58dc98e92f2d8f
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3897/mycokeys.75.55968
   title: The taxonomy of the model filamentous fungus Podospora anserina
   authors:
@@ -419,7 +436,8 @@
   - Podospora
   - Podosporaceae
   - Taxonomy
-  _cache: fa56e24470de2bbea2ab70c37bd6a9d18b8a9e6e24cc1286557338a3f4248328
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-017-01317-6
   title: Large-scale suppression of recombination predates genomic rearrangements
     in Neurospora tetrasperma
@@ -433,7 +451,8 @@
   date: '2017-10-26'
   link: https://doi.org/gckbrn
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-017-01317-6/MediaObjects/41467_2017_1317_Fig1_HTML.jpg?as=webp
-  _cache: 77418ad50d407731c3b74461ba414729caa8f73a6709b9493c6b286e76696434
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/bioinformatics/btaa975
   title: 'ARBitR: an overlap-aware genome assembly scaffolder for linked reads'
   authors:
@@ -444,7 +463,8 @@
   date: '2020-11-20'
   link: https://doi.org/gjqhp4
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/37/15/10.1093_bioinformatics_btaa975/1/m_btaa975f1.jpeg?Expires=1680177882&Signature=mBatYIFn7bApYSb4xAAtWpn36hqeRkwSrph9wmAQ5-TGBA70dORpPCdOmG7avwfAPU7QzhgfwI6-rb0AQz-Uz3DTu3QuCohnZUguMeAFVCMd7KnmGy253ONa3Ka-IOp9nrR5jmOxr7C5QDl0doJfcaANM8Gfg25HElv6NYsjAc5ApWnVW9K1zGyG8zMNHkXlTcbrDUO3xSlwiPAfkXQM9FhGxk5GjzEMwAh0ir5s1YPH2ak0WfnJZxSFKMOTNXzryOs7jdpazJB-pVHYEqerEeh33tQqloiOoO9hdyS84Yqf9aVAOqMklSmdG6TKstrZ2Tww0-E~ZBdmPMlMAIHp7A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  _cache: 76109e77de1bc464c714b5030e85b79a02e65101ec97549f9d8fc636d1cac734
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/15592294.2020.1741758
   title: Comparative analysis of genome-wide DNA methylation in <i>Neurospora</i>
   authors:
@@ -457,7 +477,8 @@
   date: '2020-03-31'
   link: https://doi.org/gjfjbv
   image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/kepi20/2020/kepi20.v015.i09/15592294.2020.1741758/20210508/images/medium/kepi_a_1741758_f0001_c.jpg
-  _cache: b14e071be62f79fa43ac29acf60177e541d2e6d8fb0b460cd3e958f4ed97e58e
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41598-020-58025-3
   title: Building de novo reference genome assemblies of complex eukaryotic microorganisms
     from single nuclei
@@ -475,7 +496,8 @@
   date: '2020-01-28'
   link: https://doi.org/ggx5b6
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-58025-3/MediaObjects/41598_2020_58025_Fig1_HTML.png?as=webp
-  _cache: 847331aeb475a25ef0ad7b11458a8b46a9771c9cdb0db5475bf381127641d247
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-1-0716-0199-0_13
   title: 'Neurospora from Natural Populations: Population Genomics Insights into the
     Life History of a Model Microbial Eukaryote'
@@ -490,7 +512,8 @@
   date: '2020-01-01'
   link: https://doi.org/grvc87
   image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-0716-0199-0_13/MediaObjects/447116_1_En_13_Fig1_HTML.jpg?as=webp
-  _cache: 46d226d23b1242b44abf5f098ce01a607606f298864053b2420201e8e60c6884
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cub.2019.07.025
   title: Maintenance of High Genome Integrity over Vegetative Growth in the Fairy-Ring
     Mushroom Marasmius oreades
@@ -514,7 +537,8 @@
   - Genomics
   - Genome assembly
   - Mutation rate
-  _cache: c699d39d9824636b26ad83e389279a117dbdf72b78ad5a738f977331da02fd74
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.7554/eLife.46454
   title: Combinations of Spok genes create multiple meiotic drivers in Podospora
   authors:
@@ -533,10 +557,10 @@
   date: '2019-07-26'
   link: https://doi.org/gjfgx7
   image: https://iiif.elifesciences.org/lax/46454%2Felife-46454-box1-fig1-v1.tif/full/1234,/0/default.webp
-  _cache: 10259051e0898547ead38a766714b9b75c7534e29fd470b335a3c836c2e71181
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1534/genetics.119.302122
-  title: Identification of <i>rfk-1</i>, a Meiotic Driver Undergoing RNA Editing in
-    <i>Neurospora</i>
+  title: Identification of<i>rfk-1</i>, a Meiotic Driver Undergoing RNA Editing in<i>Neurospora</i>
   authors:
   - Nicholas A Rhoades
   - Austin M Harvey
@@ -558,7 +582,8 @@
   date: '2019-03-27'
   link: https://doi.org/gjfcmv
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/genetics/212/1/10.1534_genetics.119.302122/6/m_93f1.jpeg?Expires=1680790276&Signature=2E~oBEocgsleybx25ijcLR0R7Pzq7NWVEHzW5WJW4bXBwXXFH11UTqJuGz~0Mi4HL1MPxLYMqGe-dkra9bgPJAQymgyC9xDFlrKAj6VEyNg221Jvxt1v2PBgaOm93EzIEzIZaMYluqsiw54aXAYB6FaHFUSeSgof3tzoxE2iKeeXgwXK5r-OBWkw8BFs4ohegLB0l3X6EFsojlLV7qbuwY7lue5ovisvPhWI7cLkMRW0Ii5rdCWLu5PHKbbHTHsA3Vp8n7SIPRt253HfjYeg3v4EOrR3xW2gyJSIVtODUysptXJ7f2eqsJLnLu0oyM61f5wYiQZfvGlfu21PwafFAw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  _cache: f10a92c12d9cb6755365ccdf24714950d1ecafd7fab6c75525fc4d3576da0f8b
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cub.2018.12.022
   title: Two Basidiomycete Fungi in the Cortex of Wolf Lichens
   authors:
@@ -572,7 +597,8 @@
   date: '2019-02-01'
   link: https://doi.org/gftht5
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982218X00049-cov200h.gif
-  _cache: 9c5973a7d2f7f94b2586906d66e356b1fb750b40bdf43f6d30e79403b476e089
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41396-018-0294-7
   title: 'Asexual reproduction and growth rate: independent and plastic life history
     traits in Neurospora crassa'
@@ -584,7 +610,8 @@
   date: '2018-11-09'
   link: https://doi.org/gjfc4z
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41396-018-0294-7/MediaObjects/41396_2018_294_Fig1_HTML.png?as=webp
-  _cache: 0298f8e39c7028c8490778b802570c9472d1ec834679b959787e42db2b7010ee
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-018-06562-x
   title: Convergent evolution of complex genomic rearrangements in two fungal meiotic
     drive elements
@@ -604,10 +631,11 @@
   date: '2018-10-12'
   link: https://doi.org/gfc385
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-018-06562-x/MediaObjects/41467_2018_6562_Fig1_HTML.png?as=webp
-  _cache: ae825259376206dda0bf3dd9ee3ace3d980d522185779481abf51c135a88e5a5
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/1462-2920.14069
-  title: Host genetic variation strongly influences the microbiome structure and function
-    in fungal fruiting-bodies
+  title: "Host genetic variation strongly influences the microbiome structure and\
+    \ function in fungal fruiting\u2010bodies"
   authors:
   - Mari Pent
   - Markus Hiltunen
@@ -621,7 +649,8 @@
   date: '2018-03-25'
   link: https://doi.org/gjd9v3
   image: https://ami-journals.onlinelibrary.wiley.com/cms/asset/27caad00-b998-4d1a-a07e-cf8f901caa08/emi14069-fig-0001-m.png
-  _cache: 76047d49ba8369576d756ab0870583eaef84f8cbef91d031903897bff152bf22
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41598-018-22470-y
   title: 'Sharing of photobionts in sympatric populations of Thamnolia and Cetraria
     lichens: evidence from high-throughput sequencing'
@@ -637,7 +666,8 @@
   date: '2018-03-13'
   link: https://doi.org/gc8k6v
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-018-22470-y/MediaObjects/41598_2018_22470_Fig1_HTML.jpg?as=webp
-  _cache: 66b7361a1e032a26752e0090fcfdbc0dc5ebf61317914c0c5a6369c711d661d2
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1086/695803
   title: Multilevel Selection in the Filamentous Ascomycete <i>Neurospora tetrasperma</i>
   authors:
@@ -650,7 +680,8 @@
   date: '2018-03-01'
   link: https://doi.org/gc9wgh
   image: https://www.journals.uchicago.edu/cms/10.1086/695803/asset/images/medium/fg1.gif
-  _cache: 61d54b31f468e09cc10f3370bce655aa878ee6ace4fab51647d27948f64d61ef
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1017/S0024282917000615
   title: <i>Thamnolia tundrae</i> sp. nov., a cryptic species and putative glacial
     relict
@@ -662,19 +693,21 @@
   date: '2018-01-01'
   link: https://doi.org/gc85n8
   image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20180126101212168-0740:S0024282917000615:S0024282917000615_fig1g.jpeg?pub-status=live
-  _cache: d835260ec62c75ad97b154345e917c7c1ae77646827ee6ecff4e6aa5ba027b15
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/ece3.2917
   title: A worldwide phylogeography of the whiteworm lichens <i>Thamnolia</i> reveals
     three lineages with distinct habitats and evolutionary histories
   authors:
-  - "Ioana Onu\u0163-Br\xE4nnstr\xF6m"
+  - "Ioana Onu\u0163\u2010Br\xE4nnstr\xF6m"
   - Leif Tibell
   - Hanna Johannesson
   publisher: Ecology and Evolution
   date: '2017-04-13'
   link: https://doi.org/f97r43
   image: https://onlinelibrary.wiley.com/cms/asset/53ca5900-2083-44ee-a6a6-ac7a4a70d5a7/ece32917-fig-0001-m.png
-  _cache: 44944f174d8f6c641a6a88e0fd0eecf1c543dbecfa073b5952b92500c965f656
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1534/g3.116.033860
   title: Epigenetic Control of Phenotypic Plasticity in the Filamentous Fungus <i>Neurospora
     crassa</i>
@@ -686,7 +719,8 @@
   date: '2016-12-01'
   link: https://doi.org/f3t7qm
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/g3journal/6/12/10.1534_g3.116.033860/4/m_4009f1.gif?Expires=1680789777&Signature=X0YPMam~XKLOYqAjvy5EqhIK83p1kd5BhZ00~WSGp3ea4L58BzVRp8JnOuhEQaIfws-zRC~cUutGq-bJsFqVH~G015Emx7T6i9T6neVa4FtOi9qRS3wYzkGwzFIwyzWBlwnfGqpP-zUvc-o6zGC8rZa7vy6UvfW~TNHd1VNxLd2aPf83UhQPtXdC-eQTHYa~00aFUlniUXInAFU3uMm8qy6dG9Zxxc0v2meE8oCqIo4Z6N8W11WzeIqfP1S0KBvf1ihj7Lg4uim3eUZTBp-NfRQedfXK2FEu-bULu3NVqAtnEPM1QTg8xvF1gOsEUL3jo5Bin4nXXQY0X0PQ0lHt6g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  _cache: a6fc80a49dc3230a04d2738259bb916314eb5dd0f55f53a2ff53aceed32f9e92
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1126/science.aaf8287
   title: Basidiomycete yeasts in the cortex of ascomycete macrolichens
   authors:
@@ -707,7 +741,8 @@
   date: '2016-07-29'
   link: https://doi.org/f3rvgt
   image: https://www.science.org/cms/asset/997b7e87-0f97-48e4-9a2d-96ee1e5aaaa0/science.2016.353.issue-6298.cover.gif
-  _cache: 3b890f318f5c1eb2eab0a9288f287df95ed3d588a0fdafcad81a37d82d44b393
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.tree.2016.02.001
   title: The Ecology and Evolutionary Dynamics of Meiotic Drive
   authors:
@@ -737,7 +772,8 @@
   date: '2016-04-01'
   link: https://doi.org/f3rxrw
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0169534716000434-gr1b1.jpg
-  _cache: 04c92552f3d0dacbe8c9f191eb4cf6903d80c19c7dd1f3f2c150a6c5f1765446
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/gr.197244.115
   title: Introgression maintains the genetic integrity of the mating-type determining
     chromosome of the fungus <i>Neurospora tetrasperma</i>
@@ -753,7 +789,8 @@
   date: '2016-02-18'
   link: https://doi.org/f3pfj2
   image: https://genome.cshlp.org/content/26/4/486/F1.medium.gif
-  _cache: 6425ebfb78811f90570524b0954ecc8b03c07ab56b8b091cf539306602eed821
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.fbr.2015.06.001
   title: 'Contrasted patterns in mating-type chromosomes in fungi: Hotspots versus
     coldspots of recombination'
@@ -766,7 +803,8 @@
   date: '2015-12-01'
   link: https://doi.org/f3p698
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1749461315000287-gr1.jpg
-  _cache: c30d05ce0c4c9061f6ec38c529395c675bbc8e252c21f476a7c17270f8d7fc9d
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/gr.175653.114
   title: 'Intron evolution in <i>Neurospora</i>: the role of mutational bias and selection'
   authors:
@@ -778,7 +816,8 @@
   date: '2014-10-23'
   link: https://doi.org/f3nzkg
   image: https://genome.cshlp.org/content/25/1/100/F2.medium.gif
-  _cache: 73cf70a39ab4b0e66f1f46d87f95c1b3edfce3151a83060f60d8a086a85d3eba
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ympev.2014.05.007
   title: A global multilocus analysis of the model fungus Neurospora reveals a single
     recent origin of a novel genetic system
@@ -795,7 +834,8 @@
   date: '2014-09-01'
   link: https://doi.org/f2zpsd
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1055790314001663-fx1.jpg
-  _cache: cecb059798f9fd23968158e994116abacf436597ee4e0f6147f20fe17f76b74f
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1098/rspb.2014.0084
   title: 'Nuclear interactions in a heterokaryon: insight from the model<i>Neurospora
     tetrasperma</i>'
@@ -807,9 +847,10 @@
   date: '2014-07-07'
   link: https://doi.org/f23r3b
   image: https://royalsocietypublishing.org/cms/asset/ba179b88-75a7-4710-8389-5ce6852896bf/rspb20140084f06.jpg
-  _cache: fe51747b7e672afcb0080422158980c96da3580b73c570ec837504decfc70a7e
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/jeb.12386
-  title: Dynamics of transcriptome evolution in the model eukaryote Neurospora
+  title: Dynamics of transcriptome evolution in the model eukaryote <scp>N</scp>eurospora
   authors:
   - Carrie A. Whittle
   - Yu Sun
@@ -818,7 +859,8 @@
   date: '2014-05-22'
   link: https://doi.org/f24hcs
   image: https://onlinelibrary.wiley.com/cms/asset/bdc1fedd-2a06-4111-a0e7-954fa284c959/jeb12386-fig-0004-m.png
-  _cache: cfad9ca8630043c60dd833d3c31d09d5c70b13de8fb3f116ec5005f165cf3d24
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s00203-013-0923-5
   title: Coexistence and expression profiles of two alternative splice variants of
     the pheromone receptor gene pre-1 in Neurospora crassa
@@ -831,7 +873,8 @@
   date: '2013-09-11'
   link: https://doi.org/f23txx
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00203-013-0923-5/MediaObjects/203_2013_923_Fig1_HTML.gif?as=webp
-  _cache: 404363129501380129b3df934865d6552f59d604649e3f3cd55e9e6d663e2206
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/molbev/mst143
   title: Evolutionary Dynamics of Sex-Biased Genes in a Hermaphrodite Fungus
   authors:
@@ -841,7 +884,8 @@
   date: '2013-08-20'
   link: https://doi.org/f2z7kj
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/30/11/10.1093_molbev_mst143/2/m_mst143f3p.jpeg?Expires=1683286081&Signature=vmVpEANeLJ5z3YWrdOAEXI6xOn8ehkVqfHO77MZ7O1jaH-O6JlE~htJojOAKUc05Lps1v0hLTeDids7OcnINW4FpiJ3NPJtSb8EeHJ7pMnB4WqtZtTPy8uhqho9mNehUxVU47N5D4LlsG6aF0aTBNI5O9jMeqJCydVKmG8sQI4dQXJXw1Sj3Q9VTH5Ap46JLxJpg7Q4Y9i16BaEaHBAI2g-YaAmqMT0aPoljmtMjtpISWn5b2C8eM-9MtBjl9xlQxCz7~s0r4Y6A3Y6b4llnMrv8CbEJg8PpnJNZGgQSQl63IO7yqXI2RfbV-yjkLMFsS26k8Xel3MLx1Gad2lOlbA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  _cache: 21bde2ec186f59f58bb69da543975207f4303bd871331355036d555d61ea6d77
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1098/rspb.2013.0862
   title: Sex-linked transcriptional divergence in the hermaphrodite fungus<i>Neurospora
     tetrasperma</i>
@@ -860,7 +904,8 @@
   date: '2013-08-07'
   link: https://doi.org/f23bbh
   image: https://royalsocietypublishing.org/cms/asset/4c923a90-6a7f-416a-a01a-25272a31811b/rspb20130862f01.jpg
-  _cache: 29b143f980654e9cfcd865b1f3b9a1d6ead61247c4e3035a7885eeb0735f2873
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/evo.12206
   title: '<i>Neurospora</i> and the dead-end hypothesis: genomic consequences of selfing
     in the model genus'
@@ -879,7 +924,8 @@
   - Reproductive strategies
   - "Selection\u2014natural"
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/67/12/10.1111_evo.12206/4/m_evo12206-fig-0001.jpeg?Expires=1683553336&Signature=x1HUkwr~4I4vA~z7QSDxA9XZJV6gQ6AMoJ0oBW6ukL-BWT1Y2G7P8Ye5L8GjQ09gWo1dkGY7kDVNbQdDADr5jQEgQYVZ1EzGb5X5K9gHWX~NFv7KvnulcHrdoPXg-8O8lrdXc~B0F0G--kkrXx3uvJwK6cpDP4LfY7bZTpfIxoBOc7a2wR3~MBOpNUmnGvBcoqEGy~LkZYClAV2kXMGKhCrhHOBIMrgrPzLUWxae2cYlFJWfs0VMXA~eVHcx5paYo7~cH4Ioyx5vx~3oYX8sY7oCDwoj09JEx4JjQQoFfEp62hvTWbke2yb8MDzjrzR-Fv6VJwSinhffjPPZHLlnqQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  _cache: f876ca8864ac5d69d23ff9928d7b4e56512ff05cf0180a4847ec260eadc99e34
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.funbio.2012.06.006
   title: Quantifying functional heterothallism in the pseudohomothallic ascomycete
     Neurospora tetrasperma
@@ -902,7 +948,8 @@
   - Outcrossing
   - Populations
   - Pseudohomothallism
-  _cache: f589826d2296580f559f528ae66bc2aa56f0ac1b95be1ee89ed41a8972f1141c
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/molbev/mss132
   title: Unidirectional Evolutionary Transitions in Fungal Mating Systems and the
     Role of Transposable Elements
@@ -922,7 +969,8 @@
   - Transposable element
   - Mating-type locus
   - Unequal crossover
-  _cache: d0b19a99112d23cc680c184c2e8b6934ad46e9b14b3c551dfeec53b5402e7423
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/j.1574-6941.2012.01366.x
   title: Occurrence and impact of the root-rot biocontrol agent Phlebiopsis gigantea
     on soil fungal communities in Picea abies forests of northern Europe
@@ -946,7 +994,8 @@
   - Environmental impact
   - Fungal ecology
   - Soil fungi
-  _cache: 32d66c56cca597958b341f85b45c45fd5fa533736cf6ab9398f3e05a0ad67a31
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/molbev/mss193
   title: Deciphering the Relationship between Mating System and the Molecular Evolution
     of the Pheromone and Receptor Genes in Neurospora
@@ -965,7 +1014,8 @@
   - Pheromones
   - Receptors
   - Homothallism
-  _cache: bdb8278d6e8d63594064f4db7542a4891fce2258fc11b55cd0da93fb8d9dca74
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/1471-2148-12-229
   title: Analyses of expressed sequence tags in Neurosporareveal rapid evolution of
     genes associated with the early stages of sexual reproduction in fungi
@@ -981,7 +1031,8 @@
   date: '2012-11-27'
   link: https://doi.org/f2zpw8
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2148-12-229/MediaObjects/12862_2012_Article_2245_Fig1_HTML.jpg?as=webp
-  _cache: d60d178a41e82f5f9d932442ce0749bd8b15247d40d0392e88ee398b57ae5361
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pgen.1002820
   title: Large-Scale Introgression Shapes the Evolution of the Mating-Type Chromosomes
     of the Filamentous Ascomycete Neurospora tetrasperma
@@ -996,7 +1047,8 @@
   date: '2012-07-26'
   link: https://doi.org/f23p24
   image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1002820.g002
-  _cache: e3ebc35fd204b8799ef15d470668d87fa88f9c0b1898312635523a3b675009c8
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.fgb.2012.05.004
   title: Sex-specific gene expression during asexual development of Neurospora crassa
   authors:
@@ -1016,7 +1068,8 @@
   - Light
   - Conidiation
   - Microarray
-  _cache: 7675c26a47b672d21f75894e5d82188ac797a4ad0ab4445eb76a14291f745f48
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/molbev/mss065
   title: Genome-Wide Selection on Codon Usage at the Population Level in the Fungal
     Model Organism Neurospora crassa
@@ -1034,7 +1087,8 @@
   - Codon
   - Selection
   - Genetic hitchhiking
-  _cache: 63793056cad28f5c63309bc6f8d0b38ff46c99905544f5de95c5b7278f12d7e8
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/bies.201200110
   title: Neurospora as a model to empirically test central hypotheses in eukaryotic
     genome evolution
@@ -1045,7 +1099,8 @@
   date: '2012-09-12'
   link: https://doi.org/fz6nhg
   image: https://onlinelibrary.wiley.com/cms/asset/59c35edf-5900-41e4-8915-2e6257eea514/mcontent.jpg
-  _cache: 8944fb24635de27d54173db7744f235dd173e653d4e66ddc7949c0048c7071ed
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.funeco.2011.07.001
   title: Initial fungal colonizer affects mass loss and fungal community development
     in Picea abies logs 6yr after inoculation
@@ -1070,7 +1125,8 @@
   - Fungal succession
   - Fungi
   - Wood decay
-  _cache: d0bb0bf59063ccb407a993079b21c39bdd8699ff1d3913ec1bd09d66c7df7344
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ympev.2011.03.023
   title: A comprehensive phylogeny of Neurospora reveals a link between reproductive
     mode and molecular evolution in fungi
@@ -1096,7 +1152,8 @@
   - dN/dS
   - Ancestral character state
   - Dead end theory
-  _cache: 4b7f3c485dfa9b38d1c0196fc38b72d3ac5161ac638536f27690f5ffde34b099
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-642-19974-5_12
   title: 12 Evolution of Mating-Type Loci and Mating-Type Chromosomes in Model Species
     of Filamentous Ascomycetes
@@ -1107,7 +1164,8 @@
   date: '2011-01-01'
   link: https://doi.org/bnq3w7
   image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-642-19974-5_12/MediaObjects/978-3-642-19974-5_12_Fig2_HTML.gif?as=webp
-  _cache: c39b595bc7fefb22184c9caee7a546cfe3071fc06328c3dc7d83862886071bf6
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.fgb.2011.02.005
   title: Consequences of reproductive mode on genome evolution in fungi
   authors:
@@ -1124,7 +1182,8 @@
   - Mutations
   - Dead end theory
   - Neurospora
-  _cache: c8db62c7da41bc4048a7e4c1e4bc5100eda46e5e31eae6d17808e38face901a9
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/gbe/evr018
   title: Evolution of Synonymous Codon Usage in Neurospora tetrasperma and Neurospora
     discreta
@@ -1143,7 +1202,8 @@
   - Gene expression
   - Codon usage bias
   - Gene length
-  _cache: db70f8a8ac4e7d7a151fb792eebd57798531080d8032a494cac619ca3377b0eb
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1128/EC.00284-10
   title: Degeneration in Codon Usage within the Region of Suppressed Recombination
     in the Mating-Type Chromosomes of Neurospora tetrasperma
@@ -1155,7 +1215,8 @@
   date: '2011-04-01'
   link: https://doi.org/bkbkqm
   image: https://journals.asm.org/cms/10.1128/EC.00284-10/asset/6a53a488-b841-4a6f-8838-b4583ac1a341/assets/graphic/zek9990937080003.jpeg
-  _cache: e0a0b9530545d234e484adbb4d10953815849b95c5e214b1f6aada40eb54d8af
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/hdy.2011.11
   title: Evidence of the accumulation of allele-specific non-synonymous substitutions
     in the young region of recombination suppression within the mating-type chromosomes
@@ -1167,7 +1228,8 @@
   date: '2011-03-09'
   link: https://doi.org/bbg5x7
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fhdy.2011.11/MediaObjects/41437_2011_Article_BFhdy201111_Fig1_HTML.jpg?as=webp
-  _cache: 2b3ef2813ec7024e9759f727ad8356af5d99efd6d3c467f956ac570257e9f24b
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/1471-2148-10-234
   title: Gene genealogies indicates abundant gene conversions and independent evolutionary
     histories of the mating-type chromosomes in the evolutionary history of Neurospora
@@ -1180,7 +1242,8 @@
   date: '2010-07-31'
   link: https://doi.org/d89tvq
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2148-10-234/MediaObjects/12862_2009_Article_1450_Fig1_HTML.jpg?as=webp
-  _cache: 6ddbaf64e0b8ab985d81cd0bfe5d26b7b83a0220c6ab53ff5e18b310ada2b810
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.fgb.2010.06.008
   title: Conflict between reproductive gene trees and species phylogeny among heterothallic
     and pseudohomothallic members of the filamentous ascomycete genus Neurospora
@@ -1203,7 +1266,8 @@
   - Mating type
   - Pheromone receptor
   - Pseudohomothallism
-  _cache: 8cc7f12238ef8a15d9b52fce5872e6a7717e2984ff377623d042698c7b88bd97
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.mycres.2009.01.006
   title: Trikaryon formation and nuclear selection in pairings between heterokaryons
     and homokaryons of the root rot pathogen Heterobasidion parviporum
@@ -1221,7 +1285,8 @@
   - Heterobasidion annosum
   - Nuclear migration
   - Plurinucleate
-  _cache: 36cc54ae63bf6a750ed89fc0de3c6ed17771d781e61992c2f8fccf8af516b6e9
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/j.1558-5646.2008.00462.x
   title: Evolutionary significance of imbalanced nuclear ratios within heterokaryons
     of the Basidiomycete fungus <i>Heterobasidium parviporum</i>
@@ -1241,7 +1306,8 @@
   - Heterobasidion annosum
   - Heterokaryosis
   - Multinucleate
-  _cache: f1657cdafd53f36d1aac74d1a0dfd5c7fe25fcc41449a5e88d90b621733dfb9a
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/j.1420-9101.2009.01801.x
   title: Phylogenetic and biological species diversity within the <i>Neurospora tetrasperma</i>
     complex
@@ -1251,10 +1317,11 @@
   - David J. Jacobson
   - Hanna Johannesson
   publisher: Journal of Evolutionary Biology
-  date: '2009-09-01'
+  date: '2009-08-19'
   link: https://doi.org/cvzmn4
   image: https://onlinelibrary.wiley.com/cms/asset/45938a11-d4c5-45a0-a576-f5e09b35dfc7/jeb_1801_f2.gif
-  _cache: 8fb9589109df771ff4f5003cabe8aef5afcc3155af5c97dd99441e32e5db09e9
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pgen.1000030
   title: The Mating-Type Chromosome in the Filamentous Ascomycete Neurospora tetrasperma
     Represents a Model for Early Evolution of Sex Chromosomes
@@ -1276,7 +1343,8 @@
   - Fungal genetics
   - Genomics
   - Fungi
-  _cache: 53c7f189388b47024cce21f6420d3ac30bdf1fa647f92d1f13ec648df00e6e97
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/molbev/msm253
   title: The Evolution of the Pheromonal Signal System and Its Potential Role for
     Reproductive Isolation in Heterothallic Neurospora
@@ -1295,7 +1363,8 @@
   - Reproductive protein
   - Speciation
   - Reinforcement
-  _cache: e776fb031e7313931a455b79fca2243e072d6e34cadcca29963aa5a0757078cb
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/1471-2148-8-109
   title: The evolutionary trajectory of the mating-type (mat) genes in Neurosporarelates
     to reproductive behavior of taxa
@@ -1313,7 +1382,8 @@
   - Synonymous Substitution Rate
   - Opposite Mating Type
   - Reproductive Mode
-  _cache: e54d5bf73ad7e3225f21a36e90764e60c354db681a8c81f249302f471874df5c
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.fgb.2006.02.003
   title: Phase-specific gene expression underlying morphological adaptations of the
     dimorphic human pathogenic fungus, Coccidioides posadasii
@@ -1337,7 +1407,8 @@
   - Microarray
   - Fungal pathogen
   - Population
-  _cache: 8af2a9c246e1ad1526e3ccee1abe9dbb5894a3717ea6e1324a4692134a208513
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1017/CBO9780511541797
   title: 'Fungal species: Thoughts on their recognition, maintenance and selection.
     In G. Gadd, S. Watkinson, & P. Dyer (Eds.), Fungi in the Environment'
@@ -1350,7 +1421,8 @@
   publisher: Cambridge University Press
   date: '2007-04-12'
   link: https://doi.org/fwh8x3
-  _cache: a6612166d86db8ac092acf3db81cdf5af844a2ebcff338fc2d55060442681f57
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1534/genetics.105.040923
   title: Concerted Evolution in the Repeats of an Immunomodulating Cell Surface Protein,
     SOWgp, of the Human Pathogenic Fungi <i>Coccidioides immitis</i> and <i>C. posadasii</i>
@@ -1363,7 +1435,8 @@
   publisher: Genetics
   date: '2005-09-01'
   link: https://doi.org/bdtwsr
-  _cache: 5da18f30c1121b0709d1a45133b09cff30c77c2ef55f9e0c536446b1ddb33f17
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.fgb.2004.01.002
   title: Nuclear reassortment between vegetative mycelia in natural populations of
     the basidiomycete Heterobasidion annosum
@@ -1385,7 +1458,8 @@
   - Allorecognition
   - Individual
   - Operational selective unit
-  _cache: 7b482d7fac9af76e833223eb40113f320c4ed160a2e6b3b92e0a6e33ebf43418
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/molbev/msh124
   title: Positive Directional Selection in the Proline-Rich Antigen (<i>PRA</i>) Gene
     Among the Human Pathogenic Fungi <i>Coccidioides immitis</i>, <i>C. posadasii</i>
@@ -1408,7 +1482,8 @@
   - Vaccine
   - Paml
   - Antigen
-  _cache: 20277f9ef51f7f9062d542483b5682898bdc09d8eb354cc27614c14a4a76b7c9
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/S1055-7903(03)00087-3
   title: Molecular markers reveal genetic isolation and phylogeography of the S and
     F intersterility groups of the wood-decay fungus Heterobasidion annosum
@@ -1419,7 +1494,8 @@
   date: '2003-10-01'
   link: https://doi.org/cpkkzs
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1055790303000873-gr3.gif
-  _cache: ce0464b292aea2eb02d7602927d0587508912dddd7ff90e16aae9bb2ef4b1f20
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1046/j.1365-294X.2003.01858.x
   title: Parental tracking in the postfire wood decay ascomycete <i>Daldinia loculata</i>
     using highly variable nuclear gene loci
@@ -1432,7 +1508,8 @@
   date: '2003-05-27'
   link: https://doi.org/chb37c
   image: https://onlinelibrary.wiley.com/cms/asset/dde0deaf-2351-4651-992a-a5b6faeda8f0/mec_1858_f1.gif
-  _cache: bf2b3e392e32e5f1c006e99b0c8787e1eded061f8d23782507b0554e8f08ce06
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/S1087-1845(02)00011-7
   title: Transmission of double-stranded RNA in Heterobasidion annosum
   authors:
@@ -1454,7 +1531,8 @@
   - Plant pathogen
   - Horizontal transfer
   - Vertical transfer
-  _cache: af36c1b793e0f4c04a843968af6d435bb23f93b67863e1e29a40c22bcf795a5b
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1017/S0953756203008359
   title: Albatrellus citrinus sp. nov., connected to Picea abies on lime rich soils
   authors:
@@ -1465,7 +1543,8 @@
   publisher: Mycological Research
   date: '2003-10-01'
   link: https://doi.org/b3sx3x
-  _cache: 478c923635aa128cd89aefa76b04238de6e0f9a7c71cd357c5b7ffd5e76956a2
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/S0378-1127(01)00716-2
   title: Differential decay extension capability of <i>Daldinia</i> spp. in wood of
     Betula pendula, <i>Alnus glutinosa</i> and <i>Fraxinus excelsior</i>
@@ -1483,7 +1562,8 @@
   - Endophyte
   - Substrate-specificity
   - Latent infection
-  _cache: eab7359c1042c5b7db69ab83a674102caf0eb7a9b09e52cf89c4457fbf89453c
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/S0006-3207(00)00230-5
   title: Post-fire legacy of ectomycorrhizal fungal communities in the Swedish boreal
     forest in relation to fire severity and logging intensity
@@ -1496,7 +1576,8 @@
   date: '2001-08-01'
   link: https://doi.org/ccx8ds
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0006320700002305-gr1.jpg
-  _cache: fb20b9428b8fcb379d0e4c33289ad611c20ea2becafe57b9c82e32b7c412e19a
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1046/j.1365-294X.2001.01317.x
   title: Genetic differentiation in Eurasian populations of the postfire ascomycete
     <i>Daldinia loculata</i>
@@ -1507,10 +1588,11 @@
   - "Reijo Penttil\xE4"
   - Jan Stenlid
   publisher: Molecular Ecology
-  date: '2001-12-21'
+  date: '2001-07-01'
   link: https://doi.org/bf4tz5
   image: https://onlinelibrary.wiley.com/cms/asset/2ab3dbb7-3253-4124-961f-7b1c2c1b6b6a/mec_1317_f3.gif
-  _cache: fec470fbc67412498916c0a67d459b0727daf649c3b8d5de47d404363eefb9b1
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/00275514.2001.12063176
   title: Local population structure of the wood decay ascomycete <i>Daldinia loculata</i>
   authors:
@@ -1527,7 +1609,8 @@
   - Multilocus genotypes
   - Stroma
   - Xylariaceae
-  _cache: 5f5d7efac46c1e3657c5e6cc703585d46a00f5655b4ade8b41f6b469bb1f0be5
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1046/j.1365-294x.2000.00874-6.x
   title: Development of primer sets to amplify fragments of conserved genes for use
     in population studies of the fungus <i>Daldinia loculata</i>
@@ -1538,7 +1621,8 @@
   publisher: Molecular Ecology
   date: '2000-03-01'
   link: https://doi.org/dmc26n
-  _cache: 71ce23787cdf3019bc8aae3818a19c7810c1ec79bc4041102a0fe0b0b7063524
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1017/S0953756299001719
   title: Molecular and morphological investigation of <i>Daldinia</i> in northern
     Europe
@@ -1549,7 +1633,8 @@
   publisher: Mycological Research
   date: '2000-03-01'
   link: https://doi.org/bdgvbx
-  _cache: ddba426543b2d40ec83af6db9063208b446db3565fda6ee8a39d6506713d8cd0
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1017/S0953756299008709
   title: "<i>Sarcodon imbricatus</i> and <i>S. squamosus</i> \u2014 two confused species"
   authors:
@@ -1560,7 +1645,8 @@
   publisher: Mycological Research
   date: '1999-11-01'
   link: https://doi.org/bzbgzx
-  _cache: afde47356f14349f00a2d2022ae96d558cc4448760164ac0f639529b644c2034
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1017/S0953756299008953
   title: Taxonomy of <i>Antrodiella</i> inferred from morphological and molecular
     data
@@ -1571,7 +1657,8 @@
   publisher: Mycological Research
   date: '2000-01-01'
   link: https://doi.org/bjdskg
-  _cache: 666e23baba48ff2607d3bc49756bf2a74c3c6e906b38732f609702088c84a353
+  plugin: sources.py
+  file: sources.yaml
 - id: issn:0093-4666
   title: Molecular relationships within the genus <i>Amylostereum</i> as determined
     by internal transcribed spacer sequences of the ribosomal DNA
@@ -1580,9 +1667,10 @@
   - Rimvydas Vasiliauskas
   - Jan Stenlid
   publisher: Mycotaxon
-  date: ''
+  date: '1970-01-01'
   link: https://portal.issn.org/resource/ISSN/0093-4666
-  _cache: 2785f82ecff488d2456655da34384b839f3bfa41a0f444c42c6473e394375d3d
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/S0378-1127(98)00399-5
   title: Molecular identification of wood-inhabiting fungi in an unmanaged <i>Picea
     abies</i> forest in Sweden
@@ -1592,4 +1680,5 @@
   publisher: Forest Ecology and Management
   date: '1999-03-01'
   link: https://doi.org/bjn33d
-  _cache: e15bc658edfc5630de73bc4bc3d7321570d2194d0e9569d1f27215f567dda573
+  plugin: sources.py
+  file: sources.yaml
