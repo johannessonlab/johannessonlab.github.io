@@ -139,7 +139,7 @@
 - id: doi:10.1038/s41467-017-01317-6
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-017-01317-6/MediaObjects/41467_2017_1317_Fig1_HTML.jpg?as=webp
 - id: doi:10.1093/bioinformatics/btaa975
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/37/15/10.1093_bioinformatics_btaa975/1/m_btaa975f1.jpeg?Expires=1680177882&Signature=mBatYIFn7bApYSb4xAAtWpn36hqeRkwSrph9wmAQ5-TGBA70dORpPCdOmG7avwfAPU7QzhgfwI6-rb0AQz-Uz3DTu3QuCohnZUguMeAFVCMd7KnmGy253ONa3Ka-IOp9nrR5jmOxr7C5QDl0doJfcaANM8Gfg25HElv6NYsjAc5ApWnVW9K1zGyG8zMNHkXlTcbrDUO3xSlwiPAfkXQM9FhGxk5GjzEMwAh0ir5s1YPH2ak0WfnJZxSFKMOTNXzryOs7jdpazJB-pVHYEqerEeh33tQqloiOoO9hdyS84Yqf9aVAOqMklSmdG6TKstrZ2Tww0-E~ZBdmPMlMAIHp7A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/btaa975f1.jpeg
 - id: doi:10.1080/15592294.2020.1741758
   image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/kepi20/2020/kepi20.v015.i09/15592294.2020.1741758/20210508/images/medium/kepi_a_1741758_f0001_c.jpg
 - id: doi:10.1038/s41598-020-58025-3
@@ -161,7 +161,7 @@
 - id: doi:10.7554/eLife.46454
   image: https://iiif.elifesciences.org/lax/46454%2Felife-46454-box1-fig1-v1.tif/full/1234,/0/default.webp
 - id: doi:10.1534/genetics.119.302122
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/genetics/212/1/10.1534_genetics.119.302122/6/m_93f1.jpeg?Expires=1680790276&Signature=2E~oBEocgsleybx25ijcLR0R7Pzq7NWVEHzW5WJW4bXBwXXFH11UTqJuGz~0Mi4HL1MPxLYMqGe-dkra9bgPJAQymgyC9xDFlrKAj6VEyNg221Jvxt1v2PBgaOm93EzIEzIZaMYluqsiw54aXAYB6FaHFUSeSgof3tzoxE2iKeeXgwXK5r-OBWkw8BFs4ohegLB0l3X6EFsojlLV7qbuwY7lue5ovisvPhWI7cLkMRW0Ii5rdCWLu5PHKbbHTHsA3Vp8n7SIPRt253HfjYeg3v4EOrR3xW2gyJSIVtODUysptXJ7f2eqsJLnLu0oyM61f5wYiQZfvGlfu21PwafFAw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/93f1.jpeg
 - id: doi:10.1016/j.cub.2018.12.022
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0960982218X00049-cov200h.gif
 - id: doi:10.1038/s41396-018-0294-7
@@ -177,17 +177,17 @@
   image: https://www.journals.uchicago.edu/cms/10.1086/695803/asset/images/medium/fg1.gif
 - id: doi:10.1017/S0024282917000615
   title: <i>Thamnolia tundrae</i> sp. nov., a cryptic species and putative glacial relict 
-  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20180126101212168-0740:S0024282917000615:S0024282917000615_fig1g.jpeg?pub-status=live
+  image: images/paper_figures/fig1g.jpeg
   authors:
-    - Ioana Onut-Brännström
+    - Ioana Onuț-Brännström
     - Hanna Johannesson
     - Leif Tibell
 - id: doi:10.1002/ece3.2917
   image: https://onlinelibrary.wiley.com/cms/asset/53ca5900-2083-44ee-a6a6-ac7a4a70d5a7/ece32917-fig-0001-m.png
 - id: doi:10.1534/g3.116.033860
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/g3journal/6/12/10.1534_g3.116.033860/4/m_4009f1.gif?Expires=1680789777&Signature=X0YPMam~XKLOYqAjvy5EqhIK83p1kd5BhZ00~WSGp3ea4L58BzVRp8JnOuhEQaIfws-zRC~cUutGq-bJsFqVH~G015Emx7T6i9T6neVa4FtOi9qRS3wYzkGwzFIwyzWBlwnfGqpP-zUvc-o6zGC8rZa7vy6UvfW~TNHd1VNxLd2aPf83UhQPtXdC-eQTHYa~00aFUlniUXInAFU3uMm8qy6dG9Zxxc0v2meE8oCqIo4Z6N8W11WzeIqfP1S0KBvf1ihj7Lg4uim3eUZTBp-NfRQedfXK2FEu-bULu3NVqAtnEPM1QTg8xvF1gOsEUL3jo5Bin4nXXQY0X0PQ0lHt6g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/4009f2.gif
 - id: doi:10.1126/science.aaf8287
-  image: https://www.science.org/cms/asset/997b7e87-0f97-48e4-9a2d-96ee1e5aaaa0/science.2016.353.issue-6298.cover.gif
+  image: images/paper_figures/353_488_f3.jpeg
 - id: doi:10.1016/j.tree.2016.02.001
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0169534716000434-gr1b1.jpg
 - id: doi:10.1101/gr.197244.115
@@ -209,7 +209,7 @@
 - id: doi:10.1007/s00203-013-0923-5
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00203-013-0923-5/MediaObjects/203_2013_923_Fig1_HTML.gif?as=webp
 - id: doi:10.1093/molbev/mst143
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/30/11/10.1093_molbev_mst143/2/m_mst143f3p.jpeg?Expires=1683286081&Signature=vmVpEANeLJ5z3YWrdOAEXI6xOn8ehkVqfHO77MZ7O1jaH-O6JlE~htJojOAKUc05Lps1v0hLTeDids7OcnINW4FpiJ3NPJtSb8EeHJ7pMnB4WqtZtTPy8uhqho9mNehUxVU47N5D4LlsG6aF0aTBNI5O9jMeqJCydVKmG8sQI4dQXJXw1Sj3Q9VTH5Ap46JLxJpg7Q4Y9i16BaEaHBAI2g-YaAmqMT0aPoljmtMjtpISWn5b2C8eM-9MtBjl9xlQxCz7~s0r4Y6A3Y6b4llnMrv8CbEJg8PpnJNZGgQSQl63IO7yqXI2RfbV-yjkLMFsS26k8Xel3MLx1Gad2lOlbA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/mst143f2p.jpeg
 - id: doi:10.1098/rspb.2013.0862
   image: https://royalsocietypublishing.org/cms/asset/4c923a90-6a7f-416a-a01a-25272a31811b/rspb20130862f01.jpg
 - id: doi:10.1111/evo.12206
@@ -221,7 +221,7 @@
     - Mutations
     - Reproductive strategies
     - Selection—natural
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/evolut/67/12/10.1111_evo.12206/4/m_evo12206-fig-0001.jpeg?Expires=1683553336&Signature=x1HUkwr~4I4vA~z7QSDxA9XZJV6gQ6AMoJ0oBW6ukL-BWT1Y2G7P8Ye5L8GjQ09gWo1dkGY7kDVNbQdDADr5jQEgQYVZ1EzGb5X5K9gHWX~NFv7KvnulcHrdoPXg-8O8lrdXc~B0F0G--kkrXx3uvJwK6cpDP4LfY7bZTpfIxoBOc7a2wR3~MBOpNUmnGvBcoqEGy~LkZYClAV2kXMGKhCrhHOBIMrgrPzLUWxae2cYlFJWfs0VMXA~eVHcx5paYo7~cH4Ioyx5vx~3oYX8sY7oCDwoj09JEx4JjQQoFfEp62hvTWbke2yb8MDzjrzR-Fv6VJwSinhffjPPZHLlnqQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/evo12206-fig-0001.jpeg
 - id: doi:10.1016/j.funbio.2012.06.006
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1878614612001183-gr1.jpg
   tags:
@@ -232,7 +232,7 @@
     - Populations
     - Pseudohomothallism
 - id: doi:10.1093/molbev/mss132
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/29/10/10.1093_molbev_mss132/2/m_mss132f1.jpeg?Expires=1683281069&Signature=s71khF4hYoh~mO2qKM6DqdEeWSloW-3mobZLOfs~ho-OI8AigddPe7-VlBzP~6mnC9FOtDNPB~3lGfVLneguBIiBcQPm2M2ZzaMf2uEJbHh6A46-mcUoWUyzE-xoQYnWotRt9uocdvMvuv24dco1doWqSfRBU2t1AXuc2q~Jw9gg6NdLcu7olOXMIonuQU3EAhxmiMtlPL-ashwe-ZVBO1AIO727IWmKPMZklECdngJDU7mw1It6YEdX6k0SK03l55bQDyYEMt-lOcvexjuKVgO2lUayxtxoUIMIL8Nbs8LvTt29OLVLU1tKWdjXVMPDpD8T8EQm4sLUQRNOtOTdug__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/mss132f1.jpeg
   tags:
     - Mating system
     - Evolutionary transition
@@ -240,7 +240,7 @@
     - Mating-type locus
     - Unequal crossover
 - id: doi:10.1111/j.1574-6941.2012.01366.x
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/femsec/81/2/10.1111_j.1574-6941.2012.01366.x/2/m_fem1366-fig-0001.jpeg?Expires=1683555223&Signature=tLnALkR39PrTtEMD2XJij7CJUwDlMJxvfAJZFC5EteuggEMmQnqH~hPIj6kWNZs8ZsJU-3VKu6UfJ4SuE-dsCSfxgXNHWa48riiF0qLNRZzrDk7j3KoJb4CMU8XWRwUkD-vj1RsTbF2QqYThAo5ibwXTtNRciaJqbj~~eY1Knd0KPbBpaHoJXnwWpvNfQjaX34PoPZd5BYysLkcFOwRPQtihPqh2g~G0C-~qXu0e8ZAjKJSZpVAo4Kkwjc0Li721kO~rRKBcLvCau9CHI9kI7vqYqgZO-3yhD8NMorUOS6LQTRVWjOKZFamCKc-57xNhp2BnCMxul7VLIPVg8yjPGw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/fem1366-fig-0001.jpeg
   tags:
     - Phlebiopsis gigantea
     - Biocontrol
@@ -248,7 +248,7 @@
     - Fungal ecology
     - Soil fungi
 - id: doi:10.1093/molbev/mss193
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/29/12/10.1093_molbev_mss193/1/m_mss193f2p.jpeg?Expires=1683385211&Signature=KjSMywaHTdjoqxIuPkV8fRgkeoI2vYchrCZcOQbAeNx1Kn72ExL3wfO17bVp73AvZy1ibeH1~7uv08VEiEXHPZE8Gw9ZxS6mOIYWK71OrxwOMnZsKNgkK2m4sYvcxCFsM~eXPFkDpqj-nzbceeM2K9QqY1xOsZGX-7bnuafwtnyTA4mXjriN90jfkeT6AUChFk~BqGsbtYKvRKKt~rf92TAN1v1HCDKqDXwqgLh5QxFNbhNSkMSK0Z972UFYuvzjZQ9vUpHCS~xpcQYEHLKlutCvkOM88MFaQ0NNzoQJkeX8lWeO2D1u7RO5f6B9vrPvBJd-Vt0XXFL7rocs-jW5hQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/mss193f3p.jpeg
   tags:
     - Neurospora
     - Pheromones
@@ -268,7 +268,7 @@
     - Conidiation
     - Microarray
 - id: doi:10.1093/molbev/mss065
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/29/8/10.1093_molbev_mss065/2/m_molbiolevolmss065f01_ht.jpeg?Expires=1683385497&Signature=Uf52GU4rqP2YLkjBCVR9Nk0O7R~ho~DB5ff84nsOHZYa~s7plb2onidX59LCSNurGVRIN3h8oP7DezHxXQVo~Xyh6HnxHoUZn4fxifSlSvb8HCJAWFXc~GvSWuVfL8uyfvo3I5hP8aYqTZqJdnQGO8ZLHp9sNmwxe-LO11B-XUvDHqW5qv26ZRo4UfpLAcsiYIdztnwjCXcZ0pa1VCzX4MXTqL0xFFNuaImMIVF-v52pzU5jWGLm3ujCedvtSM50y9zzQ7HMRc1wt9mKXF72aKtv4Xl5rZZFhOBLF0DMyNBPIKXwRVfZ7WjHD1uJbhkiYkmiSmNBlS0c47kA9njYSA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/molbiolevolmss065f02_lw.jpeg
   tags:
     - Neurospora crassa
     - Microevolution
@@ -317,7 +317,7 @@
     - Kristiina Nygren
     - Hanna Johannesson
 - id: doi:10.1093/gbe/evr018
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gbe/3/10.1093_gbe_evr018/4/m_gbeevr018f03_ht.gif?Expires=1683553150&Signature=ICUIipvt6VVQz6AjQn0ZNFAKU-AiFUOvXjIdA8-Z2GSZlgcw~eVejs3dHGzsoT1cUdtB~p8STyjVGp42sETjgCeR4nZeCrdylR8lCBk6snx54aCnnJOaVkKizbQlskdCDBHPM~8BsOoL0FHhRlILmHDKd0T0dGRzyMyf24avz8fudqy8RhQmyi56JfpBCwEOkhWMlm3LZGDQGlgbagWkZ4lPrqy1oRmi93oxKlxqjBWJT2UXQCnrzQAq~kKsalgbiyuYupLJN9BQ4cgSGB8f1Xr4cmMdLbPdBs9YEpB3LeYvX7r4iK-hyXuASU3SiZOA-CzDd3yDRzIM7A0q1tQ0EA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/paper_figures/
   tags:
     - Neurospora tetrasperma
     - Neurospora discreta
@@ -535,13 +535,26 @@
     - Hanna Johannesson
     - Pertti Renvall
     - Jan Stenlid
-- id: issn:0093-4666
-  title: Molecular relationships within the genus <i>Amylostereum</i> as determined by internal transcribed spacer sequences of the ribosomal DNA
-  authors:
-    - Hanna Johannesson
-    - Rimvydas Vasiliauskas
-    - Jan Stenlid
-  publisher: Mycotaxon
-  date: 1999
 - id: doi:10.1016/S0378-1127(98)00399-5
   title: Molecular identification of wood-inhabiting fungi in an unmanaged <i>Picea abies</i> forest in Sweden
+- id: url:http://www.cybertruffle.org.uk/cyberliber/59575/0071/0155.htm
+  title: Molecular relationships within the genus <i>Amylostereum</i> as determined by internal transcribed spacer sequences of the ribosomal DNA
+  authors:
+    - Rimvydas Vasiliauskas
+    - Hanna Johannesson
+    - Jan Stenlid
+  publisher: Mycotaxon
+  date: "1999-06-30"
+  volume: 71(2)
+  pages: 155-162
+  link: https://www.mycotaxon.com/vol-list.html
+- id: url:http://www.cybertruffle.org.uk/cyberliber/59575/0071/0267.htm
+  title: Cladistic analysis of European species of <i>Rhizopogon</i> (Basidiomycotina) based on morphological and molecular characters
+  authors:
+    - Hanna Johannesson
+    - María P. Martín
+  publisher: Mycotaxon
+  date: "1999-06-30"
+  volume: 71(2)
+  pages: 267-284
+  link: https://www.mycotaxon.com/vol-list.html
