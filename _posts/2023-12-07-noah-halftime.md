@@ -1,5 +1,5 @@
 ---
-title: Paper on morel ascospore variation published!
+title: Noah halftime
 tags:
   - defence
   - halftime
