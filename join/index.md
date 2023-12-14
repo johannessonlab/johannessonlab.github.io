@@ -5,7 +5,7 @@ nav:
   tooltip: Join our lab
 ---
 
-# {% include icon.html icon="fa-regular fa-tools" %}Join
+# {% include icon.html icon="fa-solid fa-tools" %}Join
 
 
 Our way of conducting research and teaching is highly collaborative, where all opinions are taken into account and all voices heard, and we are united by a drive to learn more about fungi. We invite you to get in touch if you want to join us in this endeavor.
