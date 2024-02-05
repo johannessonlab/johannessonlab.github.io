@@ -1,3 +1,11 @@
+- id: https://doi.org/10.1186/s13100-023-00311-8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13100-023-00311-8/MediaObjects/13100_2023_311_Fig3_HTML.png
+  tags:
+    - Fungi
+    - Transposable elements
+    - Retrotransposons
+    - Genome defense
+    - Classification
 - id: doi:10.3389/fmicb.2023.1286501
   image: https://www.frontiersin.org/files/Articles/1286501/fmicb-14-1286501-HTML-r1/image_m/fmicb-14-1286501-g001.jpg
   tags:
