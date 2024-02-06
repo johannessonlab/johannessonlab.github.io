@@ -1,0 +1,42 @@
+{% assign project = site.projects 
+  | where_exp: "project", "project.slug == include.lookup"
+  | first
+  | default: include
+%}
+
+<div class="portrait-wrapper">
+  <a
+    {% if page.slug != project.slug %}
+      href="{{ project.url | relative_url }}"
+    {% endif %}
+    class="portrait"
+    data-style="{{ include.style }}"
+    aria-label="{{ project.name | default: "project link" }}"
+  >
+    <img
+      src="{{ project.image | relative_url }}"
+      class="portrait-image"
+      alt="project portrait"
+      loading="lazy"
+      {% include fallback.html %}
+    >
+
+    {% if project.name or project.role or project.description %}
+      <span class="portrait-text">
+        {% if project.name %}
+          <span class="portrait-name">
+            {{ project.name }}
+          </span>
+        {% endif %}
+
+        {% if project.role or project.description %}
+          <span class="portrait-role">
+            {% assign type = site.data.types[project.role] %}
+            {% include icon.html icon=type.icon %}
+            <span>{{ project.description | default: type.description }}</span>
+          </span>
+        {% endif %}
+      </span>
+    {% endif %}
+  </a>
+</div>

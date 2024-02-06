@@ -1,5 +1,4 @@
 ---
-title: Home
 ---
 
 # Fungal Genome Evolution
@@ -7,23 +6,25 @@ The Johannesson lab, led by professor Hanna Johannesson, is placed at the [Depar
 
 {% include section.html full=true %}
 
-{% include figure.html image="images/team.jpg" width="45%" %}
+{% include figure.html image="images/team.jpg" width="80%" %}
 
 {% include section.html %}
 
-# Highlights
+## Highlights
 
 {% capture text %}
+
 Our lab conducts research using fungi as model systems to explore fundamental evolutionary questions such as individuality, genetic conflict, multilevel selection, and the drivers of genetic variation and adaptation. As tools we use a wide range of methods such as comparative genomics, metagenomics, population genetics, bioinformatics, and laboratory experiments.
 
 {%
-  include link.html
+  include button.html
   link="research"
   text="Explore our ongoing projects"
-  icon="fas fa-arrow-right"
+  icon="fa-solid fa-arrow-right"
   flip=true
+  style="bare"
 %}
-{:.center}
+
 {% endcapture %}
 
 {%
@@ -35,16 +36,18 @@ Our lab conducts research using fungi as model systems to explore fundamental ev
 %}
 
 {% capture text %}
-Today, we are 14 members in the team. In addition to our PI, we are researchers, PhD-students, master students and support persons – both for bioinformatics and laboratory work.  We comprise a mix of Swedish and international team members, each with our own unique skillset.
+
+Today, we are 14 members in the team. In addition to our PI, we are researchers, PhD-students, master students and support persons – both for bioinformatics and laboratory work. We comprise a mix of Swedish and international team members, each with our own unique skillset.
 
 {%
-  include link.html
+  include button.html
   link="team"
   text="Meet our team"
-  icon="fas fa-arrow-right"
+  icon="fa-solid fa-arrow-right"
   flip=true
+  style="bare"
 %}
-{:.center}
+
 {% endcapture %}
 
 {%
@@ -55,31 +58,3 @@ Today, we are 14 members in the team. In addition to our PI, we are researchers,
   flip=true
   text=text
 %}
-
-{% include section.html full=true %}
-
-{% include figure.html image="images/JohannessonLab_logo.png" width="15%" %}
-
-{% include section.html %}
-
-<!---
-{% capture text %}
-
-{%
-  include link.html
-  link="team"
-  text="Meet our team"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
---->

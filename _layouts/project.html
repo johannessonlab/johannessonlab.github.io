@@ -4,17 +4,32 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
+{% capture floatcontent %}
+
 {%- include figure.html image=page.image width="500px" caption=page.imagecaption -%}
 
-<p class="center">
-  {%- for entry in page.links -%}
-    {%- assign key = entry[0] -%}
-    {%- assign value = entry[1] -%}
-    {%- include link.html type=key icon="" text="" tooltip="" link=value -%}
-  {%- endfor -%}
-</p>
+<div>
+  {% for link in page.links %}
+    {% assign key = link[0] %}
+    {% assign value = link[1] %}
+    {% include button.html type=key link=value style="bare" %}<br>
+  {% endfor %}
+</div>
+
+{% endcapture %}
+
+{% include float.html content=floatcontent %}
 
 {{ content }}
+
+{% assign aliases = page.aliases
+  | default: page.name
+  | default: page.title
+  | join: ","
+  | split: ","
+  | array_filter
+%}
+
 
 {% assign project_members = '' | split: '' %}
 
@@ -23,7 +38,6 @@ layout: default
   {% assign project_members = project_members | push: m %}
   {%- endif -%}
 {%- endfor -%}
-
 
 <p>
   Group members involved in the {{ page.name | default: page.title }} project: 
@@ -35,24 +49,12 @@ layout: default
   {%- endfor -%}
 </p>
 
-{%- assign aliases = "" | split: ',' -%}
-
-{%- if page.aliases.first -%}
-  {%- assign aliases = aliases | concat: page.aliases -%}
-{%- elsif page.aliases -%}
-  {%- assign aliases = aliases | push: page.aliases -%}
-{%- elsif page.name -%}
-  {%- assign aliases = aliases | push: page.name -%}
-{%- elsif page.title -%}
-  {%- assign aliases = aliases | push: page.title -%}
-{%- endif -%}
-
-{%- assign search = aliases | join: '" "' | prepend: '"' | append: '"' | prepend: "/publications/?search=" -%}
-
-{%- capture text -%}
-  See papers related to {{ page.name | default: page.title }} on the Publications page
-{%- endcapture -%}
+{% capture search -%}
+  publications/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
+{%- endcapture %}
 
 <p class="center">
-  {%- include link.html icon="fas fa-book-open" text=text link=search -%}
+  <a href="{{ search | relative_url }}">
+    Search for papers about {{ page.name | default: page.title }} on the Publications page
+  </a>
 </p>

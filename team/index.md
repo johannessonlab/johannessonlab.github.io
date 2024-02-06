@@ -1,71 +1,28 @@
 ---
 title: Team
 nav:
-  order: 4
+  order: 3
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team
+# {% include icon.html icon="fa-solid fa-users" %}Team
 
 {% include section.html %}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi, group: current"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: postdoc, group: current"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd, group: current"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: bioinformatician, group: current"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: labtech, group: current"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: undergrad, group: current"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: guest, group: current"
-%}
-{:.center}
-
+{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: current: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: current: " %}
+{% include list.html data="members" component="portrait" filters="role: bioinformatician, group: current: " %}
+{% include list.html data="members" component="portrait" filters="role: labtech, group: current: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: current: " %}
+{% include list.html data="members" component="portrait" filters="role: guest, group: current: " %}
 {% include section.html background="images/banner.jpg" dark=true %}
 
 {% include section.html %}
 
-
 ## Alumni
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="group: alum"
-  style="small"
-%}
+
+{% include list.html data="members" component="portrait" filters="group: alum" style="small" %}
 
 ### Undergraduate students & visitors
 <ul style="list-style: none;">
@@ -74,28 +31,17 @@ nav:
   {% endfor %}
 </ul>
 
-
 ## Funding
 
-Our work is made possible by funding from several organizations.
-{:.center}
+{% capture content %}
+[![Bergianska stiftelsen](/images/funding_logos/bergianska.png)](https://www.bergianska.se/)
 
-{%
-  include gallery.html
+[![Vetenskapsrådet](/images/funding_logos/vr.png)](https://www.vr.se/)
 
-  image1="images/funding_logos/bergianska.png"
-  link1="https://www.bergianska.se/"
-  tooltip1="Bergianska stiftelsen"
+[![Carl Tryggers stiftelse](/images/funding_logos/CTS_logotyp.svg)](https://www.carltryggersstiftelse.se/)
 
-  image2="images/funding_logos/vr.png"
-  link2="https://www.vr.se/"
-  tooltip2="Vetenskapsrådet"
+[![LKAB Kiruna](/images/funding_logos/LKAB_logo_blue.svg)](https://lkab.com/en/)
 
-  image3="images/funding_logos/CTS_logotyp.svg"
-  link3="https://www.carltryggersstiftelse.se/"
-  tooltip3="Carl Tryggers stiftelse"
+{% endcapture %}
 
-  image4="images/funding_logos/LKAB_logo_blue.svg"
-  link4="https://lkab.com/en/"
-  tooltip4="LKAB Kiruna"
-%}
+{% include grid.html content=content %}
