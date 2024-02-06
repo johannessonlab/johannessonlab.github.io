@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["all.scss"],"names":[],"mappings":"AAIA;EACE","sourcesContent":["@import \"palettes\";\n@import \"theme\";\n@import \"mixins\";\n\n* {\n  box-sizing: border-box;\n}\n"],"file":"all.css"}
