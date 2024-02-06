@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: johannessonlab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Johannesson Lab
+subtitle: at Stockholm University
+description: The lab group of professor Hanna Johannesson at Stockholm University
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@johannessonlab.com
+  email: hanna.johannesson@su.se
   orcid: 0000-0001-6359-9856
   google-scholar: __qwxZoAAAAJ
   github: johannessonlab
-  twitter: johannessonlab
-  youtube: johannessonlab
+  twitter: JohannessonLab
+#  youtube: 
 
 ### jekyll settings
 
@@ -38,7 +38,6 @@ defaults:
       type: "projects"
     values:
       layout: project
-
 
 collections:
   # generate page for each member
