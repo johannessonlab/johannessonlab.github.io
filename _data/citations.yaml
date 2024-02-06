@@ -1,6 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: https://doi.org/10.1186/s13100-023-00311-8
+  title: Evolutionary dynamics of the LTR-retrotransposon crapaud in the Podospora
+    anserina species complex and the interaction with repeat-induced point mutations
+  authors:
+  - Ivar Westerberg
+  - "S. Lorena Ament-Vel\xE1squez"
+  - Aaron A. Vogan
+  - Hanna Johannesson
+  publisher: Mobile DNA
+  date: '2024-01-13'
+  link: https://doi.org/10.1186/s13100-023-00311-8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13100-023-00311-8/MediaObjects/13100_2023_311_Fig3_HTML.png
+  tags:
+  - Fungi
+  - Transposable elements
+  - Retrotransposons
+  - Genome defense
+  - Classification
+  _cache: b5a8712c0165ce271cd7c4d9fc409352cd0a9b4ce001caeb27fca92547959b62
 - id: doi:10.3389/fmicb.2023.1286501
   title: Cytological studies reveal high variation in ascospore number and shape and
     conidia produced directly from ascospores in Morchella galilaea

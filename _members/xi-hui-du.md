@@ -3,7 +3,7 @@ name: Xi-Hui Du
 image: images/team/xi-hui.jpg
 description: Guest Researcher
 role: guest
-group: current
+group: alum
 aliases:
 links:
   home-page:

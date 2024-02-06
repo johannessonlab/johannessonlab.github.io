@@ -3,7 +3,7 @@ name: Sandra Lorena Ament Velásquez
 image: images/team/sandra_lorena_ament.jpg
 description: Guest Researcher
 role: guest
-group: current
+group: alum
 aliases:
   - S. Lorena Ament-Velásquez
 links:
