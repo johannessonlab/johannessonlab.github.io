@@ -1,0 +1,12 @@
+.tippy-box {
+  background: #212121;
+  font-family: "Poppins", sans-serif;
+  padding: 7.5px;
+  font-size: 0.9rem;
+}
+
+.tippy-arrow:before {
+  color: #212121;
+}
+
+/*# sourceMappingURL=tooltip.css.map */

@@ -1,0 +1,37 @@
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  padding: 40px;
+  color: #ffffff;
+  background: #424242;
+  text-align: center;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1882352941);
+}
+footer * {
+  font-family: "Poppins", sans-serif;
+}
+footer .footer_row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  line-height: 1.8;
+}
+footer .footer_row .link {
+  margin: 0;
+}
+footer .footer_row:hover .link {
+  opacity: 0.25;
+}
+footer .footer_row .link:hover {
+  opacity: 1;
+}
+footer a {
+  color: currentColor;
+}
+
+/*# sourceMappingURL=footer.css.map */

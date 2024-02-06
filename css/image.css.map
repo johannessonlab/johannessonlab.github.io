@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["image.scss"],"names":[],"mappings":"AAIA;EACE;EACA","sourcesContent":["@import \"palettes\";\n@import \"theme\";\n@import \"mixins\";\n\nimg {\n  max-width: 100%;\n  max-height: 100%;\n}\n"],"file":"image.css"}

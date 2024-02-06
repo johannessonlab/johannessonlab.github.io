@@ -1,0 +1,37 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: "Lora", serif;
+}
+body main {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+body section {
+  box-sizing: content-box;
+  padding: 60px 40px;
+  padding: 60px max(40px, (100% - 900px) / 2);
+  text-align: center;
+}
+body section[data-full=true] {
+  padding: 0;
+}
+body section:nth-of-type(even) {
+  background: #ffffff;
+}
+body section:nth-of-type(even) {
+  background: #fafafa;
+}
+body section:last-of-type {
+  flex-grow: 1;
+}
+
+/*# sourceMappingURL=section.css.map */

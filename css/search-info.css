@@ -1,0 +1,15 @@
+.search_info {
+  margin: 20px 0;
+  color: #9e9e9e;
+  text-align: center;
+  font-style: italic;
+  line-height: 1.8;
+}
+.search_info:first-child {
+  margin-top: 0;
+}
+.search_info:last-child {
+  margin-bottom: 0;
+}
+
+/*# sourceMappingURL=search-info.css.map */

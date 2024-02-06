@@ -1,0 +1,17 @@
+.post_excerpt {
+  margin: 20px 0;
+}
+.post_excerpt:first-child {
+  margin-top: 0;
+}
+.post_excerpt:last-child {
+  margin-bottom: 0;
+}
+.post_excerpt > *:first-child {
+  font-weight: 600;
+}
+.post_excerpt > div {
+  justify-content: flex-start;
+}
+
+/*# sourceMappingURL=post-excerpt.css.map */
