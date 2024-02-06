@@ -18,7 +18,8 @@
   - Retrotransposons
   - Genome defense
   - Classification
-  _cache: b5a8712c0165ce271cd7c4d9fc409352cd0a9b4ce001caeb27fca92547959b62
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3389/fmicb.2023.1286501
   title: Cytological studies reveal high variation in ascospore number and shape and
     conidia produced directly from ascospores in Morchella galilaea
