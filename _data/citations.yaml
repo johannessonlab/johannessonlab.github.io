@@ -621,10 +621,10 @@
   file: sources.yaml
 - id: doi:10.1038/s41396-018-0294-7
   title: 'Asexual reproduction and growth rate: independent and plastic life history
-    traits in Neurospora crassa'
+    traits in <i>Neurospora crassa</i>'
   authors:
-  - Jennifer L. Anderson
-  - Bart P. S. Nieuwenhuis
+  - Jennifer L Anderson
+  - Bart P S Nieuwenhuis
   - Hanna Johannesson
   publisher: The ISME Journal
   date: '2018-11-09'
