@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/gbe/evae034
+  title: High-quality genome assemblies of four members of the <i>Podospora anserina</i>
+    species complex
+  authors:
+  - "S Lorena Ament-Vel\xE1squez"
+  - Aaron A Vogan
+  - Ola Wallerman
+  - Fanny Hartmann
+  - "Val\xE9rie Gautier"
+  - Philippe Silar
+  - Tatiana Giraud
+  - Hanna Johannesson
+  publisher: Genome Biology and Evolution
+  date: '2024-02-22'
+  link: https://doi.org/gtj62g
+  tags:
+  - Sordariales
+  - Podospora bellae-mahoneyi
+  - Podospora pseudoanserina
+  - Podospora pseudopauciseta
+  - Podospora pseudocomata
+  - chromosomal rearrangements
+  - phylogenomics
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1186/s13100-023-00311-8
   title: Evolutionary dynamics of the LTR-retrotransposon crapaud in the Podospora
     anserina species complex and the interaction with repeat-induced point mutations
@@ -621,10 +646,10 @@
   file: sources.yaml
 - id: doi:10.1038/s41396-018-0294-7
   title: 'Asexual reproduction and growth rate: independent and plastic life history
-    traits in Neurospora crassa'
+    traits in <i>Neurospora crassa</i>'
   authors:
-  - Jennifer L. Anderson
-  - Bart P. S. Nieuwenhuis
+  - Jennifer L Anderson
+  - Bart P S Nieuwenhuis
   - Hanna Johannesson
   publisher: The ISME Journal
   date: '2018-11-09'

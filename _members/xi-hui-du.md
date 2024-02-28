@@ -13,4 +13,4 @@ projects:
   - Marasmius
 ---
 
-Xi-Hui is a guest researcher from the Chongqing Normal University, China. She is an expert on genetics of true morels. With the Johannesson lab she works on comparative genomics in the Marasmiaceae family, and genetics of European morel populations.
+Xi-Hui visited us during the year of 2023 as a guest researcher from the Chongqing Normal University, China. She is an expert on genetics and biology of true morels. With the Johannesson lab she worked on comparative genomics in the Marasmiaceae family, and investigated the diversity of European morels

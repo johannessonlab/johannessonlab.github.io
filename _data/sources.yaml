@@ -1,3 +1,12 @@
+- id: doi:10.1093/gbe/evae034
+  tags:
+    - Sordariales
+    - Podospora bellae-mahoneyi
+    - Podospora pseudoanserina
+    - Podospora pseudopauciseta
+    - Podospora pseudocomata
+    - chromosomal rearrangements
+    - phylogenomics
 - id: https://doi.org/10.1186/s13100-023-00311-8
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13100-023-00311-8/MediaObjects/13100_2023_311_Fig3_HTML.png
   tags:
