@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41467-024-46459-6
+  title: The global speciation continuum of the cyanobacterium Microcoleus
+  authors:
+  - "Aleksandar Stanojkovi\u0107"
+  - "Svatopluk Skoup\xFD"
+  - Hanna Johannesson
+  - "Petr Dvo\u0159\xE1k"
+  publisher: Nature Communications
+  date: '2024-03-08'
+  link: https://doi.org/gtmdq5
+  image: images/paper_figures/41467_2024_46459_Fig5_HTML.webp
+  tags:
+  - Cyanobacteria
+  - Population genomics
+  - Speciation
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/gbe/evae034
   title: High-quality genome assemblies of four members of the <i>Podospora anserina</i>
     species complex
