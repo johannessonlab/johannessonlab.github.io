@@ -18,13 +18,13 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/gbe/evae034
-  title: High-quality genome assemblies of four members of the <i>Podospora anserina</i>
-    species complex
+  title: High-Quality Genome Assemblies of 4 Members of the <i>Podospora anserina</i>
+    Species Complex
   authors:
   - "S Lorena Ament-Vel\xE1squez"
   - Aaron A Vogan
   - Ola Wallerman
-  - Fanny Hartmann
+  - Fanny E Hartmann
   - "Val\xE9rie Gautier"
   - Philippe Silar
   - Tatiana Giraud
