@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1111/nph.20007
+  title: High rate of gene family evolution in proximity to the origin of ectomycorrhizal
+    symbiosis in Inocybaceae
+  authors:
+  - Faheema Kalsoom Khan
+  - "Marisol S\xE1nchez\u2010Garc\xEDa"
+  - Hanna Johannesson
+  - Martin Ryberg
+  publisher: New Phytologist
+  date: '2024-08-07'
+  link: https://doi.org/gt66tc
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/0537cc07-872e-40d0-9fe6-d42f14f803d4/nph20007-fig-0004-m.jpg
+  tags:
+  - CAZymes
+  - comparative genomics
+  - fungi
+  - Inocybaceae
+  - mycorrhiza
+  - phylogenomics
+  - saprotrophs
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-024-46459-6
   title: The global speciation continuum of the cyanobacterium Microcoleus
   authors:
@@ -32,6 +54,7 @@
   publisher: Genome Biology and Evolution
   date: '2024-02-22'
   link: https://doi.org/gtj62g
+  image: images/paper_figures/m_evae034f2.jpeg
   tags:
   - Sordariales
   - Podospora bellae-mahoneyi

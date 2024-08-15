@@ -1,3 +1,13 @@
+- id: doi:10.1111/nph.20007
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/0537cc07-872e-40d0-9fe6-d42f14f803d4/nph20007-fig-0004-m.jpg
+  tags:
+    - CAZymes
+    - comparative genomics
+    - fungi
+    - Inocybaceae
+    - mycorrhiza
+    - phylogenomics
+    - saprotrophs
 - id: doi:10.1038/s41467-024-46459-6
   image: images/paper_figures/41467_2024_46459_Fig5_HTML.webp
   tags:
@@ -5,6 +15,7 @@
     - Population genomics
     - Speciation
 - id: doi:10.1093/gbe/evae034
+  image: images/paper_figures/m_evae034f2.jpeg
   tags:
     - Sordariales
     - Podospora bellae-mahoneyi
