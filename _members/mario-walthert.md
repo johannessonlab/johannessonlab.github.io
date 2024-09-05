@@ -3,7 +3,7 @@ name: Mario Walthert
 image: images/team/mario_walthert.jpg
 description: Master Student
 role: undergrad
-group: current
+group: alum
 aliases:
 links:
   home-page:

@@ -1,8 +1,8 @@
 ---
 name: Marieke van der Poel
 image: images/team/marieke.jpg
-description: Master Student
-role: undergrad
+description: Research assistant
+role: assistant
 group: current
 aliases:
 links:

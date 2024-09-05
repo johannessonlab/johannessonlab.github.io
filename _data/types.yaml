@@ -26,6 +26,14 @@ labtech:
   icon: fa-solid fa-microscope
   text: Laboratory technician
 
+assistant:
+  icon: fa-solid fa-microscope
+  text: Research assistant
+
+intern:
+  icon: fa-solid fa-user-graduate
+  text: Intern
+
 guest:
   icon: fa-solid fa-glasses
   text: Guest Researcher

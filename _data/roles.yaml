@@ -14,6 +14,10 @@ undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
+intern:
+  icon: fas fa-user-graduate
+  text: Intern
+
 bioinformatician:
   icon: fas fa-code
   text: Bioinformatician
@@ -21,6 +25,10 @@ bioinformatician:
 labtech:
   icon: fas fa-microscope
   text: Laboratory technician
+
+assistant:
+  icon: fas fa-microscope
+  text: Research assistant
 
 guest:
   icon: fas fa-glasses
