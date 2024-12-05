@@ -1,7 +1,8 @@
 ---
 title: Preprint with colleagues from Montpellier
 tags:
-  - publicatiNLRR
+  - publication
+  - NLRR
 author: Hanna Johannesson
 member: hanna-johannesson
 ---
