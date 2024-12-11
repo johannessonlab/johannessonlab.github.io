@@ -7,7 +7,7 @@ group: current
 aliases:
 links:
   home-page:
-  email: 
+  email: mattias.siljestam@su.se
 ---
 
 I'm a theoretical biologist interested in modelling the interplay between ecology and evolution, using the framework of evolutionary invasion analysis and individual-based simulations.
