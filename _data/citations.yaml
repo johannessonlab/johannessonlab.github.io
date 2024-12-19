@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1080/00275514.2024.2425583
+  title: "Evolution of a bipolar sexual compatibility system in\n            <i>Marasmius</i>"
+  authors:
+  - "Markus Hiltunen Thor\xE9n"
+  - "Aleksandar Stanojkovi\u0107"
+  - Martin Ryberg
+  - Hanna Johannesson
+  publisher: Mycologia
+  date: '2024-12-11'
+  link: https://doi.org/g8wf9w
+  image: images/paper_figures/doi_10_1080_00275514_2024_2425583.png
+  tags:
+  - Marasmius
+  - Fairy ring
+  - fungi
+  - Basidiomycetes
+  - Life cycle
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/nph.20007
   title: High rate of gene family evolution in proximity to the origin of ectomycorrhizal
     symbiosis in Inocybaceae
@@ -11,7 +30,7 @@
   publisher: New Phytologist
   date: '2024-08-07'
   link: https://doi.org/gt66tc
-  image: https://nph.onlinelibrary.wiley.com/cms/asset/0537cc07-872e-40d0-9fe6-d42f14f803d4/nph20007-fig-0004-m.jpg
+  image: images/paper_figures/doi_10_1111_nph_2007.png
   tags:
   - CAZymes
   - comparative genomics
