@@ -1,5 +1,6 @@
 ---
 title: Mycology Nordics is launched!
+image: images/team.jpg
 tags:
   - MycologyNordics
   - conference
