@@ -1,0 +1,86 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 15px; /* The space around the logo in the header */
+  color: #ffffff;
+  background: #424242;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1882352941);
+}
+header * {
+  font-family: "Poppins", sans-serif;
+}
+header .logo_row {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+header .logo_row .logo {
+  max-width: 100%;
+  height: 130px; /* This one changes logo size in the header */
+}
+header .logo_row .logo_text {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  gap: 5px;
+  line-height: 1.2;
+}
+header .logo_row .logo_text .logo_title {
+  font-size: 1.5rem;
+}
+header .logo_row .logo_text .logo_subtitle {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #9e9e9e;
+}
+header .nav_row {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+header .nav_row .link {
+  margin: 0;
+  font-size: 1rem;
+}
+header .nav_row:hover .link {
+  opacity: 0.25;
+}
+header .nav_row .link:hover {
+  opacity: 1;
+}
+header a {
+  color: currentColor;
+  text-decoration: none;
+}
+@media (max-width: 1000px) {
+  header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+@media (max-width: 700px) {
+  header .logo_row {
+    flex-direction: column;
+  }
+  header .logo_row .logo_text {
+    text-align: center;
+    align-items: center;
+  }
+  header .nav_row {
+    flex-direction: column;
+    justify-content: center;
+  }
+  header .nav_row .link {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=header.css.map */

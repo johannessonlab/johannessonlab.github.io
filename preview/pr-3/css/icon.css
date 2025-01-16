@@ -1,0 +1,43 @@
+i.fas, i.far, i.fab, i.fal, i.fad, i.fa-solid, i.fa-regular, i.fa-light, i.fa-thin, i.fa-duotone, svg {
+  display: inline;
+}
+
+h1 i.fas, h1 i.far, h1 i.fab, h1 i.fal, h1 i.fad, h1 i.fa-solid, h1 i.fa-regular, h1 i.fa-light, h1 i.fa-thin, h1 i.fa-duotone, h1 svg:first-child,
+h2 i.fas,
+h2 i.far,
+h2 i.fab,
+h2 i.fal,
+h2 i.fad,
+h2 i.fa-solid,
+h2 i.fa-regular,
+h2 i.fa-light,
+h2 i.fa-thin,
+h2 i.fa-duotone,
+h2 svg:first-child,
+h3 i.fas,
+h3 i.far,
+h3 i.fab,
+h3 i.fal,
+h3 i.fad,
+h3 i.fa-solid,
+h3 i.fa-regular,
+h3 i.fa-light,
+h3 i.fa-thin,
+h3 i.fa-duotone,
+h3 svg:first-child,
+h4 i.fas,
+h4 i.far,
+h4 i.fab,
+h4 i.fal,
+h4 i.fad,
+h4 i.fa-solid,
+h4 i.fa-regular,
+h4 i.fa-light,
+h4 i.fa-thin,
+h4 i.fa-duotone,
+h4 svg:first-child {
+  color: #81d4fa;
+  margin-right: 1em;
+}
+
+/*# sourceMappingURL=icon.css.map */
