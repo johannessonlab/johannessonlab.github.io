@@ -1,3 +1,4 @@
+@charset "UTF-8";
 [data-dark=false] {
   --primary: #0ea5e9;
   --secondary: #7dd3fc;
@@ -38,19 +39,46 @@
   --shadow: 0 0 10px 0 var(--overlay);
 }
 
+.post-excerpt {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+
+.post-thumbnail-wrapper {
+  flex: 0 0 200px;
+  margin-right: 1rem;
+}
+
 .post-thumbnail {
-  width: 100%;
-  max-width: 300px;
-  height: auto;
-  margin-bottom: 1rem;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px; /* Valfritt, för rundade hörn */
   display: block;
 }
 
-.post-image img {
-  width: 100%;
-  max-width: 600px;
-  height: auto;
-  margin: 1rem 0;
+.post-content-wrapper {
+  flex: 1;
+}
+
+.post-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.post-title:hover {
+  text-decoration: underline;
+}
+
+.post-excerpt-text {
+  margin-top: 0.5rem;
+  color: #666;
+  line-height: 1.5;
 }
 
 /*# sourceMappingURL=-theme.css.map */
