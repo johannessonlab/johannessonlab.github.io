@@ -4,7 +4,7 @@
   | default: include
 %}
 
-<div class="post-excerpt {% if post.image == nil %}no-image{% endif %}">
+<div class="post-excerpt {% if post.image == null %}no-image{% endif %}">
   <div class="post-thumbnail-wrapper">
     {% if post.image %}
       <a href="{{ post.url | relative_url }}">
@@ -33,3 +33,4 @@
     </p>
   </div>
 </div>
+
