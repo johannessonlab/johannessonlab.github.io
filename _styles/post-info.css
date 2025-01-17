@@ -8,6 +8,10 @@
   color: var(--gray);
 }
 
+.post-excerpt .post-info {
+  justify-content: flex-start !important;
+}
+
 .post-info .portrait {
   margin: 0;
 }
