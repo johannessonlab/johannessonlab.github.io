@@ -5,38 +5,31 @@
 %}
 
 <div class="post-excerpt">
-  {% assign url = post.url %}
-  {% assign title = post.title %}
-  
-  {% if post.image %}
-    <a href="{{ url | relative_url }}">
-      <img src="{{ post.image | relative_url }}" alt="{{ title }}" class="post-thumbnail">
-    </a>
-  {% endif %}
-
-  <a href="{{ url | relative_url }}">{{ title }}</a>
-
-  {%
-    include post-info.html
-    author=post.author
-    published=post.date
-    updated=post.last_modified_at
-    tags=post.tags
-  %}
-
-  {% assign excerpt = post.content
-    | default: ""
-    | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
-    | default: post.excerpt
-    | default: ""
-    | strip_html
-  %}
-  {% assign search = post.content
-    | strip_html 
-    | strip_newlines
-    | regex_strip
-  %}
-  <p data-search="{{ search }}">
-    {{ excerpt }}
-  </p>
+  <div class="post-thumbnail-wrapper">
+    {% if post.image %}
+      <a href="{{ post.url | relative_url }}">
+        <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-thumbnail">
+      </a>
+    {% endif %}
+  </div>
+  <div class="post-content-wrapper">
+    <a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a>
+    {%
+      include post-info.html
+      author=post.author
+      published=post.date
+      updated=post.last_modified_at
+      tags=post.tags
+    %}
+    {% assign excerpt = post.content
+      | default: ""
+      | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
+      | default: post.excerpt
+      | default: ""
+      | strip_html
+    %}
+    <p class="post-excerpt-text">
+      {{ excerpt }}
+    </p>
+  </div>
 </div>
