@@ -81,4 +81,11 @@
   line-height: 1.5;
 }
 
+.post-image img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  margin: 1rem 0;
+}
+
 /*# sourceMappingURL=-theme.css.map */
