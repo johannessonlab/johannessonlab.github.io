@@ -1,4 +1,3 @@
-@charset "UTF-8";
 .post-excerpt {
   display: flex;
   flex-wrap: wrap;
@@ -21,16 +20,19 @@
   margin-bottom: 2rem;
 }
 
+/* Om det finns ingen bild, döljer vi bildhållaren och justerar layouten */
 .post-thumbnail-wrapper {
   flex: 0 0 200px;
   margin-right: 1rem;
+  display: none; /* Döljer om ingen bild finns */
 }
 
-.post-thumbnail {
+/* Om en bild finns, visa den */
+.post-thumbnail-wrapper img {
   width: 200px;
   height: 200px;
   object-fit: cover;
-  border-radius: 8px; /* Valfritt, för rundade hörn */
+  border-radius: 8px;
   display: block;
 }
 
@@ -38,6 +40,19 @@
   flex: 1;
 }
 
+/* Justera layouten om ingen bild finns */
+.post-excerpt.no-image .post-thumbnail-wrapper {
+  display: none;
+  flex: 0 0 100%;
+  margin-right: 0;
+}
+
+/* Anpassa texten för hela bredden om ingen bild finns */
+.post-excerpt.no-image .post-content-wrapper {
+  flex: 1;
+}
+
+/* Postens titel */
 .post-title {
   font-size: 1.2rem;
   font-weight: bold;
@@ -51,12 +66,14 @@
   text-decoration: underline;
 }
 
+/* Postens excerpt text */
 .post-excerpt-text {
   margin-top: 0.5rem;
   color: #666;
   line-height: 1.5;
 }
 
+/* Första länk i post-excerpt */
 .post-excerpt > a:first-child {
   width: 100%;
   font-weight: var(--semi-bold);
@@ -69,5 +86,3 @@
 .post-excerpt > p {
   width: 100%;
 }
-
-/*# sourceMappingURL=post-excerpt.css.map */
