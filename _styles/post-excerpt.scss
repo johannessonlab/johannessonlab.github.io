@@ -16,6 +16,47 @@
 .post-excerpt > * {
   margin: 0 !important;
 }
+.post-excerpt {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+
+.post-thumbnail-wrapper {
+  flex: 0 0 200px;
+  margin-right: 1rem;
+}
+
+.post-thumbnail {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px; /* Valfritt, för rundade hörn */
+  display: block;
+}
+
+.post-content-wrapper {
+  flex: 1;
+}
+
+.post-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.post-title:hover {
+  text-decoration: underline;
+}
+
+.post-excerpt-text {
+  margin-top: 0.5rem;
+  color: #666;
+  line-height: 1.5;
+}
 
 .post-excerpt > a:first-child {
   width: 100%;
@@ -29,3 +70,5 @@
 .post-excerpt > p {
   width: 100%;
 }
+
+
