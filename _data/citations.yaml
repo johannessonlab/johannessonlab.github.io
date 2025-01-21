@@ -1,29 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1126/sciadv.adn0597
-  title: Origin, structure, and composition of the spider major ampullate silk fiber
-    revealed by genomics, proteomics, and single-cell and spatial transcriptomics
-  authors:
-  - Sumalata Sonavane
-  - Sameer Hassan
-  - Urmimala Chatterjee
-  - Lucile Soler
-  - Lena Holm
-  - Annelie Mollbrink
-  - Gabriele Greco
-  - Noah Fereydouni
-  - Olga Vinnere Pettersson
-  - Ignas Bunikis
-  - Allison Churcher
-  - Henrik Lantz
-  - Jan Johansson
-  - "Johan Reimeg\xE5rd"
-  - Anna Rising
-  publisher: Science Advances
-  date: '2024-08-16'
-  link: https://doi.org/gt732f
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1080/00275514.2024.2425583
   title: "Evolution of a bipolar sexual compatibility system in\n            <i>Marasmius</i>"
   authors:
