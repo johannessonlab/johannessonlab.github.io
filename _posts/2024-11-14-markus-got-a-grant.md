@@ -5,7 +5,7 @@ tags:
   - research
 author: Hanna Johannesson
 member: hanna-johannesson
-image: /images/markus_got_a_grant.jpg
+image: /images/news/markus_got_a_grant_2.jpg
 
 ---
 
