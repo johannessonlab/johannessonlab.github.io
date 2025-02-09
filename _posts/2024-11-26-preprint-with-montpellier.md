@@ -5,7 +5,7 @@ tags:
   - NLRR
 author: Hanna Johannesson
 member: hanna-johannesson
-image: /images/news/241126_preprint_with_montpellier_News.jpg
+image: /images/news/241126_preprint_with_montpellier_2_News.jpg
 
 ---
 
