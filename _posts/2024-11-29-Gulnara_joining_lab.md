@@ -6,7 +6,7 @@ tags:
   - lichens
 author: Hanna Johannesson
 member: hanna-johannesson
-image: /images/241129_gulnara_NEWS.jpg
+image: /images/news/241129_gulnara_NEWS.jpg
 
 
 ---
