@@ -5,6 +5,7 @@ tags:
   - science
 author: Hanna Johannesson
 member: hanna-johannesson
+image: /images/news/240420_Hanna_at_Gothenburg_Science_festival.png
 ---
 
 Hanna participated in Gothenburg science festival, talking about fungal life cycles together with Leif Anderson from Gothenburg.

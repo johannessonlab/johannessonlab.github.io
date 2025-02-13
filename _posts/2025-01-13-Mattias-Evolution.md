@@ -5,7 +5,7 @@ tags:
   - conference
 author: Hanna Johannesson
 member: hanna-johannesson
-image: /images/news/250113_Mattias_Evolution_in_Sweden.png
+image: /images/news/250113_Mattias_Evolution_in_Sweden_NEW.jpeg
 
 ---
 
