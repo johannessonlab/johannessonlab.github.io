@@ -6,7 +6,7 @@ tags:
   - fungi
 author: Hanna Johannesson
 member: hanna-johannesson
-image: /images/news/Ivar_at_3rd.png
+image: /images/news/240726_Ivar_at_3rd.png
 
 ---
 
