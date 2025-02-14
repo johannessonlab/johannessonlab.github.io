@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.cub.2024.12.041
+  title: Complexity of the lichen symbiosis revealed by metagenome and transcriptome
+    analysis of Xanthoria parietina
+  authors:
+  - Gulnara Tagirdzhanova
+  - Klara Scharnagl
+  - Neha Sahu
+  - Xia Yan
+  - Angus Bucknell
+  - Adam R. Bentham
+  - "Clara J\xE9gousse"
+  - "Sandra Lorena Ament-Vel\xE1squez"
+  - "Ioana Onu\u021B-Br\xE4nnstr\xF6m"
+  - Hanna Johannesson
+  - Dan MacLean
+  - Nicholas J. Talbot
+  publisher: Current Biology
+  date: '2025-01-01'
+  link: https://doi.org/g843jk
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/00275514.2024.2425583
   title: "Evolution of a bipolar sexual compatibility system in\n            <i>Marasmius</i>"
   authors:
