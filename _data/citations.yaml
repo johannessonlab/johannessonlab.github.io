@@ -32,6 +32,7 @@
   publisher: Current Biology
   date: '2025-01-01'
   link: https://doi.org/g843jk
+  image: images/paper_figures/Gulnara_2025_graphical-abstract.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1080/00275514.2024.2425583
