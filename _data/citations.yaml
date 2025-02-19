@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3897/imafungus.16.142215
+  title: Isolation and characterization of edible mushroom-forming fungi from Swedish
+    nature
+  authors:
+  - Mario Walthert
+  - "Markus Hiltunen Thor\xE9n"
+  - Hanna Johannesson
+  publisher: IMA Fungus
+  date: '2025-02-17'
+  link: https://doi.org/g85jw8
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cub.2024.12.041
   title: Complexity of the lichen symbiosis revealed by metagenome and transcriptome
     analysis of Xanthoria parietina
