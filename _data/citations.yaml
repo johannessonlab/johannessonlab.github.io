@@ -10,6 +10,7 @@
   publisher: IMA Fungus
   date: '2025-02-17'
   link: https://doi.org/g85jw8
+  image: images/paper_figures/Marios-paper_doi:10.3897imafungus.16.142215.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cub.2024.12.041
