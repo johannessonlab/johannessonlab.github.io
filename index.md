@@ -2,11 +2,11 @@
 ---
 
 # Fungal Genome Evolution
-The Johannesson lab, led by professor Hanna Johannesson, is placed at the [Department of Ecology, Environment and Plant Sciences](https://www.su.se/department-of-ecology-environment-and-plant-sciences/) at [Stockholm University](https://www.su.se/).
+The Johannesson lab, led by professor Hanna Johannesson, is placed at the [Department of Ecology, Environment and Plant Sciences](https://www.su.se/department-of-ecology-environment-and-plant-sciences/) at [Stockholm University](https://www.su.se/).Our lab conducts research using fungi as model systems to explore fundamental evolutionary questions such as individuality, genetic conflict, multilevel selection, and the drivers of genetic variation and adaptation. As tools we use a wide range of methods such as comparative genomics, metagenomics, population genetics, bioinformatics, and laboratory experiments.
 
 {% include section.html full=true %}
 
-{% include figure.html image="images/team.jpg" width="80%" %}
+{% include figure.html image="images/logo.png" width="80%" %}
 
 {% include section.html %}
 
@@ -14,7 +14,7 @@ The Johannesson lab, led by professor Hanna Johannesson, is placed at the [Depar
 
 {% capture text %}
 
-Our lab conducts research using fungi as model systems to explore fundamental evolutionary questions such as individuality, genetic conflict, multilevel selection, and the drivers of genetic variation and adaptation. As tools we use a wide range of methods such as comparative genomics, metagenomics, population genetics, bioinformatics, and laboratory experiments.
+We have several ongoing research projects at the Johannesson lab. Our way of conducting research means that there is often overlap between projects. While the boundaries between projects are not always clear, the main directions of our currently ongoing work can be summarized as the following, in no particular order.
 
 {%
   include button.html
@@ -52,7 +52,7 @@ Today, we are 14 members in the team. In addition to our PI, we are researchers,
 
 {%
   include feature.html
-  image="images/team_meeting.png"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   flip=true
