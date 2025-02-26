@@ -6,7 +6,7 @@ The Johannesson lab, led by professor Hanna Johannesson, is placed at the [Depar
 
 {% include section.html full=true %}
 
-{% include figure.html image="images/logo.png" width="80%" %}
+{% include figure.html image="images/logo.png" width="40%" %}
 
 {% include section.html %}
 
