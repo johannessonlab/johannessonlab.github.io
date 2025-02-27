@@ -129,7 +129,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 250px;
+  display: none;
 }
 header[data-big] .title {
   flex-direction: column;
@@ -137,10 +137,10 @@ header[data-big] .title {
   text-align: center;
 }
 header[data-big] .title > *:first-child {
-  font-size: var(--xxl);
+  font-size: var(--xxxl);
 }
 header[data-big] .title > *:last-child {
-  font-size: var(--large);
+  font-size: var(--xl);
 }
 
 /*# sourceMappingURL=header.css.map */
