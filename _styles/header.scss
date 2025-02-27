@@ -150,7 +150,8 @@ header[data-big] {
   }
 
   .logo {
-    height: $logo-big;
+      display: none;  // Hides the logo
+      // height: $logo-big;
   }
 
   .title {
@@ -160,10 +161,10 @@ header[data-big] {
   }
 
   .title > *:first-child {
-    font-size: var(--xxl);
+    font-size: var(--xxxl);
   }
 
   .title > *:last-child {
-    font-size: var(--large);
+    font-size: var(--xl);
   }
 }
