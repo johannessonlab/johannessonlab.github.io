@@ -2,7 +2,7 @@
 ---
 
 # Fungal Genome Evolution
-The Johannesson lab, led by professor Hanna Johannesson, is placed at the [Department of Ecology, Environment and Plant Sciences](https://www.su.se/department-of-ecology-environment-and-plant-sciences/) at [Stockholm University](https://www.su.se/).Our lab conducts research using fungi as model systems to explore fundamental evolutionary questions such as individuality, genetic conflict, multilevel selection, and the drivers of genetic variation and adaptation. As tools we use a wide range of methods such as comparative genomics, metagenomics, population genetics, bioinformatics, and laboratory experiments.
+The Johannesson lab, led by professor Hanna Johannesson, is placed at the [Department of Ecology, Environment and Plant Sciences](https://www.su.se/department-of-ecology-environment-and-plant-sciences/) at [Stockholm University](https://www.su.se/). Our lab conducts research using fungi as model systems to explore fundamental evolutionary questions such as individuality, genetic conflict, multilevel selection, and the drivers of genetic variation and adaptation. As tools we use a wide range of methods such as comparative genomics, metagenomics, population genetics, bioinformatics, and laboratory experiments.
 
 {% include section.html full=true %}
 
