@@ -6,7 +6,7 @@ The Johannesson lab, led by professor Hanna Johannesson, is placed at the [Depar
 
 {% include section.html full=true %}
 
-{% include figure.html image="images/JohannessonLab_logo.png" width="40%" %}
+{% include figure.html image="images/team.jpg" width="80%" %}
 
 {% include section.html %}
 
@@ -52,7 +52,7 @@ Today, we are 14 members in the team. In addition to our PI, we are researchers,
 
 {%
   include feature.html
-  image="images/team.jpg"
+  image="images/team_outside.jpg"
   link="team"
   title="Our Team"
   flip=true
