@@ -3,11 +3,11 @@ name: Praissy Zefi
 image: images/team/zefi.jpg
 description: Intern
 role: intern
-group: current
+group: alum
 aliases:
 links:
   home-page:
   email:
 ---
 
-I am Praissy Zefi. I have just graduated from Uppsala's master's degree in bioinformatics. I will be working on the mosaic genomes of the hybrid fungus _Verticillium longisporum_.
+Praissy Zefi joined the group in September 2024, after her graduation from Uppsala’s master’s degree in bioinformatics. She was working with us on the mosaic genomes of the hybrid fungus _Verticillium longisporum_.
