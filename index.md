@@ -37,7 +37,7 @@ We have several ongoing research projects at the Johannesson lab. Our way of con
 
 {% capture text %}
 
-Today, we are 13 members in the team. In addition to our PI, we are researchers, PhD-students, master students and support persons – both for bioinformatics and laboratory work. We comprise a mix of Swedish and international team members, each with our own unique skillset.
+Today, we are 14 members in the team. In addition to our PI, we are researchers, PhD-students, master students and support persons – both for bioinformatics and laboratory work. We comprise a mix of Swedish and international team members, each with our own unique skillset.
 
 {%
   include button.html
