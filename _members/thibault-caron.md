@@ -1,8 +1,8 @@
 ---
 name: Thibault Caron
 image: images/team/thibault.jpg
-description: Postdoctoral Researcher
-role: postdoc
+description: Researcher
+role: researcher
 group: current
 aliases:
 links:

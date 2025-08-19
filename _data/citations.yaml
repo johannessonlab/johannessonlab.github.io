@@ -1,5 +1,68 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: PMID:40811541
+  title: Early germline sequestration in a basidiomycete fungus.
+  authors:
+  - "Markus Hiltunen Thor\xE9n"
+  - Boel Olsson
+  - Peter Jan Vonk
+  - Mattias Siljestam
+  - "Johan Reimeg\xE5rd"
+  - Martin Ryberg
+  - Hanna Johannesson
+  publisher: Science (New York, N.Y.)
+  date: '2025-08-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40811541
+  image: images/paper_figures/science.adu8580-f3.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pgen.1011739
+  title: Genomic organization, domain assortments, and nucleotide-binding domain diversity
+    of NLR proteins in Sordariales fungi
+  authors:
+  - Lucas Bonometti
+  - Florian Charriat
+  - Noah Hensen
+  - "Silvia Mi\xF1ana-Posada"
+  - Hanna Johannesson
+  - Pierre Gladieux
+  publisher: PLOS Genetics
+  date: '2025-07-07'
+  link: https://doi.org/g9xg2k
+  image: images/paper_figures/doi_10.1371_journal.pgen.1011739.png
+  tags:
+  - fungal genomics
+  - genomics
+  - Hidden Markov models
+  - sequence alignment
+  - fungi
+  - phylogenetic analysis
+  - protein domains
+  - fungal genetics
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1099/mgen.0.001442
+  title: Reconstructing NOD-like receptor alleles with high internal conservation
+    in Podospora anserina using long-read sequencing
+  authors:
+  - "S. Lorena Ament-Vel\xE1squez"
+  - Brendan Furneaux
+  - Sonia Dheur
+  - Alexandra Granger-Farbos
+  - Rike Stelkens
+  - Hanna Johannesson
+  - Sven J. Saupe
+  publisher: Microbial Genomics
+  date: '2025-07-02'
+  link: https://doi.org/g9wb7m
+  image: images/paper_figures/10.1099_mgen.0.001442.png
+  tags:
+  - allorecognition
+  - fungi
+  - heterokaryon incompatibility
+  - WD40 domain
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3897/imafungus.16.142215
   title: Isolation and characterization of edible mushroom-forming fungi from Swedish
     nature
@@ -48,10 +111,11 @@
   image: images/paper_figures/doi_10_1080_00275514_2024_2425583.png
   tags:
   - Marasmius
-  - Fairy ring
-  - fungi
-  - Basidiomycetes
-  - Life cycle
+  - fairy ring
+  - homeodomain
+  - pheromone receptor
+  - mating system
+  - MAT locus
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/nph.20007
@@ -848,7 +912,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1534/g3.116.033860
-  title: Epigenetic Control of Phenotypic Plasticity in the Filamentous Fungus <i>Neurospora
+  title: Epigenetic Control of Phenotypic Plasticity in the Filamentous Fungus<i>Neurospora
     crassa</i>
   authors:
   - Ilkka Kronholm

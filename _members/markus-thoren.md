@@ -2,7 +2,7 @@
 name: Markus Hiltunen Thorén
 image: images/team/markus_hiltunen_thoren.jpg
 description: Researcher
-role: postdoc
+role: researcher
 group: current
 aliases:
   - Markus Hiltunen

@@ -1,3 +1,23 @@
+- id: PMID:40811541
+  image: images/paper_figures/science.adu8580-f3.jpg
+- id: doi:10.1371/journal.pgen.1011739
+  image: images/paper_figures/doi_10.1371_journal.pgen.1011739.png
+  tags:
+    - fungal genomics
+    - genomics
+    - Hidden Markov models
+    - sequence alignment
+    - fungi
+    - phylogenetic analysis
+    - protein domains
+    - fungal genetics
+- id: doi:10.1099/mgen.0.001442
+  image: images/paper_figures/10.1099_mgen.0.001442.png
+  tags:
+    - allorecognition
+    - fungi
+    - heterokaryon incompatibility
+    - WD40 domain
 - id: doi:10.3897/imafungus.16.142215
   image: images/paper_figures/imafungus.16.142215.jpg
 - id: doi:10.1016/j.cub.2024.12.041
@@ -6,10 +26,11 @@
   image: images/paper_figures/doi_10_1080_00275514_2024_2425583.png
   tags:
     - Marasmius 
-    - Fairy ring
-    - fungi
-    - Basidiomycetes
-    - Life cycle
+    - fairy ring
+    - homeodomain
+    - pheromone receptor
+    - mating system
+    - MAT locus
 - id: doi:10.1111/nph.20007
   image: images/paper_figures/doi_10_1111_nph_2007.png
   tags:

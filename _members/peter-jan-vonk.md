@@ -1,7 +1,7 @@
 ---
 name: Peter Jan Vonk
 image: images/team/peter-jan-vonk.jpg
-description: Postdoctoral Researcher
+description: Postdoc
 role: postdoc
 group: current
 aliases:

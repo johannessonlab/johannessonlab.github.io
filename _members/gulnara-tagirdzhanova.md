@@ -1,7 +1,7 @@
 ---
 name: Gulnara Tagirdzhanova
 image: images/team/250801_Gulnara.jpg
-description: Postdoctoral Researcher
+description: Postdoc
 role: postdoc
 group: current
 aliases:

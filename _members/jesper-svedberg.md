@@ -2,7 +2,7 @@
 name: Jesper Svedberg
 image: images/team/jesper_svedberg.jpg
 description: Researcher
-role: postdoc
+role: researcher
 group: current
 aliases:
 links:

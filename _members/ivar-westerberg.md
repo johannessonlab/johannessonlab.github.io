@@ -1,8 +1,8 @@
 ---
 name: Ivar Westerberg
 image: images/team/ivar.jpg
-description: Postdoctoral Researcher
-role: postdoc
+description: Researcher
+role: researcher
 group: current
 aliases:
 links:

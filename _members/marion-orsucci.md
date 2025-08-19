@@ -2,7 +2,7 @@
 name: Marion Orsucci
 image: images/team/marion_orsucci.jpg
 description: Researcher
-role: postdoc
+role: researcher
 group: current
 aliases:
 links:
