@@ -1,7 +1,7 @@
 ---
 name: Mattias Siljestam
 image: images/team/mattias_siljestam.jpg
-description: Postdoc
+description: Postdoctoral Researcher
 role: postdoc
 group: current
 aliases:
