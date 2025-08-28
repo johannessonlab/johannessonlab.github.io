@@ -1,5 +1,5 @@
 ---
-name: Chris Groof
+name: Chris Grooff
 image: images/team/20250818_Chris.jpg
 description: Master Student
 role: undergrad
