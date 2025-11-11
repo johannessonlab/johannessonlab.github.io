@@ -14,25 +14,13 @@ Our way of conducting research and teaching is highly collaborative, where all o
 
 ## Postdocs/Researchers
 
-We are hiring a research engineer and a postdoc. Applicants should have a strong interest in fungal biology.
-
-Find the positions here: [https://su.varbi.com/](https://su.varbi.com/)
-
-* Postdoc: SU FV-3097-25
-* Research engineer: SU FV-3098-25
-
-There are also several Swedish (e.g. Vetenskapsrådet, Wenner-Gren, Swedish Institute, Carl Tryggers) and international (e.g. Marie-Curie, Human Frontiers) funding bodies that provide fellowships for researchers who wish to conduct a post-doc with us. If you are interested in applying and your research interests are broadly similar to ours, please [contact Hanna Johannesson](mailto:hanna.johannesson@su.se).
+There are several Swedish (e.g. Vetenskapsrådet, Wenner-Gren, Swedish Institute, Carl Tryggers) and international (e.g. Marie-Curie, Human Frontiers) funding bodies that provide fellowships for researchers who wish to conduct a post-doc with us. If you are interested in applying and your research interests are broadly similar to ours, please contact Hanna Johannesson.
 
 {% include section.html %}
 
 ## PhD students
 
-We are currently hiring two PhD students. 
-
-Find the positions here: [https://su.varbi.com/](https://su.varbi.com/)
-
-* PhD student in Fungal Evolutionary Biology: SU FV-3100-25
-* PhD student in Fungal Biology: SU FV-3102-25
+We have no open positions for PhD-students at this point.
 
 {% include section.html %}
 
