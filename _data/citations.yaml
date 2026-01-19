@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1111/1462-2920.70203
+  title: "Different Patterns of Frequency, Lichen Specificity and Thallus Location\
+    \ Between the Yeast and Filamentous Phases of Two Lichen\u2010Inhabiting Basidiomycetes"
+  authors:
+  - Ana M. Millanes
+  - Veera Tuovinen Nogerius
+  - "Sandra Freire\u2010Rallo"
+  - Paul Diederich
+  - "Juan Peri\xE1\xF1ez"
+  - Martin Westberg
+  - Sonia Merinero
+  - Hanna Johannesson
+  - Mats Wedin
+  publisher: Environmental Microbiology
+  date: '2025-11-01'
+  link: https://doi.org/hbb27v
+  image: https://enviromicro-journals.onlinelibrary.wiley.com/cms/asset/3b55d184-e54e-436a-b2b5-9af4c113c0a2/emi70203-toc-0001-m.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: PMID:40811541
   title: Early germline sequestration in a basidiomycete fungus.
   authors:
@@ -53,7 +72,7 @@
   - Hanna Johannesson
   - Sven J. Saupe
   publisher: Microbial Genomics
-  date: '2025-07-02'
+  date: '2025-07-31'
   link: https://doi.org/g9wb7m
   image: images/paper_figures/10.1099_mgen.0.001442.png
   tags:
@@ -158,8 +177,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/gbe/evae034
-  title: High-Quality Genome Assemblies of 4 Members of the <i>Podospora anserina</i>
-    Species Complex
+  title: "High-Quality Genome Assemblies of 4 Members of the\n                   \
+    \ <i>Podospora anserina</i>\n                    Species Complex"
   authors:
   - "S Lorena Ament-Vel\xE1squez"
   - Aaron A Vogan
@@ -285,8 +304,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/jeb.14108
-  title: To self or not to self? Absence of mate choice despite costly outcrossing
-    in the fungus <i>Podospora anserina</i>
+  title: "To self or not to self? Absence of mate choice despite costly outcrossing\
+    \ in the fungus\n                    <i>Podospora anserina</i>"
   authors:
   - "Ivain Martinossi\u2010Allibert"
   - "Sandra Lorena Ament\u2010Vel\xE1squez"
@@ -309,7 +328,7 @@
   file: sources.yaml
 - id: doi:10.1111/evo.14630
   title: "Meiotic drive is associated with sexual incompatibility in\n           \
-    \ <i>Neurospora</i>"
+    \         <i>Neurospora</i>"
   authors:
   - Aaron A. Vogan
   - Jesper Svedberg
@@ -367,7 +386,7 @@
   file: sources.yaml
 - id: doi:10.1098/rspb.2022.0971
   title: "Nuclear-specific gene expression in heterokaryons of the filamentous ascomycete\n\
-    \            <i>Neurospora tetrasperma</i>"
+    \                    <i>Neurospora tetrasperma</i>"
   authors:
   - "C\xE9cile Meunier"
   - Iulia Darolti
@@ -541,8 +560,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/gr.267609.120
-  title: The <i>Enterprise</i>, a massive transposon carrying <i>Spok</i> meiotic
-    drive genes
+  title: "The\n                    <i>Enterprise</i>\n                    , a massive\
+    \ transposon carrying\n                    <i>Spok</i>\n                    meiotic\
+    \ drive genes"
   authors:
   - Aaron A. Vogan
   - "S. Lorena Ament-Vel\xE1squez"
@@ -763,7 +783,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1534/genetics.119.302122
-  title: Identification of<i>rfk-1</i>, a Meiotic Driver Undergoing RNA Editing in<i>Neurospora</i>
+  title: "Identification of\n                    <i>rfk-1</i>\n                  \
+    \  , a Meiotic Driver Undergoing RNA Editing in\n                    <i>Neurospora</i>"
   authors:
   - Nicholas A Rhoades
   - Austin M Harvey
@@ -912,8 +933,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1534/g3.116.033860
-  title: Epigenetic Control of Phenotypic Plasticity in the Filamentous Fungus<i>Neurospora
-    crassa</i>
+  title: "Epigenetic Control of Phenotypic Plasticity in the Filamentous Fungus\n\
+    \                    <i>Neurospora crassa</i>"
   authors:
   - Ilkka Kronholm
   - Hanna Johannesson
@@ -1009,7 +1030,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/gr.175653.114
-  title: 'Intron evolution in <i>Neurospora</i>: the role of mutational bias and selection'
+  title: "Intron evolution in\n                    <i>Neurospora</i>\n           \
+    \         : the role of mutational bias and selection"
   authors:
   - Yu Sun
   - Carrie A. Whittle
