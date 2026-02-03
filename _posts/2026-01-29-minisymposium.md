@@ -1,7 +1,7 @@
 ---
 title: Minisymposium on Fungal Evolution at DEEP
 tags:
-  - group
+  - conference
 author: Hanna Johannesson
 member: hanna-johannesson
 image: /images/news/IMG_0414.jpg

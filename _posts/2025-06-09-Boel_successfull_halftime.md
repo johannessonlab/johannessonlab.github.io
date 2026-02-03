@@ -3,6 +3,7 @@ title: Boel successfully gave her half-time seminar
 tags:
   - halftime
   - presentation
+  - defence
 author: Hanna Johannesson
 member: hanna-johannesson
 image: /images/news/250609_Boel_half_time.png

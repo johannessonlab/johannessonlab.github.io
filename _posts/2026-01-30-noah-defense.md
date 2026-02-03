@@ -2,6 +2,7 @@
 title: Noah successfully defended their thesis
 tags:
   - group
+  - defence
 author: Hanna Johannesson
 member: hanna-johannesson
 image: /images/news/IMG_0415.jpg
