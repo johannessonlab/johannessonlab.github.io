@@ -3,7 +3,7 @@ name: Chris Grooff
 image: images/team/20250818_Chris.jpg
 description: Master Student
 role: undergrad
-group: current
+group: alum
 aliases:
 links:
   home-page:
