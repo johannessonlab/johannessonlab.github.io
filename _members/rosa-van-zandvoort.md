@@ -1,8 +1,8 @@
 ---
 name: Rosa van Zandvoort
 image: images/team/rosa_van_zandvoort.jpg
-description: Master Student
-role: undergrad
+description: Research assistant
+role: assistant
 group: current
 aliases:
 links:
