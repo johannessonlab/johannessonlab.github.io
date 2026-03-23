@@ -1,8 +1,8 @@
 ---
 name: Noah Hensen
 image: images/team/noah.jpg
-description: PhD Student
-role: phd
+description: Researcher
+role: postdoc
 group: current
 aliases:
 links:
