@@ -1,6 +1,6 @@
 ---
 name: Shalya Moodley
-image: images/team/.jpg
+image: images/team/IMG_0477.JPG
 description: PhD Student
 role: phd
 group: current
