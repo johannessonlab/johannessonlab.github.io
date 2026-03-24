@@ -2,7 +2,7 @@
 name: Noah Hensen
 image: images/team/noah.jpg
 description: Researcher
-role: postdoc
+role: researcher
 group: current
 aliases:
 links:

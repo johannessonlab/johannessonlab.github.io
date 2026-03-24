@@ -39,6 +39,8 @@ nav:
 {% capture content %}
 [![Bergianska stiftelsen](/images/funding_logos/bergianska.png)](https://www.bergianska.se/)
 
+[![European Research Council](/images/funding_logos/LOGO-ERC.png)](https://erc.europa.eu/homepage)
+
 [![Vetenskapsrådet](/images/funding_logos/vr.png)](https://www.vr.se/)
 
 [![Carl Tryggers stiftelse](/images/funding_logos/CTS_logotyp.svg)](https://www.carltryggersstiftelse.se/)
