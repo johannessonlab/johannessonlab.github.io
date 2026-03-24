@@ -28,6 +28,19 @@ layout: default
   | array_filter
 %}
 
+<p>
+  {% if page.projects and page.projects != empty %}
+    {{ page.name | default: page.title }} is currently involved in the
+    {% for project in page.projects %}
+      <a href="{{ m.url | relative_url }}">
+      {{- project -}}
+      </a>
+      {%- if forloop.last == false %}, {%- endif %}
+    {%- endfor %}
+    project(s).
+  {%- endif %}
+</p>
+
 {% capture search -%}
   publications/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
@@ -41,6 +54,8 @@ layout: default
 {% capture search -%}
   news/?search={{ page.name }}
 {%- endcapture %}
+
+
 
 <!--
 <p class="center">
