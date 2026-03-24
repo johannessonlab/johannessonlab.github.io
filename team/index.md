@@ -37,13 +37,19 @@ nav:
 ## Funding
 
 {% capture content %}
-[![Bergianska stiftelsen](/images/funding_logos/bergianska.png)](https://www.bergianska.se/)
+[![Kungliga vetenskapsakademien](/images/funding_logos/201501-VA-Webb-Medlemsloggor-12.jpg)](https://www.kva.se/)
 
 [![European Research Council](/images/funding_logos/LOGO-ERC.png)](https://erc.europa.eu/homepage)
 
 [![Vetenskapsrådet](/images/funding_logos/vr.png)](https://www.vr.se/)
 
-[![Carl Tryggers stiftelse](/images/funding_logos/CTS_logotyp.svg)](https://www.carltryggersstiftelse.se/)
+[![Crafoordska stiftelsen](/images/funding_logos/crafoord_logo.png)](https://www.crafoord.se/en/)
+
+[![Helge Ax:son Johnsons stiftelse](/images/funding_logos/AxsonJohnsons-2.jpg)](https://www.haxsonj.se/)
+
+[![Olle Engkvists stiftelse](/images/funding_logos/oes-logo.png)](https://https://oes.se/)
+
+[![Sven och Lilly Lawskis fond för naturvetenskaplig forskning ](/images/funding_logos/logo.gif)](https://www.lawskistiftelsen.se/)
 
 [![LKAB Kiruna](/images/funding_logos/LKAB_logo_blue.svg)](https://lkab.com/en/)
 
