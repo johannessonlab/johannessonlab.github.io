@@ -3,7 +3,7 @@ name: Gulnara Tagirdzhanova
 image: images/team/250801_Gulnara.jpg
 description: Postdoc
 role: postdoc
-group: current
+group: alum
 aliases:
 links:
   home-page:
