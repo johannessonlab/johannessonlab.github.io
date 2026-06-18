@@ -348,7 +348,7 @@
   file: sources.yaml
 - id: doi:10.1073/pnas.2208575119
   title: "Stage-specific transposon activity in the life cycle of the fairy-ring mushroom\n\
-    \            <i>Marasmius oreades</i>"
+    \                    <i>Marasmius oreades</i>"
   authors:
   - Markus Hiltunen
   - "Sandra Lorena Ament-Vel\xE1squez"
