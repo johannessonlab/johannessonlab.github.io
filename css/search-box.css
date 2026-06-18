@@ -3,15 +3,17 @@
   margin: 20px 0;
   margin-left: auto;
   margin-right: auto;
-  width: 450px;
-  height: 40px;
-  max-width: 100%;
 }
 .search_box:first-child {
   margin-top: 0;
 }
 .search_box:last-child {
   margin-bottom: 0;
+}
+.search_box {
+  width: 450px;
+  height: 40px;
+  max-width: 100%;
 }
 .search_box button {
   display: inline-flex;

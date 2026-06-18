@@ -6,7 +6,6 @@ h4 {
   font-weight: 500;
   line-height: 1.2;
   margin: 40px 0 20px 0;
-  padding: 10px 0;
 }
 h1:first-child,
 h2:first-child,
@@ -19,6 +18,12 @@ h2:last-child,
 h3:last-child,
 h4:last-child {
   margin-bottom: 0;
+}
+h1,
+h2,
+h3,
+h4 {
+  padding: 10px 0;
 }
 
 h1 {

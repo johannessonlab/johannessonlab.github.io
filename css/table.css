@@ -1,12 +1,14 @@
 .table_wrapper {
   margin: 40px 0;
-  overflow-x: auto;
 }
 .table_wrapper:first-child {
   margin-top: 0;
 }
 .table_wrapper:last-child {
   margin-bottom: 0;
+}
+.table_wrapper {
+  overflow-x: auto;
 }
 .table_wrapper table {
   margin: 0 auto;
