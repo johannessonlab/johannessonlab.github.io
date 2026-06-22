@@ -2,6 +2,7 @@
 title: Rosa leaves the lab
 tags:
   - group
+  - members
 author: Hanna Johannesson
 member: hanna-johannesson
 image: /images/news/20260618_rosa_leaves_the_lab.JPG
