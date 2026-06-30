@@ -3,7 +3,7 @@ name: Rosa van Zandvoort
 image: images/team/rosa_van_zandvoort.jpg
 description: Research assistant
 role: assistant
-group: current
+group: alumn
 aliases:
 links:
   home-page:
