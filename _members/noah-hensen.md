@@ -3,7 +3,7 @@ name: Noah Hensen
 image: images/team/noah.jpg
 description: Researcher
 role: researcher
-group: current
+group: alumn
 aliases:
 links:
   home-page:
