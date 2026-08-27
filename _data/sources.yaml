@@ -1,3 +1,10 @@
+- id: doi:10.1098/rsos.260575
+  image: images/paper_figures/transect_boel.png
+  tags:
+    - Marasmius
+    - fairy ring
+    - soil
+    - metagenomics
 - id: doi:10.1111/1462-2920.70203
   image: https://enviromicro-journals.onlinelibrary.wiley.com/cms/asset/3b55d184-e54e-436a-b2b5-9af4c113c0a2/emi70203-toc-0001-m.jpg
 - id: PMID:40811541

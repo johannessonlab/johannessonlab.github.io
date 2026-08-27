@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1098/rsos.260575
+  title: "Spatial structure and growth dynamics of fairy rings formed by\n       \
+    \             <i>Marasmius oreades</i>"
+  authors:
+  - Boel Olsson
+  - "Markus H. Thor\xE9n"
+  - Ove Eriksson
+  - Hanna Johannesson
+  publisher: Royal Society Open Science
+  date: '2026-08-12'
+  link: https://doi.org/hcgv42
+  image: images/paper_figures/transect_boel.png
+  tags:
+  - Marasmius
+  - fairy ring
+  - soil
+  - metagenomics
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/1462-2920.70203
   title: "Different Patterns of Frequency, Lichen Specificity and Thallus Location\
     \ Between the Yeast and Filamentous Phases of Two Lichen\u2010Inhabiting Basidiomycetes"
