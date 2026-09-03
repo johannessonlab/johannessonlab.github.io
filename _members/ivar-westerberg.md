@@ -3,7 +3,7 @@ name: Ivar Westerberg
 image: images/team/ivar.jpg
 description: Researcher
 role: researcher
-group: current
+group: alum
 aliases:
 links:
   home-page:
