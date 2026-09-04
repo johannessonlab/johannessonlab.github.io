@@ -7,7 +7,7 @@ group: current
 aliases:
 links:
   home-page:
-  email:
+  email: marisol.sanchez@su.se
 projects:
   - Marasmius
 ---
