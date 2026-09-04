@@ -2,7 +2,7 @@
 name: Marisol Sanchez-Garcia
 image: images/team/IMG_4860.jpg
 description: Research Engineer
-role: postdoc
+role: researcher
 group: current
 aliases:
 links:
