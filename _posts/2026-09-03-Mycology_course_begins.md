@@ -1,8 +1,6 @@
 ---
 title: The popular scientific course started today!
 tags:
-  - group
-  - members
   - teaching
 author: Hanna Johannesson
 member: hanna-johannesson

@@ -1,8 +1,8 @@
 ---
 title: Boel’s paper in press and picked up on social media
 tags:
-  - group
-  - members
+  - research
+  - publication
   - Marasmius
 author: Hanna Johannesson
 member: hanna-johannesson
