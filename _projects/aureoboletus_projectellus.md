@@ -11,7 +11,7 @@ tooltip: Boletales
 tags:
   - Boletales
   - basidiomycota
-  - genomics
+  - population genomics
   - ectomycorrhizal fungi
 repo: 
 ---
