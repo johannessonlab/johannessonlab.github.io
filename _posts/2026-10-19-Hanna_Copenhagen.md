@@ -1,7 +1,7 @@
 ---
 title: Hanna at Copenhagen University
 tags:
-  - outreach
+  - defence
 author: Hanna Johannesson
 member: hanna-johannesson
 image: /images/news/cop_thesis.png
